@@ -26,3 +26,6 @@ Initial discussions about the topics that will covered in the hackathon [open di
 Find the schedule using this link [Open Science KE hackathon](https://github.com/BioinfoNet/OpenScienceKEHackathon/blob/master/hackathonschedule.md) and find the hackathon repository here [repository](https://github.com/BioinfoNet/OpenScienceKEHackathon)
 
 NB: This repository will be updated from time to time click on watch icon to stay up-to-date.
+
+# License
+All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
