@@ -13,7 +13,7 @@ We’ll be exploring various sources to discover the status of open science in K
 * Charles Kamonde Mwangi
 * Mary Maranga
 * Silviane Miruka
-* Rostand Romeo chamedjeu
+* Rostand Romeo Chamedjeu
 * Brian Kabunga Andika
 * Careen Naitore
 
