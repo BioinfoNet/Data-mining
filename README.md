@@ -9,12 +9,12 @@ We’ll be exploring various sources to discover the status of open science in K
 
 # Team members 
 
-Ben Mainye (Group Leader)
-Fridah Glelis Kariuki
-Sebastian Musundi
-Jennifer Mutisya
-Olivier Dayou
-Kennedy Wanjau Mwangi
+* Ben Mainye (Group Leader)
+* Fridah Glelis Kariuki
+* Sebastian Musundi
+* Jennifer Mutisya
+* Olivier Dayou
+* Kennedy Wanjau Mwangi
 
 Feel free to go through the resources before 30th and 31st August. In case of anything reach out if you have any comments or questions.
 
