@@ -1,4 +1,5 @@
-# Data Mining
+# Status of open science in Kenya: Data mining
+
 Goal: Data mining to discover trends in Open Science in Kenya
 
 In the past we had a workshop held on 9th and 10th August 2017 at the KENET training room, Jomo Kenyatta Memorial Library, the University of Nairobi for more information visit this [github page](https://bioinfonet.github.io/OpenScienceKE/). 
