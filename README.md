@@ -6,7 +6,14 @@ In the past we had a workshop held on 9th and 10th August 2017 at the KENET trai
 
 ## The agenda
 
-We’ll be exploring various sources to discover the status of open science in Kenya. Are researchers using open source tools in their publications, is their work reproducible by providing all data, code and protocols to redo the experiment or observational study. We’ll search for papers in journals using search using tools for instance, [Article retriever](https://github.com/esohkevin/OpenScienceKEHackathon/blob/master/EDirect.md), [pubmed.mineR](https://www.ncbi.nlm.nih.gov/pubmed/26564970), text mining using an application written in R programming language to determine information content and searching for trends of particular keywords across the internet.
+We’ll be exploring various sources to discover the status of open science in Kenya. Are researchers using open source tools in their publications, is their work reproducible by providing all data, code and protocols to redo the experiment or observational study. We’ll search for papers in journals using search using tools for instance, 
+1. [Article retriever](https://github.com/esohkevin/OpenScienceKEHackathon/blob/master/EDirect.md)
+2. [pubmed.mineR](https://www.ncbi.nlm.nih.gov/pubmed/26564970)
+3. [text mining](https://gettingappy.shinyapps.io/wordcloudunigrams/) using an application written in R programming language to determine information content and searching for trends of particular keywords across the internet.
+4. EBI web service https://europepmc.org/docs/EBI_Europe_PMC_Web_Service_Reference.pdf
+5. NVM  https://europepmc.org/docs/EBI_Europe_PMC_Web_Service_Reference.pdf
+6. code-cite https://github.com/softwaresaved/code-cite/blob/master/notebooks/getpapers.ipynb
+
 
 ## Team members 
 
