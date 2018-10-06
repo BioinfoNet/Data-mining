@@ -83,3 +83,43 @@ DOI: 10.2174/1874613601812010053
 PMCID: PMC6062910
 PMID: 30123385 
 
+
+1. Open AIDS J. 2018 Jul 19;12:53-67. doi: 10.2174/1874613601812010053. eCollection 
+2018.
+
+HIV Prevention in Adolescents and Young People in the Eastern and Southern
+African Region: A Review of Key Challenges Impeding Actions for an Effective
+Response.
+
+Govender K(1), Masebo WGB(1), Nyamaruze P(2), Cowden RG(3), Schunter BT(4), Bains
+A(4).
+
+Author information: 
+(1)Health Economics and HIV and AIDS Research Division, University of
+KwaZulu-Natal, Durban, South Africa.
+(2)School of Applied Human Sciences, University of KwaZulu-Natal, Durban, South
+Africa.
+(3)Department of Psychology, Middle Tennessee State University, Murfreesboro,
+United States of America.
+(4)UNICEF, Eastern and Southern Africa Regional Office, Nairobi, Kenya.
+
+The global commitment to ending the AIDS epidemic by 2030 places HIV prevention
+at the centre of the response. With the disease continuing to disproportionately 
+affect young populations in the Eastern and Southern African Region (ESAR),
+particularly adolescent girls and young women, reducing HIV infections in this
+group is integral to achieving this ambitious target. This paper examines
+epidemiological patterns of the HIV epidemic among adolescents and young people, 
+indicating where HIV prevention efforts need to be focused (i.e., adolescent
+girls and young women, adolescent boys and young men and young key populations). 
+Key innovations in the science of HIV prevention and strategies for dealing with 
+programme implementation are reviewed. The paper also discusses the value of
+processes to mitigate HIV vulnerability and recommends actions needed to sustain 
+the HIV prevention response. Stemming the tide of new HIV infections among young 
+people in the ESAR requires an amplification of efforts across all sectors, which
+will safeguard past achievements and advance actions towards eliminating AIDS as 
+a public health threat.
+
+DOI: 10.2174/1874613601812010053 
+PMCID: PMC6062910
+PMID: 30123385 
+
