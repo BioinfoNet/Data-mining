@@ -1,3 +1,4 @@
+pubmedid pmc journal_year
 30165703	NA	 J Infect Dis	 2018 Aug 24
 30165548	NA	 J Infect Dis	 2018 Aug 27
 30165370	NA	 PLoS One	 2018 Aug 30
