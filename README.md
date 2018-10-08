@@ -9,6 +9,8 @@ In the past we had a workshop held on 9th and 10th August 2017 at the KENET trai
 
 Find the schedule using this link [Open Science KE hackathon](https://github.com/BioinfoNet/OpenScienceKEHackathon/blob/master/hackathonschedule.md) and find the hackathon repository here [repository](https://github.com/BioinfoNet/OpenScienceKEHackathon). Initial discussions about the topics that will covered in the hackathon [open discussions](https://github.com/BioinfoNet/OpenScienceKEHackathon/issues)
 
+See the data-mining report [here](data_analysis_report.md). 
+
 ## Agenda
 
 We’ll be exploring various sources to discover the status of open science in Kenya. Are researchers using open source tools in their publications, is their work reproducible by providing all data, code and protocols to redo the experiment or observational study. We’ll search for papers in journals using search using tools for instance, 
