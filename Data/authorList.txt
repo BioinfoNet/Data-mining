@@ -1,0 +1,2270 @@
+Id	AuthorList	DOI	EPubDate	FullJournalName	HasAbstract	LastAuthor	NlmUniqueID	PubDate	PubTypeList	RecordStatus	Source	Title
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30099603	['McCauley DJ', 'Graham SI', 'Dawson TE', 'Power ME', 'Ogada M', 'Nyingi WD', 'Githaiga JM', 'Nyunja J', 'Hughey LF', 'Brashares JS']	
+30097680	['Nguyen-Viet H', 'Grace D', 'McDermott J']	
+30097679	['Worrall R', 'Kjaerulf F']	
+30097027	['Rachlis B', 'Naanyu V', 'Wachira J', 'Genberg B', 'Koech B', 'Kamene R', 'Akinyi J', 'Braitstein P']	
+300962
+30096
+30096
+30096
+30096
+30095545	['Pitsiladis YP', 'Carty C', 'Ferriani I', 'Lewis S', 'Vitello M', 'Crooks C', 'Liljelund J', 'Loroupe T', 'Eades D', 'Mountjoy M', 'Pigozzi F']	
+3009436
+30094029	['Marangu D', 'Pillay K', 'Banderker E', 'Gray D', 'Vanker A', 'Zampoli M']	
+30092769	['Ngugi JN', 'Maza AK', 'Omolo OJ', 'Obonyo M']	
+30092043	['Kapesa A', 'Kweka EJ', 'Atieli H', 'Afrane YA', 'Kamugisha E', 'Lee MC', 'Zhou G', 'Githeko AK', 'Yan G']	
+30090868	['Githui SN', 'Chege M', 'Wagoro MC', 'Mwaura J']	
+30089497	['Namageyo-Funa A', 'Aketch M', 'Tabu C', 'MacNeil A', 'Bloland P']	
+30089
+30089
+30088
+30087298	['Alexander KT', 'Zulaika G', 'Nyothach E', 'Oduor C', 'Mason L', 'Obor D', 'Eleveld A', 'Laserson KF', 'Phillips-Howard PA']	
+3008729
+30087242	['Leyvraz M', 'Mizéhoun-Adissoda C', 'Houinato D', 'Moussa Baldé N', 'Damasceno A', 'Viswanathan B', 'Amyunzu-Nyamongo M', 'Owuor J', 'Chiolero A', 'Bovet P']	
+30085844	['Osman H', 'Shrestha S', 'Temin S', 'Ali ZV', 'Corvera RA', 'Ddungu HD', 'De Lima L', 'Del Pilar Estevez-Diz M', 'Ferris FD', 'Gafer N', 'Gupta HK', 'Horton S', 'Jacob G', 'Jia R', 'Lu FL', 'Mosoiu D', 'Puchalski C', 'Seigel C', 'Soyannwo O', 'Cleary JF']	
+30084344	"['Schilling KA', 'Awuor AO', 'Rajasingham A', 'Moke F', 'Omore R', 'Amollo M', 'Farag TH', 'Nasrin D', 'Nataro JP', 'Kotloff KL', 'Levine MM', 'Ayers T', 'Laserson K', 'Blackstock A', 'Rothenberg R', 'Stauber CE', 'Mintz E', 'Breiman RF', ""O'Reilly CE""]"	
+3008404
+30083863	['Mutua F', 'Onono J', 'Bruck A', 'Makau L']	
+30083452	['Obura DO', 'Bigot L', 'Benzoni F']	
+30083085	['Lianto P', 'Ogutu FO', 'Zhang Y', 'He F', 'Che H']	
+3008
+30080875	['Amu H', 'Dickson KS', 'Kumi-Kyereme A', 'Darteh EKM']	
+30080
+30079765	['Gillespie S', 'Hoddinott J', 'Nisbett N', 'Arifeen S', 'van den Bold M']	
+3007975
+30079
+30077450	['Aliloo H', 'Mrode R', 'Okeyo AM', 'Ni G', 'Goddard ME', 'Gibson JP']	
+30076833	['Bernard C', 'Pekny C', 'Omukagah CO', 'Bernard CO', 'Manji I', 'Pastakia SD', 'Christoffersen-Deb A']	
+30076693	['Brotherton BJ']	
+30074646	['Umeh CA']	
+30074642	['Mbau R', 'Barasa E', 'Munge K', 'Mulupi S', 'Nguhiu PK', 'Chuma J']	
+30073452	['Atherstone C', 'Galiwango RG', 'Grace D', 'Alonso S', 'Dhand NK', 'Ward MP', 'Mor SM']	
+3007274
+30072434	"['Karp DS', 'Chaplin-Kramer R', 'Meehan TD', 'Martin EA', 'DeClerck F', 'Grab H', 'Gratton C', 'Hunt L', 'Larsen AE', 'Martínez-Salinas A', ""O'Rourke ME"", 'Rusch A', 'Poveda K', 'Jonsson M', 'Rosenheim JA', 'Schellhorn NA', 'Tscharntke T', 'Wratten SD', 'Zhang W', 'Iverson AL', 'Adler LS', 'Albrecht M', 'Alignier A', 'Angelella GM', 'Zubair Anjum M', 'Avelino J', 'Batáry P', 'Baveco JM', 'Bianchi FJJA', 'Birkhofer K', 'Bohnenblust EW', 'Bommarco R', 'Brewer MJ', 'Caballero-López B', 'Carrière Y', 'Carvalheiro LG', 'Cayuela L', 'Centrella M', 'Ćetković A', 'Henri DC', 'Chabert A', 'Costamagna AC', 'De la Mora A', 'de Kraker J', 'Desneux N', 'Diehl E', 'Diekötter T', 'Dormann CF', 'Eckberg JO', 'Entling MH', 'Fiedler D', 'Franck P', 'Frank van Veen FJ', 'Frank T', 'Gagic V', 'Garratt MPD', 'Getachew A', 'Gonthier DJ', 'Goodell PB', 'Graziosi I', 'Groves RL', 'Gurr GM', 'Hajian-Forooshani Z', 'Heimpel GE', 'Herrmann JD', 'Huseth AS', 'Inclán DJ', 'Ingrao AJ', 'Iv P', 'Jacot K', 'Johnson GA', 'Jones L', 'Kaiser M', 'Kaser JM', 'Keasar T', 'Kim TN', 'Kishinevsky M', 'Landis DA', 'Lavandero B', 'Lavigne C', 'Le Ralec A', 'Lemessa D', 'Letourneau DK', 'Liere H', 'Lu Y', 'Lubin Y', 'Luttermoser T', 'Maas B', 'Mace K', 'Madeira F', 'Mader V', 'Cortesero AM', 'Marini L', 'Martinez E', 'Martinson HM', 'Menozzi P', 'Mitchell MGE', 'Miyashita T', 'Molina GAR', 'Molina-Montenegro MA', ""O'Neal ME"", 'Opatovsky I', 'Ortiz-Martinez S', 'Nash M', 'Östman Ö', 'Ouin A', 'Pak D', 'Paredes D', 'Parsa S', 'Parry H', 'Perez-Alvarez R', 'Perović DJ', 'Peterson JA', 'Petit S', 'Philpott SM', 'Plantegenest M', 'Plećaš M', 'Pluess T', 'Pons X', 'Potts SG', 'Pywell RF', 'Ragsdale DW', 'Rand TA', 'Raymond L', 'Ricci B', 'Sargent C', 'Sarthou JP', 'Saulais J', 'Schäckermann J', 'Schmidt NP', 'Schneider G', 'Schüepp C', 'Sivakoff FS', 'Smith HG', 'Stack Whitney K', 'Stutz S', 'Szendrei Z', 'Takada MB', 'Taki H', 'Tamburini G', 'Thomson LJ', 'Tricault Y', 'Tsafack N', 'Tschumi M', 'Valantin-Morison M', 'Van Trinh M', 'van der Werf W', 'Vierling KT', 'Werling BP', 'Wickens JB', 'Wickens VJ', 'Woodcock BA', 'Wyckhuys K', 'Xiao H', 'Yasuda M', 'Yoshioka A', 'Zou Y']"	
+30072372	['Koladycz R', 'Fernandez G', 'Gray K', 'Marriott H']	
+3007
+3007
+3007
+30069983	['Sudhinaraset M', 'Afulani PA', 'Diamond-Smith N', 'Golub G', 'Srivastava A']	
+3006923
+30069093	['Mwita CC', 'Koech F', 'Sisenda T', 'Patel K', 'Macharia B', 'Rahangdale D']	
+30069075	['Cuni-Sanchez A', 'Pfeifer M', 'Marchant R', 'Pompeu PV', 'Burgess ND']	
+3006850
+300678
+30067272	['Sani MU', 'Davison BA', 'Cotter G', 'Mayosi BM', 'Edwards C', 'Ogah OS', 'Damasceno A', 'Ojji DB', 'Dzudie A', 'Mondo C', 'Kouam CK', 'Suliman A', 'Yonga G', 'Ba SA', 'Maru F', 'Alemayehu B', 'Sliwa K']	
+300666
+30065835	['Kapesa A', 'Kweka EJ', 'Zhou G', 'Atieli HE', 'Kamugisha E', 'Mazigo HD', 'Ngallaba SE', 'Githeko AK', 'Yan G']	
+30064968	['Green EP', 'Augustine A', 'Naanyu V', 'Hess AK', 'Kiwinda L']	
+30064498	['Kahindi SC', 'Muriu S', 'Derua YA', 'Wang X', 'Zhou G', 'Lee MC', 'Mwangangi J', 'Atieli H', 'Githeko AK', 'Yan G']	
+30064
+3006365
+30063649	['Kose J', 'Tiam A', 'Ochuka B', 'Okoth E', 'Sunguti J', 'Waweru M', 'Mwangi E', 'Wolters T', 'Rakhmanina N']	
+30062482	['Mutiso VN', 'Musyimi CW', 'Rebello TJ', 'Gitonga I', 'Tele A', 'Pike KM', 'Ndetei DM']	
+3006
+3006
+3006
+30059706	['Patel NB']	
+30058955	['Mohamed D', 'Diamond-Smith N', 'Njunguru J']	
+30057796	['van Kampen SC', 'Wanner A', 'Edwards M', 'Harries AD', 'Kirenga BJ', 'Chakaya J', 'Jones R']	
+30056650	['Onyango AA', 'Dickhoefer U', 'Rufino MC', 'Butterbach-Bahl K', 'Goopy JP']	
+3005558
+30055576	['Oyugi B', 'Kioko U', 'Kaboro SM', 'Okumu C', 'Ogola-Munene S', 'Kalsi S', 'Thiani S', 'Gikonyo S', 'Korir J', 'Baltazar B', 'Ranji M']	
+30055002	['Green EP', 'Cho H', 'Gallis J', 'Puffer ES']	
+3005326
+30053035	['Nzinga J', 'McGivern G', 'English M']	
+30052939	['Suchman L', 'Hart BA', 'Montagu D']	
+30052335	['Ishaku SM', 'Diop N', 'Mané B', 'Liambila W', 'RamaRao S', 'Clark H', 'Birungi H', 'Unumeri G', 'Obare F']	
+3005
+3005
+3005
+30050960	['Mukokinya MMA', 'Opanga S', 'Oluka M', 'Godman B']	
+30050953	['Georges TM', 'Justin M', 'Victor M', 'Marie KJ', 'Mark R', 'Léopold MMK']	
+30050752	['Oliveira JP', 'André MR', 'Alves Júnior JRF', 'Lustosa APG', 'Werther K']	
+300506
+30049267	['Ginsburg C', 'Bocquier P', 'Béguy D', 'Afolabi S', 'Kahn K', 'Obor D', 'Tanser F', 'Tomita A', 'Wamukoya M', 'Collinson MA']	
+30048982	['Rowlands A', 'Ameyaw E', 'Rutagarama F', 'Dipesalema J', 'Majaliwa ES', 'Mbogo J', 'Ogle GD', 'Chanoine JP']	
+30047987	['Senkomago V', 'Ting J', 'Kwatampora J', 'Gukare H', 'Mugo N', 'Kimani J', 'Smith JS']	
+30047573	['Lajoie J', 'Birse K', 'Mwangi L', 'Chen Y', 'Cheruiyot J', 'Akolo M', 'Mungai J', 'Boily-Larouche G', 'Romas L', 'Mutch S', 'Kimani M', 'Oyugi J', 'Ho EA', 'Burgener A', 'Kimani J', 'Fowke KR']	
+30047080	['Pricilla RA', 'Brown M', 'Wexler C', 'Maloba M', 'Gautney BJ', 'Finocchario-Kessler S']	
+300463
+300457
+30045700	['Pilgrim NA', 'Okal J', 'Matheka J', 'Mukui I', 'Kalibala S']	
+30044888	['Thompson J', 'Undie CC', 'Amin A', 'Johnson BR', 'Khosla R', 'Ouedraogo L', 'Nkurunziza T', 'Rich S', 'Westley E', 'Garcia M', 'Birungi H', 'Askew I']	
+30044834	['Ominde M', 'Sande J', 'Ooko M', 'Bottomley C', 'Benamore R', 'Park K', 'Ignas J', 'Maitland K', 'Bwanaali T', 'Gleeson F', 'Scott A']	
+30044335	['Pintye J', 'Singa B', 'Wanyonyi K', 'Itindi J', 'Kinuthia J', 'Langat A', 'Nganga L', 'Katana A', 'Baeten J', 'McGrath CJ', 'John-Stewart GC']	
+3004
+3004
+3004
+30039785	['Ho A', 'Mallewa J', 'Peterson I', 'SanJoaquin M', 'Garg S', 'Bar-Zeev N', 'Menyere M', 'Alaerts M', 'Mapurisa G', 'Chilombe M', 'Nyirenda M', 'Lalloo DG', 'Rothe C', 'Widdowson MA', 'McMorrow M', 'French N', 'Everett D', 'Heyderman RS']	
+300395
+30038869	['Wainaina JM', 'Ateka E', 'Makori T', 'Kehoe MA', 'Boykin LM']	
+30038793	"['Sangraula M', ""Van't Hof E"", 'Luitel NP', 'Turner EL', 'Marahatta K', 'Nakao JH', 'van Ommeren M', 'Jordans MJD', 'Kohrt BA']"	
+3003877
+30038503	['Okyere A', 'Bishoff D', 'Oyaro MO', 'Ajami NJ', 'Darkoh C']	
+30038420	['Morpeth SC', 'Munywoki P', 'Hammitt LL', 'Bett A', 'Bottomley C', 'Onyango CO', 'Murdoch DR', 'Nokes DJ', 'Scott JAG']	
+30037876	['Gathara D', 'Serem G', 'Murphy GAV', 'Abuya N', 'Kuria R', 'Tallam E', 'English M']	
+300373
+30037280	['Leidman E', 'Mwirigi LM', 'Maina-Gathigi L', 'Wamae A', 'Imbwaga AA', 'Bilukha OO']	
+300372
+30036382	['Clark MHA', 'Warimwe GM', 'Di Nardo A', 'Lyons NA', 'Gubbins S']	
+30036072	"['Pintye J', 'Beima-Sofie KM', ""Makabong'O PA"", 'Njoroge A', 'Trinidad SB', 'Heffron RA', 'Baeten JM', 'Celum C', 'Matemo D', 'Kinuthia J', 'Kelley MC', 'John-Stewart GC']"	
+30033563	['Friedland BA', 'Sprague L', 'Nyblade L', 'Baral SD', 'Pulerwitz J', 'Gottert A', 'Amanyeiwe U', 'Cheng A', 'Mallouris C', 'Anam F', 'Jackson A', 'Geibel S']	
+30033535	['Bhattacharjee P', 'Morales GJ', 'Kilonzo TM', 'Dayton RL', 'Musundi RT', 'Mbole JM', 'Malaba SJ', 'Ogwang BE', 'Isac SK', 'Moses S', 'Musyoki HK']	
+300335
+30033078	['Ndila CM', 'Uyoga S', 'Macharia AW', 'Nyutu G', 'Peshu N', 'Ojal J', 'Shebe M', 'Awuondo KO', 'Mturi N', 'Tsofa B', 'Sepúlveda N', 'Clark TG', 'Band G', 'Clarke G', 'Rowlands K', 'Hubbart C', 'Jeffreys A', 'Kariuki S', 'Marsh K', 'Mackinnon M', 'Maitland K', 'Kwiatkowski DP', 'Rockett KA', 'Williams TN', 'MalariaGEN Consortium.']	
+30032975	['Bekker LG', 'Alleyne G', 'Baral S', 'Cepeda J', 'Daskalakis D', 'Dowdy D', 'Dybul M', 'Eholie S', 'Esom K', 'Garnett G', 'Grimsrud A', 'Hakim J', 'Havlir D', 'Isbell MT', 'Johnson L', 'Kamarulzaman A', 'Kasaie P', 'Kazatchkine M', 'Kilonzo N', 'Klag M', 'Klein M', 'Lewin SR', 'Luo C', 'Makofane K', 'Martin NK', 'Mayer K', 'Millett G', 'Ntusi N', 'Pace L', 'Pike C', 'Piot P', 'Pozniak A', 'Quinn TC', 'Rockstroh J', 'Ratevosian J', 'Ryan O', 'Sippel S', 'Spire B', 'Soucat A', 'Starrs A', 'Strathdee SA', 'Thomson N', 'Vella S', 'Schechter M', 'Vickerman P', 'Weir B', 'Beyrer C']	
+3003
+3003
+30029620	['Gondwe T', 'Robberstad B', 'Mukaka M', 'Lange S', 'Blomberg B', 'Phiri K']	
+30029
+30028852	['Young N', 'Taegtmeyer M', 'Aol G', 'Bigogo GM', 'Phillips-Howard PA', 'Hill J', 'Laserson KF', 'Ter Kuile F', 'Desai M']	
+30028209	['Geresomo NC', 'Mbuthia EK', 'Matofari JW', 'Mwangwela AM']	
+30027825	['Hennegan J', 'Shannon AK', 'Schwab KJ', 'PMA2020 investigators.']	
+30027750	['Winter S', 'Barchi F', 'Dzombo MN']	
+30027668	['Camlin CS', 'Akullian A', 'Neilands TB', 'Getahun M', 'Eyul P', 'Maeri I', 'Ssali S', 'Geng E', 'Gandhi M', 'Cohen CR', 'Kamya MR', 'Odeny T', 'Bukusi EA', 'Charlebois ED']	
+30027
+30026746	['Badji A', 'Otim M', 'Machida L', 'Odong T', 'Kwemoi DB', 'Okii D', 'Agbahoungba S', 'Mwila N', 'Kumi F', 'Ibanda A', 'Mugo S', 'Kyamanywa S', 'Rubaihayo P']	
+30026
+30025968	['Sandlund J', 'Lim S', 'Queralto N', 'Huang R', 'Yun J', 'Taba B', 'Song R', 'Odero R', 'Ouma G', 'Sitati R', 'Murithi W', 'Cain KP', 'Banaei N']	
+30025807	['Seale AC', 'Agarwal R']	
+30024908	['Pulerwitz J', 'Mathur S', 'Woznica D']	
+30024805	['Chang A', 'Patberg E', 'Cueto V', 'Li H', 'Singh B', 'Kenya S', 'Alonzo Y', 'Carrasquillo O']	
+30024433	['Anyango R', 'Ojwando J', 'Mwita C', 'Mugalo E']	
+3002
+3002
+30020964	['Stringer EM', 'Kendall MA', 'Lockman S', 'Campbell TB', 'Nielsen-Saines K', 'Sawe F', 'Cu-Uvin S', 'Wu X', 'Currier JS']	
+30020940	['McGillen JB', 'Stover J', 'Klein DJ', 'Xaba S', 'Ncube G', 'Mhangara M', 'Chipendo GN', 'Taramusi I', 'Beacroft L', 'Hallett TB', 'Odawo P', 'Manzou R', 'Korenromp EL']	
+30020479	['Skoracki M', 'Hromada M', 'Zmudzinski M', 'Unsoeld M', 'Sikora B']	
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+30009273	['Kirigia D', 'Winkelmann T', 'Kasili R', 'Mibus H']	
+30009
+3000679
+300064
+30006028	['Chepkorir E', 'Venter M', 'Lutomiah J', 'Mulwa F', 'Arum S', 'Tchouassi DP', 'Sang R']	
+30005662	['Smythe T', 'Le G', 'Owen R', 'Ayana B', 'Hansen L', 'Lavy C']	
+30005643	"['Mwangi N', ""Ng'ang'a M"", 'Gakuo E', 'Gichuhi S', 'Macleod D', 'Moorman C', 'Muthami L', 'Tum P', 'Jalango A', 'Githeko K', 'Gichangi M', 'Kibachio J', 'Bascaran C', 'Foster A']"	
+30005025	['Musinguzi N', 'Muwonge T', 'Ngure K', 'Katabira E', 'Mugo N', 'Burns BFO', 'Baeten JM', 'Heffron R', 'Haberer JE', 'Partners Mobile Adherence to PrEP (PMAP) Team.']	
+30005020	['Duarte HA', 'Beck IA', 'Levine M', 'Kiptinness C', 'Kingoo JM', 'Chohan B', 'Sakr SR', 'Chung MH', 'Frenkel LM']	
+30004392	['Mbuthia JK', 'Kabera BM', 'Karuga R', 'Ivui G', 'Mainye S', 'Chanzu NM', 'Digolo L']	
+30003850	['Haacker M', 'Birungi C']	
+3000292
+300029
+30002808	['Ankamah S', 'Nokoe KS', 'Iddrisu WA']	
+3000272
+300020
+3000
+3000
+3000
+3000
+29998
+29998027	['Mutiso SK', 'Oindi FM', 'Hacking N', 'Obura T']	
+299974
+29996854	['Gonsalves L', 'Hindin MJ', 'Bayer A', 'Carcamo CP', 'Gichangi P', 'Habib N', 'Mwaisaka J', 'Say L']	
+29996852	['Darwinkel MC', 'Nduru JM', 'Nabie RW', 'Aswani JA']	
+29996838	['Uzochukwu B', 'Onwujekwe E', 'Mbachu C', 'Okeke C', 'Molyneux S', 'Gilson L']	
+29996783	['Tweed CD', 'Crook AM', 'Amukoye EI', 'Dawson R', 'Diacon AH', 'Hanekom M', 'McHugh TD', 'Mendel CM', 'Meredith SK', 'Murphy ME', 'Murthy SE', 'Nunn AJ', 'Phillips PPJ', 'Singh KP', 'Spigelman M', 'Wills GH', 'Gillespie SH']	
+29996580	['Tama E', 'Molyneux S', 'Waweru E', 'Tsofa B', 'Chuma J', 'Barasa E']	
+29995942	['Keogh SC', 'Stillman M', 'Awusabo-Asare K', 'Sidze E', 'Monzón AS', 'Motta A', 'Leong E']	
+299957
+299957
+299949
+29994832	['Modi S', 'Broyles LN', 'Montandon M', 'Itoh M', 'Ochanda B', 'Langat A', 'Sullivan D', 'Dale H']	
+29992326	['Lin Y', 'Chen F', 'Lin S', 'Huang P', 'Akutse KS', 'Yu D', 'Gao Y']	
+2999
+2999
+29989
+29989082	['Rockers PC', 'Laing RO', 'Wirtz VJ']	
+29989036	['Barasa E', 'Nguhiu P', 'McIntyre D']	
+29988829	['Sitt T', 'Poole EJ', 'Ndambuki G', 'Mwaura S', 'Njoroge T', 'Omondi GP', 'Mutinda M', 'Mathenge J', 'Prettejohn G', 'Morrison WI', 'Toye P']	
+29988760	['Mugasa CM', 'Villinger J', 'Gitau J', 'Ndungu N', 'Marc Ciosi', 'Masiga D']	
+29988689	['Mecha JO', 'Kubo EN', 'Nganga LW', 'Muiruri PN', 'Njagi LN', 'Ilovi S', 'Ngethe R', 'Mutisya I', 'Ngugi EW', 'Maleche-Obimbo E']	
+29988499	['Morroni G', 'Alvarez-Suarez JM', 'Brenciani A', 'Simoni S', 'Fioriti S', 'Pugnaloni A', 'Giampieri F', 'Mazzoni L', 'Gasparrini M', 'Marini E', 'Mingoia M', 'Battino M', 'Giovanetti E']	
+29988002	['Valice EM', 'Wiegand RE', 'Mwinzi PNM', 'Karanja DMS', 'Williamson JM', 'Ochola E', 'Samuels A', 'Verani JR', 'Leon JS', 'Secor WE', 'Montgomery SP']	
+29986753	['Kinyoki DK', 'Moloney GM', 'Uthman OA', 'Odundo EO', 'Kandala NB', 'Noor AM', 'Snow RW', 'Berkley JA']	
+29985263	['Apondi E', 'Humphrey JM', 'Sang E', 'Mwangi A', 'Keter A', 'Musick BS', 'Nalugoda FK', 'Ssali J', 'Bukusi E', 'Yiannoutsos CT', 'Wools-Kaloustian K', 'Ayaya S']	
+29984422	['Kazungu JS', 'Barasa EW', 'Obadha M', 'Chuma J']	
+29984002	['Obey JK', 'Ngeiywa MM', 'Kiprono P', 'Omar S', 'von Wright A', 'Kauhanen J', 'Tikkanen-Kaukanen C']	
+29983944	['Mbondo NN', 'Owino WO', 'Ambuko J', 'Sila DN']	
+29982707	['Nixon CP', 'Nixon CE', 'Michelow IC', 'Silva-Viera RA', 'Colantuono B', 'Obeidallah AS', 'Jha A', 'Dockery D', 'Raj D', 'Park S', 'Duffy PE', 'Kurtis JD']	
+2998
+29980230	['Morgan R', 'Ayiasi RM', 'Barman D', 'Buzuzi S', 'Ssemugabo C', 'Ezumah N', 'George AS', 'Hawkins K', 'Hao X', 'King R', 'Liu T', 'Molyneux S', 'Muraya KW', 'Musoke D', 'Nyamhanga T', 'Ros B', 'Tani K', 'Theobald S', 'Vong S', 'Waldman L']	
+29979930	['Wachira J', 'Genberg B', 'Kafu C', 'Koech B', 'Akinyi J', 'Owino RK', 'Laws MB', 'Wilson IB', 'Braitstein P']	
+29979888	['Mutiso JM', 'Okello JJ', 'Lagerkvist CJ', 'Muoki P', 'Kosura WO', 'Heck S']	
+29979708	['Muhonja CN', 'Makonde H', 'Magoma G', 'Imbuga M']	
+29979704	['George G', 'Chetty T', 'Strauss M', 'Inoti S', 'Kinyanjui S', 'Mwai E', 'Romo ML', 'Oruko F', 'Odhiambo JO', 'Nyaga E', 'Mantell JE', 'Govender K', 'Kelvin EA']	
+29979094	['Jena AK']	
+2997797
+29977906	"['Musyoka JN', ""Abong' GO"", 'Mbogo DM', 'Fuchs R', 'Low J', 'Heck S', 'Muzhingi T']"	
+2997622
+299762
+29976204	['Ishengoma DS', 'Mmbando BP', 'Mandara CI', 'Chiduo MG', 'Francis F', 'Timiza W', 'Msemo H', 'Kijazi A', 'Lemnge MM', 'Malecela MN', 'Snow RW', 'Alifrangis M', 'Bygbjerg IC']	
+29975780	"['Amadi JA', 'Olago DO', ""Ong'amo GO"", 'Oriaso SO', 'Nanyingi M', 'Nyamongo IK', 'Estambale BBA']"	
+29974672	['Liu AY', 'De Rosa SC', 'Guthrie BL', 'Choi RY', 'Kerubo-Bosire R', 'Richardson BA', 'Kiarie J', 'Farquhar C', 'Lohman-Payne B']	
+29974329	['Tomlinson JA', 'Horak IG', 'Apanaskevich DA']	
+29974027	"['Okumu M', 'Ochola F', 'Bodo C', 'Apuoyo K', 'Odhiambo N', ""Ng'ong'a A""]"	
+29973544	['Owili PO', 'Muga MA', 'Kuo HW']	
+29972632	['Arrivé E', 'Ayaya S', 'Davies MA', 'Chimbetete C', 'Edmonds A', 'Lelo P', 'Fong SM', 'Razali KA', 'Kouakou K', 'Duda SN', 'Leroy V', 'Vreeman RC', 'IeDEA Pediatric Working Group.']	
+29972099	['Klingberg-Allvin M', 'Atuhairwe S', 'Cleeve A', 'Byamugisha JK', 'Larsson EC', 'Makenzius M', 'Oguttu M', 'Gemzell-Danielsson K']	
+2997
+2997
+2997
+2997
+29970950	['Rurangwa E', 'Vanlauwe B', 'Giller KE']	
+29970949	['van Heerwaarden J', 'Baijukya F', 'Kyei-Boahen S', 'Adjei-Nsiah S', 'Ebanyat P', 'Kamai N', 'Wolde-Meskel E', 'Kanampiu F', 'Vanlauwe B', 'Giller K']	
+29970946	['Franke AC', 'van den Brand GJ', 'Vanlauwe B', 'Giller KE']	
+29970945	['Ndungu SM', 'Messmer MM', 'Ziegler D', 'Gamper HA', 'Mészáros É', 'Thuita M', 'Vanlauwe B', 'Frossard E', 'Thonar C']	
+29970944	['Thuita M', 'Vanlauwe B', 'Mutegi E', 'Masso C']	
+29970943	['Wolde-Meskel E', 'van Heerwaarden J', 'Abdulkadir B', 'Kassa S', 'Aliyi I', 'Degefu T', 'Wakweya K', 'Kanampiu F', 'Giller KE']	
+29970874	['Simiyu BM', 'Oduor SO', 'Rohrlack T', 'Sitoki L', 'Kurmayer R']	
+29970
+29970063	['Swanson M', 'Ibrahim S', 'Blat C', 'Oketch S', 'Olwanda E', 'Maloba M', 'Huchko MJ']	
+29968733	['Matsumoto-Oda A', 'Okamoto K', 'Takahashi K', 'Ohira H']	
+29968634	['Ngugi P', 'Were MC', 'Babic A']			Studies in health technology and informatics	
+29968334	['Oduor FO', 'Boedecker J', 'Kennedy G', 'Mituki-Mungiria D', 'Termote C']	
+29968096	['Kaseje N', 'Pinard J', 'Louis WFJ', 'MacLee JL', 'Jeudy AP', 'Ford H']	
+29967622	['Ondigo BN', 'Muok EMO', 'Oguso JK', 'Njenga SM', 'Kanyi HM', 'Ndombi EM', 'Priest JW', 'Kittur N', 'Secor WE', 'Karanja DMS', 'Colley DG']	
+29967
+299668
+29966508	['Asiki G', 'Mohamed SF', 'Wambui D', 'Wainana C', 'Muthuri S', 'Ramsay M', 'Kyobutungi C', 'as members of AWI-Gen the H3Africa Consortium.']	
+29965975	"['Subaiya S', 'Tabu C', ""N'ganga J"", 'Awes AA', 'Sergon K', 'Cosmas L', 'Styczynski A', 'Thuo S', 'Lebo E', 'Kaiser R', 'Perry R', 'Ademba P', 'Kretsinger K', 'Onuekwusi I', 'Gary H', 'Scobie HM']"	
+29965948	['Saleska JL', 'Turner AN', 'Syvertsen J', 'Nakhumwa J', 'Soo L', 'Ohaga S', 'Agot K']	
+29963559	['Patel SJ', 'Subbiah S', 'Jones R', 'Muigai F', 'Rothschild CW', 'Omwodo L', 'Ogolla T', 'Kimenju G', 'Pearson N', 'Meadows A', 'Nour NM']	
+2996
+2996
+29960098	['Oyaro MO', 'Plants-Paris K', 'Bishoff D', 'Malonza P', 'Gontier CS', 'DuPont HL', 'Darkoh C']	
+29959539	['Vajda S', 'Karargyris A', 'Jaeger S', 'Santosh KC', 'Candemir S', 'Xue Z', 'Antani S', 'Thoma G']	
+29959405	['Frings M', 'Lakes T', 'Müller D', 'Khan MMH', 'Epprecht M', 'Kipruto S', 'Galea S', 'Gruebner O']	
+29959335	['Karthik S', 'Djukic T', 'Kim JD', 'Zuber B', 'Makanya A', 'Odriozola A', 'Hlushchuk R', 'Filipovic N', 'Jin SW', 'Djonov V']	
+29959274	['Sarma S', 'Nemser B', 'Cole-Lewis H', 'Kaonga N', 'Negin J', 'Namakula P', 'Ohemeng-Dapaah S', 'Kanter AS']	
+29958738	"['SteelFisher GK', 'Blendon RJ', 'Haydarov R', 'Lodge W 2nd', 'Caporello H', 'Guirguis S', 'Anand S', 'Birungi J', 'Williams MR', 'Ben-Porath EN', ""O'Reilly D"", 'Sahm C']"	
+29958072	['Coyne DL', 'Cortada L', 'Dalzell JJ', 'Claudius-Cole AO', 'Haukeland S', 'Luambano N', 'Talwana H']	
+299563
+29955983	['Cerling TE', 'Andanje SA', 'Gakuya F', 'Kariuki JM', 'Kariuki L', 'Kingoo JW', 'Khayale C', 'Lekolool I', 'Macharia AN', 'Anderson CR', 'Fernandez DP', 'Hu L', 'Thomas SJ']	
+29955865	['Sorokowska A', 'Groyecka A', 'Karwowski M', 'Frackowiak T', 'Lansford JE', 'Ahmadi K', 'Alghraibeh AM', 'Aryeetey R', 'Bertoni A', 'Bettache K', 'Blumen S', 'Blazejewska M', 'Bortolini T', 'Butovskaya M', 'Cantarero K', 'Castro FN', 'Cetinkaya H', 'Chang L', 'Chen BB', 'Cunha D', 'David D', 'David OA', 'Dileym FA', 'Domínguez Espinosa ADC', 'Donato S', 'Dronova D', 'Dural S', 'Fialová J', 'Fisher M', 'Gulbetekin E', 'Hamamcioglu Akkaya A', 'Hilpert P', 'Hromatko I', 'Iafrate R', 'Iesyp M', 'James B', 'Jaranovic J', 'Jiang F', 'Kimamo CO', 'Kjelvik G', 'Koç F', 'Laar A', 'Lopes FA', 'Macbeth G', 'Marcano NM', 'Martinez R', 'Mesko N', 'Molodovskaya N', 'Moradi Qezeli K', 'Motahari Z', 'Mühlhauser A', 'Natividade JC', 'Ntayi J', 'Oberzaucher E', 'Ojedokun O', 'Omar-Fauzee MSB', 'Onyishi IE', 'Paluszak A', 'Pierce JD Jr', 'Pillay U', 'Portugal A', 'Razumiejczyk E', 'Realo A', 'Relvas AP', 'Rivas M', 'Rizwan M', 'Salkicevic S', 'Sarmány-Schuller I', 'Schmehl S', 'Senyk O', 'Sinding C', 'Sorbring E', 'Stamkou E', 'Stoyanova S', 'Šukolová D', 'Sutresna N', 'Tadinac M', 'Tapanya S', 'Teras A', 'Tinoco Ponciano EL', 'Tripathi R', 'Tripathi N', 'Tripathi M', 'Uhryn O', 'Yamamoto ME', 'Yoo G', 'Sorokowski P']	
+29955820	['Kailemia M', 'Kariuki N', 'Laving A', 'Agweyu A', 'Wamalwa D']	
+29955266	['Rono-Bett KC']	
+299539
+29953496	['Wachira LM', 'Muthuri SK', 'Ochola SA', 'Onywera VO', 'Tremblay MS']	
+2995287
+29952795	['Kemp CG', 'Weiner BJ', 'Sherr KH', 'Kupfer LE', 'Cherutich PK', 'Wilson D', 'Geng EH', 'Wasserheit JN']	
+29952794	['Nugent R', 'Barnabas RV', 'Golovaty I', 'Osetinsky B', 'Roberts DA', 'Bisson C', 'Courtney L', 'Patel P', 'Yonga G', 'Watkins D']	
+29952793	['Johnson M', 'Wilkinson J', 'Gardner A', 'Kupfer LE', 'Kimaiyo S', 'Von Zinkernagel D']	
+29952792	['Juma K', 'Reid M', 'Roy M', 'Vorkoper S', 'Temu TM', 'Levitt NS', 'Oladepo O', 'Zakus D', 'Yonga G']	
+2995279
+29952790	['Rabkin M', 'de Pinho H', 'Michaels-Strasser S', 'Naitore D', 'Rawat A', 'Topp SM']	
+29952788	['Njuguna B', 'Vorkoper S', 'Patel P', 'Reid MJA', 'Vedanthan R', 'Pfaff C', 'Park PH', 'Fischer L', 'Laktabai J', 'Pastakia SD']	
+29952787	['Matanje Mwagomba BL', 'Ameh S', 'Bongomin P', 'Juma PA', 'MacKenzie RK', 'Kyobutungi C', 'Lukhele N', 'Mwangi KJM', 'Amberbir A', 'Klipstein-Grobusch K', 'Gómez-Olivé FX', 'Berman J']	
+29952248	['Six S', 'Musomi S', 'Deschepper R']	
+2995
+2995
+29949593	['Asiki G', 'Newton R', 'Kibirige L', 'Kamali A', 'Marions L', 'Smedman L']	
+29949473	['Widmer M', 'Piaggio G', 'Nguyen TMH', 'Osoti A', 'Owa OO', 'Misra S', 'Coomarasamy A', 'Abdel-Aleem H', 'Mallapur AA', 'Qureshi Z', 'Lumbiganon P', 'Patel AB', 'Carroli G', 'Fawole B', 'Goudar SS', 'Pujar YV', 'Neilson J', 'Hofmeyr GJ', 'Su LL', 'Ferreira de Carvalho J', 'Pandey U', 'Mugerwa K', 'Shiragur SS', 'Byamugisha J', 'Giordano D', 'Gülmezoglu AM', 'WHO CHAMPION Trial Group.']	
+29948337	"['Akama E', 'Mburu M', 'Mutegi E', 'Nyanaro G', 'Otieno JP', 'Ndolo S', 'Ochanda B', ""Ojwang' L"", 'Lewis-Kulzer J', 'Abuogi L', 'Oyaro P', 'Cohen CR', 'Bukusi EA', 'Onono M']"	
+29948
+29946569	"[""Ndung'u L"", 'Langat B', 'Magiri E', ""Ng'ang'a J"", 'Irungu B', 'Nzila A', 'Kiboi D']"	
+29946526	['Szkwarko D', 'Owiti P', 'Buziba N', 'Bigelow C', 'Eaton CB', 'Carter EJ']	
+29946487	['Deribe K', 'Cano J', 'Njouendou AJ', 'Eyong ME', 'Beng AA', 'Giorgi E', 'Pigott DM', 'Pullan RL', 'Noor AM', 'Enquselassie F', 'Murray CJL', 'Hay SI', 'Newport MJ', 'Davey G', 'Wanji S']	
+2994644
+29946344	['Makanza R', 'Zaman-Allah M', 'Cairns JE', 'Eyre J', 'Burgueño J', 'Pacheco Á', 'Diepenbrock C', 'Magorokosho C', 'Tarekegne A', 'Olsen M', 'Prasanna BM']	
+29945668	['Onyango CG', 'Ogonda L', 'Guyah B', 'Okoth P', 'Shiluli C', 'Humwa F', 'Opollo V']	
+29945647	['Saleem S', 'Tikmani SS', 'McClure EM', 'Moore JL', 'Azam SI', 'Dhaded SM', 'Goudar SS', 'Garces A', 'Figueroa L', 'Marete I', 'Tenge C', 'Esamai F', 'Patel AB', 'Ali SA', 'Naqvi F', 'Mwenchanya M', 'Chomba E', 'Carlo WA', 'Derman RJ', 'Hibberd PL', 'Bucher S', 'Liechty EA', 'Krebs N', 'Michael Hambidge K', 'Wallace DD', 'Koso-Thomas M', 'Miodovnik M', 'Goldenberg RL']	
+29944678	['Jakubowski A', 'Snyman K', 'Kwarisiima D', 'Sang N', 'Burger R', 'Balzer L', 'Clark T', 'Chamie G', 'Shade S', 'Cohen C', 'Bukusi E', 'Charlebois E', 'Kamya M', 'Petersen M', 'Havlir D', 'Thirumurthy H']	
+29944006	['Ssewanyana D', 'Mwangala PN', 'Marsh V', 'Jao I', 'van Baar A', 'Newton CR', 'Abubakar A']	
+29943722	['Frosch AEP', 'Ayodo G', 'Odhiambo EO', 'Ireland K', 'Vulule J', 'Cusick SE']	
+299436
+29943602	['Mash R', 'Blitz J', 'Edwards J', 'Mowle S']		20
+29943
+29942
+2994
+29940950	['Al Zahrani MH', 'Omar AI', 'Abdoon AMO', 'Ibrahim AA', 'Alhogail A', 'Elmubarak M', 'Elamin YE', 'AlHelal MA', 'Alshahrani AM', 'Abdelgader TM', 'Saeed I', 'El Gamri TB', 'Alattas MS', 'Dahlan AA', 'Assiri AM', 'Maina J', 'Li XH', 'Snow RW']	
+2994094
+29940023	['Vychodilova L', 'Necesankova M', 'Albrechtova K', 'Hlavac J', 'Modry D', 'Janova E', 'Vyskocil M', 'Mihalca AD', 'Kennedy LJ', 'Horin P']	
+29938509	['Murungi LK', 'Kirwa H', 'Coyne D', 'Teal PEA', 'Beck JJ', 'Torto B']	
+29937873	['Maina CI']	
+29937868	['Broel E', 'Huber LB', 'Warren-Findlow J', 'Racine E']	
+2993776
+29935
+29934376	['Magwanga RO', 'Lu P', 'Kirungu JN', 'Dong Q', 'Hu Y', 'Zhou Z', 'Cai X', 'Wang X', 'Hou Y', 'Wang K', 'Liu F']	
+29934289	['Millar K', 'Patel S', 'Munson M', 'Vesel L', 'Subbiah S', 'Jones RM', 'Little S', 'Papageorghiou AT', 'Villar J', 'Wegner MN', 'Pearson N', 'Muigai F', 'Ongeti C', 'Langer A']	
+2993339
+29932
+29930902	['Nanvyat N', 'Mulambalah CS', 'Barshep Y', 'Ajiji JA', 'Dakul DA', 'Tsingalia HM']	
+29930702	['Sanou AS', 'Diallo AH', 'Holding P', 'Nankabirwa V', 'Engebretsen IMS', 'Ndeezi G', 'Tumwine JK', 'Meda N', 'Tylleskär T', 'Kashala-Abotnes E']	
+29929252	['Anthonj C', 'Githinji S', 'Kistemann T']	
+29928464	['Peacock A', 'Owuor A']	
+29927650	['El Tantawi M', 'Folayan MO', 'Mehaina M', 'Vukovic A', 'Castillo JL', 'Gaffar BO', 'Arheiam A', 'Al-Batayneh OB', 'Kemoli AM', 'Schroth RJ', 'Lee GHM']	
+29926974	"['Amadi JA', ""Ong'amo GO"", 'Olago DO', 'Oriaso SO', 'Nyamongo IK', 'Estambale BBA']"	
+29926735	['Kim AA', 'Rehle T']	
+2992633
+29925430	['Thriemer K', 'Bobogare A', 'Ley B', 'Gudo CS', 'Alam MS', 'Anstey NM', 'Ashley E', 'Baird JK', 'Gryseels C', 'Jambert E', 'Lacerda M', 'Laihad F', 'Marfurt J', 'Pasaribu AP', 'Poespoprodjo JR', 'Sutanto I', 'Taylor WR', 'van den Boogaard C', 'Battle KE', 'Dysoley L', 'Ghimire P', 'Hawley B', 'Hwang J', 'Khan WA', 'Mudin RNB', 'Sumiwi ME', 'Ahmed R', 'Aktaruzzaman MM', 'Awasthi KR', 'Bardaji A', 'Bell D', 'Boaz L', 'Burdam FH', 'Chandramohan D', 'Cheng Q', 'Chindawongsa K', 'Culpepper J', 'Das S', 'Deray R', 'Desai M', 'Domingo G', 'Duoquan W', 'Duparc S', 'Floranita R', 'Gerth-Guyette E', 'Howes RE', 'Hugo C', 'Jagoe G', 'Sariwati E', 'Jhora ST', 'Jinwei W', 'Karunajeewa H', 'Kenangalem E', 'Lal BK', 'Landuwulang C', 'Le Perru E', 'Lee SE', 'Makita LS', 'McCarthy J', 'Mekuria A', 'Mishra N', 'Naket E', 'Nambanya S', 'Nausien J', 'Duc TN', 'Thi TN', 'Noviyanti R', 'Pfeffer D', 'Qi G', 'Rahmalia A', 'Rogerson S', 'Samad I', 'Sattabongkot J', 'Satyagraha A', 'Shanks D', 'Sharma SN', 'Sibley CH', 'Sungkar A', 'Syafruddin D', 'Talukdar A', 'Tarning J', 'Ter Kuile F', 'Thapa S', 'Theodora M', 'Huy TT', 'Waramin E', 'Waramori G', 'Woyessa A', 'Wongsrichanalai C', 'Xa NX', 'Yeom JS', 'Hermawan L', 'Devine A', 'Nowak S', 'Jaya I', 'Supargiyono S', 'Grietens KP', 'Price RN']	
+2992536
+29925359	['Ssewanyana D', 'van Baar A', 'Newton CR', 'Abubakar A']	
+299249
+29924827	['Mee P', 'Fearon E', 'Hassan S', 'Hensen B', 'Acharya X', 'Rice BD', 'Hargreaves JR']	
+29923065	['Laurence M', 'Kibet JK', 'Ngari SM']	
+2992
+2992
+2992
+2992
+29920393	['Leidinger A', 'Piquer J', 'Kim EE', 'Nahonda H', 'Qureshi MM', 'Young PH']	
+299
+299
+299
+299
+299
+299
+299
+299
+299
+299
+299
+299
+299
+29908577	['Dlova NC', 'Ollengo MA']	
+29908383	['Mwangala PN', 'Kariuki SM', 'Nyongesa MK', 'Mwangi P', 'Chongwo E', 'Newton CR', 'Abubakar A']	
+29907746	['Kaindi DWM', 'Kogi-Makau W', 'Lule GN', 'Kreikemeyer B', 'Renault P', 'Bonfoh B', 'Otaru N', 'Schmid T', 'Meile L', 'Hattendorf J', 'Jans C']	
+29906697	['Kaddumukasa M', 'Kaddumukasa MN', 'Buwembo W', 'Munabi IG', 'Blixen C', 'Lhatoo S', 'Sewankambo N', 'Katabira E', 'Sajatovic M']	
+2990629
+299062
+299059
+29905855	['Suchman L', 'Hart E', 'Montagu D']	
+29904605	['McCarthy KJ', 'Blanc AK', 'Warren CE', 'Mdawida B']	
+2990405
+29903039	['Mwangi N', 'Gachago M', 'Gichangi M', 'Gichuhi S', 'Githeko K', 'Jalango A', 'Karimurio J', 'Kibachio J', 'Muthami L', 'Ngugi N', 'Nduri C', 'Nyaga P', 'Nyamori J', 'Zindamoyen ANM', 'Bascaran C', 'Foster A']	
+29902989	['Osok J', 'Kigamwa P', 'Huang KY', 'Grote N', 'Kumar M']	
+29902967	['Qi P', 'Gimode D', 'Saha D', 'Schröder S', 'Chakraborty D', 'Wang X', 'Dida MM', 'Malmberg RL', 'Devos KM']	
+29902627	['Sándor R', 'Ehrhardt F', 'Brilli L', 'Carozzi M', 'Recous S', 'Smith P', 'Snow V', 'Soussana JF', 'Dorich CD', 'Fuchs K', 'Fitton N', 'Gongadze K', 'Klumpp K', 'Liebig M', 'Martin R', 'Merbold L', 'Newton PCD', 'Rees RM', 'Rolinski S', 'Bellocchi G']	
+29902358	['Spies LA', 'Bader SG', 'Opollo JG', 'Gray J']	
+2990
+2990
+29900
+29899882	['Burmen BK', 'Mogunde J', 'Malika T']	
+2989988
+298965
+29895
+29895000	['Kaduka L', 'Muniu E', 'Oduor C', 'Mbui J', 'Gakunga R', 'Kwasa J', 'Wabwire S', 'Okerosi N', 'Korir A', 'Remick S']	
+298945
+29894385	['Pyra M', 'Anderson PL', 'Hendrix CW', 'Heffron R', 'Mugwanya K', 'Haberer JE', 'Thomas KK', 'Celum C', 'Donnell D', 'Marzinke MA', 'Bukusi EA', 'Mugo NR', 'Asiimwe S', 'Katabira E', 'Baeten JM', 'Partners Demonstration Study Team.']	
+29894328	['Korir G', 'Karam PA']	
+2989399
+29893200	['Grundy SJ', 'Tshering L', 'Wanjala SW', 'Diamond MB', 'Audi MS', 'Prasad S', 'Shinohara RT', 'Rogo D', 'Wangmo D', 'Wangdi U', 'Aarayang A', 'Tshering T', 'Burke TF', 'Mateen FJ']	
+29893
+2989
+2989
+29890963	"['Curran KG', 'Wells E', 'Crowe SJ', 'Narra R', 'Oremo J', 'Boru W', 'Githuku J', 'Obonyo M', 'De Cock KM', 'Montgomery JM', 'Makayotto L', 'Langat D', 'Lowther SA', ""O'Reilly C"", 'Gura Z', 'Kioko J']"	
+29890783	['Kumpel E', 'Delaire C', 'Peletz R', 'Kisiangani J', 'Rinehold A', 'De France J', 'Sutherland D', 'Khush R']	
+29890690	['Othim STO', 'Ramasamy S', 'Kahuthia-Gathu R', 'Dubois T', 'Ekesi S', 'Fiaboe KKM']	
+29889888	"['Ondiba IM', 'Oyieke FA', ""Ong'amo GO"", 'Olumula MM', 'Nyamongo IK', 'Estambale BBA']"	
+29887582	['Široký P', 'Frye FL', 'Dvořáková N', 'Hostovský M', 'Prokop H', 'Kulich P']	
+29886
+2988575
+29885624	['Suarez S', 'Burke TF', 'Yusufali T', 'Makin J', 'Sessler DI']	
+29885436	['Knowles DP', 'Kappmeyer LS', 'Haney D', 'Herndon DR', 'Fry LM', 'Munro JB', 'Sears K', 'Ueti MW', 'Wise LN', 'Silva M', 'Schneider DA', 'Grause J', 'White SN', 'Tretina K', 'Bishop RP', 'Odongo DO', 'Pelzel-McCluskey AM', 'Scoles GA', 'Mealey RH', 'Silva JC']	
+29884
+29884
+29883628	['Ligozzi M', 'Galia L', 'Carelli M', 'Piccaluga PP', 'Diani E', 'Gibellini D']	
+29883462	['Boateng GO', 'Collins SM', 'Mbullo P', 'Wekesa P', 'Onono M', 'Neilands TB', 'Young SL']	
+29883052	['Olney JJ', 'Eaton JW', 'Braitstein P', 'Hogan JW', 'Hallett TB']	
+29882508	['James S', 'Collins FH', 'Welkhoff PA', 'Emerson C', 'Godfray HCJ', 'Gottlieb M', 'Greenwood B', 'Lindsay SW', 'Mbogo CM', 'Okumu FO', 'Quemada H', 'Savadogo M', 'Singh JA', 'Tountas KH', 'Touré YT']	
+29882365	['Dunham NT', 'Rodriguez-Saona LE']	
+2988
+2988
+2988
+2988
+2988
+298799
+29879
+29879
+29879
+29878033	['Bahiru E', 'Temu T', 'Gitura B', 'Farquhar C', 'Huffman MD', 'Bukachi F']	
+29877
+2987597
+29875963	['Waari G', 'Mutai J', 'Gikunju J']	
+29875946	['Tait FN', 'Mburu C', 'Gikunju J']	
+29874284	['Barnes AN', 'Anderson JD', 'Mumma J', 'Mahmud ZH', 'Cumming O']	
+29872450	['Becker M', 'Mishra S', 'Aral S', 'Bhattacharjee P', 'Lorway R', 'Green K', 'Anthony J', 'Isac S', 'Emmanuel F', 'Musyoki H', 'Lazarus L', 'Thompson LH', 'Cheuk E', 'Blanchard JF']	
+29872049	['Shipton C', 'Roberts P', 'Archer W', 'Armitage SJ', 'Bita C', 'Blinkhorn J', 'Courtney-Mustaphi C', 'Crowther A', 'Curtis R', 'Errico F', 'Douka K', 'Faulkner P', 'Groucutt HS', 'Helm R', 'Herries AIR', 'Jembe S', 'Kourampas N', 'Lee-Thorp J', 'Marchant R', 'Mercader J', 'Marti AP', 'Prendergast ME', 'Rowson B', 'Tengeza A', 'Tibesasa R', 'White TS', 'Petraglia MD', 'Boivin N']	
+2987
+29870
+29870
+298682
+29867872	['Koskey G', 'Mburu SW', 'Kimiti JM', 'Ombori O', 'Maingi JM', 'Njeru EM']	
+29867
+29866374	['Nishtar S', 'Niinistö S', 'Sirisena M', 'Vázquez T', 'Skvortsova V', 'Rubinstein A', 'Mogae FG', 'Mattila P', 'Ghazizadeh Hashemi SH', 'Kariuki S', 'Narro Robles J', 'Adewole IF', 'Sarr AD', 'Gan KY', 'Piukala SM', 'Al Owais ARBM', 'Hargan E', 'Alleyne G', 'Alwan A', 'Bernaert A', 'Bloomberg M', 'Dain K', 'Frieden T', 'Patel VH', 'Kennedy A', 'Kickbusch I', 'Commissioners of the WHO Independent High-Level Commission on NCDs.']	
+29866
+2986608
+298635
+29862949	['Mansour O', 'Masini EO', 'Kim BJ', 'Kamene M', 'Githiomi MM', 'Hanson CL']	
+29862937	['Mutiso VN', 'Pike K', 'Musyimi CW', 'Rebello TJ', 'Tele A', 'Gitonga I', 'Thornicroft G', 'Ndetei DM']	
+29862883	"['Sarnquist CC', 'Ouma L', ""Lang'at N"", 'Lubanga C', 'Sinclair J', 'Baiocchi MT', 'Cornfield DN']"	
+29862326	['Otto TD', 'Böhme U', 'Sanders M', 'Reid A', 'Bruske EI', 'Duffy CW', 'Bull PC', 'Pearson RD', 'Abdi A', 'Dimonte S', 'Stewart LB', 'Campino S', 'Kekre M', 'Hamilton WL', 'Claessens A', 'Volkman SK', 'Ndiaye D', 'Amambua-Ngwa A', 'Diakite M', 'Fairhurst RM', 'Conway DJ', 'Franck M', 'Newbold CI', 'Berriman M']	
+29862324	['Otiende M', 'Abubakar A', 'Mochamah G', 'Walumbe D', 'Nyundo C', 'Doyle AM', 'Ross DA', 'Newton CR', 'Bauni E']	
+29862055	['Keats EC', 'Macharia W', 'Singh NS', 'Akseer N', 'Ravishankar N', 'Ngugi AK', 'Rizvi A', 'Khaemba EN', 'Tole J', 'Bhutta ZA']	
+2986
+29860920	['Atieno OM', 'Opanga S', 'Martin A', 'Kurdi A', 'Godman B']	
+29859095	['Kisiangani J', 'Baliddawa J', 'Marinda P', 'Mabeya H', 'Choge JK', 'Adino EO', 'Khayeka-Wandabwa C']	
+29858747	['Mwando NL', 'Tamiru A', 'Nyasani JO', 'Obonyo MAO', 'Caulfield JC', 'Bruce TJA', 'Subramanian S']	
+29857967	['Mounier A', 'Correia M', 'Rivera F', 'Crivellaro F', 'Power R', 'Jeffery J', 'Wilshaw A', 'Foley RA', 'Mirazón Lahr M']	
+29856872	['Mogga M', 'Sibiya J', 'Shimelis H', 'Lamo J', 'Yao N']	
+29856357	['Williams PCM', 'Berkley JA']	
+29855975	['Kusemererwa S', 'Abaasa A', 'Onyango M', 'Nel AM', 'Isaacs M', 'Asiki G']	
+29855674	['Herrera MDR', 'Vidalon LJ', 'Montenegro JD', 'Riccio C', 'Guzman F', 'Bartolini I', 'Ghislain M']	
+29855375	['Amzati GS', 'Pelle R', 'Muhigwa JB', 'Kanduma EG', 'Djikeng A', 'Madder M', 'Kirschvink N', 'Marcotty T']	
+29854895	['Odanga JJ', 'Mohamed S', 'Olubayo F', 'Nyankanga R', 'Mwalusepo S', 'Subramanian S', 'Johansson T', 'Ekesi S']	
+2985485
+29854463	['Zaver F', 'Boniface K', 'Wachira B', 'Wanjiku G', 'Shokoohi H']	
+29854209	['Pore M', 'Sengeh DM', 'Mugambi P', 'Purswani NV', 'Sesay T', 'Arnold AL', 'Tran AA', 'Myers R']		20
+29853870	['Wanjala A', 'Mwangi H', 'Mabeya H']	
+29853293	['Connolly K', 'Mbutu M', 'Bartram J', 'Fuente D']	
+29852364	['Seidel S', 'Muciimi J', 'Chang J', 'Gitari S', 'Keiser P', 'Goodman ML']	
+29852008	['Diiro GM', 'Seymour G', 'Kassie M', 'Muricho G', 'Muriithi BW']	
+2985
+2985
+2985
+29850243	['Nemerimana M', 'Chege MN', 'Odhiambo EA']	
+29849725	['Ayeka PA']	
+298496
+29848989	['Magwanga RO', 'Lu P', 'Kirungu JN', 'Diouf L', 'Dong Q', 'Hu Y', 'Cai X', 'Xu Y', 'Hou Y', 'Zhou Z', 'Wang X', 'Wang K', 'Liu F']	
+29848345	"['Kinuthia J', 'Singa B', 'McGrath CJ', 'Odeny B', 'Langat A', 'Katana A', ""Ng'ang'a L"", 'Pintye J', 'John-Stewart G']"	
+29848006	['Nkhoma K', 'Ahmed A', 'Ali Z', 'Gikaara N', 'Sherr L', 'Harding R']	
+29847326	['Pak-Gorstein S', 'Batra M', 'Johnston B', 'Grow HM', 'Grant A', 'Shugerman R', 'Lago S', 'Stapleton FB', 'McPhillips H']	
+29846599	['McCollum R', 'Theobald S', 'Otiso L', 'Martineau T', 'Karuga R', 'Barasa E', 'Molyneux S', 'Taegtmeyer M']	
+29845545	['Gudo ES', 'Ali S', 'António VS', 'Chelene IR', 'Chongo I', 'Demanou M', 'Falk K', 'Guiliche OC', 'Heinrich N', 'Monteiro V', 'Muianga AF', 'Oludele J', 'Mula F', 'Mutuku F', 'Amade N', 'Alho P', 'Betsem E', 'Chimbuinhe Z', 'Cristovam AJ', 'Galano G', 'Gessain A', 'Harris E', 'Heise M', 'Inalda F', 'Jala I', 'Jaszi E', 'King C', 'Kitron U', 'Kümmerer BM', 'LaBeaud AD', 'Lagerqvist N', 'Malai G', 'Mazelier M', 'Mendes S', 'Mukoko D', 'Ndenga B', 'Njouom R', 'Pinto G', 'Tivane A', 'Vu DM', 'Vulule J']	
+29844995	['Patterson BD', 'Webala PW', 'Bartonjo M', 'Nziza J', 'Dick CW', 'Demos TC']	
+298437
+29808960	['Wirtz VJ', 'Turpin K', 'Laing RO', 'Mukiira CK', 'Rockers PC']	
+298086
+29808439	['Waruhiu C', 'Ommeh S', 'Obanda V', 'Agwanda B', 'Gakuya F', 'Ge XY', 'Yang XL', 'Wu LJ', 'Zohaib A', 'Hu B', 'Shi ZL']	
+29808
+29807995	['Gei M', 'Rozendaal DMA', 'Poorter L', 'Bongers F', 'Sprent JI', 'Garner MD', 'Aide TM', 'Andrade JL', 'Balvanera P', 'Becknell JM', 'Brancalion PHS', 'Cabral GAL', 'César RG', 'Chazdon RL', 'Cole RJ', 'Colletta GD', 'de Jong B', 'Denslow JS', 'Dent DH', 'DeWalt SJ', 'Dupuy JM', 'Durán SM', 'do Espírito Santo MM', 'Fernandes GW', 'Nunes YRF', 'Finegan B', 'Moser VG', 'Hall JS', 'Hernández-Stefanoni JL', 'Junqueira AB', 'Kennard D', 'Lebrija-Trejos E', 'Letcher SG', 'Lohbeck M', 'Marín-Spiotta E', 'Martínez-Ramos M', 'Meave JA', 'Menge DNL', 'Mora F', 'Muñoz R', 'Muscarella R', 'Ochoa-Gaona S', 'Orihuela-Belmonte E', 'Ostertag R', 'Peña-Claros M', 'Pérez-García EA', 'Piotto D', 'Reich PB', 'Reyes-García C', 'Rodríguez-Velázquez J', 'Romero-Pérez IE', 'Sanaphre-Villanueva L', 'Sanchez-Azofeifa A', 'Schwartz NB', 'de Almeida AS', 'Almeida-Cortez JS', 'Silver W', 'de Souza Moreno V', 'Sullivan BW', 'Swenson NG', 'Uriarte M', 'van Breugel M', 'van der Wal H', 'Veloso MDDM', 'Vester HFM', 'Vieira ICG', 'Zimmerman JK', 'Powers JS']	
+29807
+29806
+29806038	['Njue M', 'Njuguna P', 'Kapulu MC', 'Sanga G', 'Bejon P', 'Marsh V', 'Molyneux S', 'Kamuya D']	
+29804756	"['Velonjara J', 'Crouthamel B', ""O'Malley G"", 'Wiggins M', 'Matemo D', 'John-Stewart G', 'Unger JA', 'Kinuthia J', 'Drake AL']"	
+2980
+2980
+2980
+29800784	['Ojji DB', 'Poulter N', 'Damasceno A', 'Sliwa K', 'Smythe W', 'Kramer N', 'Badri M', 'Francis V', 'Aje A', 'Barasa F', 'Dzudie A', 'Jones E', 'Kana SS', 'Mntla P', 'Mondo C', 'Ogah O', 'Ogola EN', 'Ogunbanjo G', 'Okpechi I', 'Shedul G', 'Sani MU', 'Shedul G', 'Mayosi BM']	
+29800309	['Perciani CT', 'Sekhon M', 'Hundal S', 'Farah B', 'Ostrowski MA', 'Anzala AO', 'McKinnon LR', 'UNITID Group.', 'KAVI-ICR Team.', 'Walter J', 'MacDonald KS']	
+29798926	['Wambui J', 'Stevens M', 'Njage PMK', 'Wüthrich D', 'Egli A', 'Stephan R', 'Tasara T']	
+29796382	['Mutavi T', 'Obondo A', 'Mathai M', 'Kokonya D', 'Dako-Gyeke M']		20
+29795589	['Bekele F', 'Belay T', 'Zeynudin A', 'Hailu A']	
+29794492	['Zhang Y', 'Fogel JM', 'Guo X', 'Clarke W', 'Breaud A', 'Cummings V', 'Hamilton EL', 'Ogendo A', 'Kayange N', 'Panchia R', 'Dominguez K', 'Chen YQ', 'Sandfort T', 'Eshleman SH']	
+2979449
+29794277	['Lubega FA', 'DeSilva MS', 'Munube D', 'Nkwine R', 'Tumukunde J', 'Agaba PK', 'Nabukenya MT', 'Bulamba F', 'Luggya TS']	
+29794
+29794044	['Goldenberg SZ', 'Douglas-Hamilton I', 'Wittemyer G']	
+29792762	['Visani G', 'Loscocco F', 'Isidori A', 'Piccaluga PP']	
+29792760	['Guevara L', 'Abdelgawad A', 'Onzere C', 'Greenwood AD', 'Davidson Z', 'Bishop R', 'Mutinda M']	
+29792207	['Wamaitha MJ', 'Nigam D', 'Maina S', 'Stomeo F', 'Wangai A', 'Njuguna JN', 'Holton TA', 'Wanjala BW', 'Wamalwa M', 'Lucas T', 'Djikeng A', 'Garcia-Ruiz H']	
+29792
+29792077	['Feinstein A', 'Osmann J', 'Patel V']	
+2979
+29790983	['Zinsstag J', 'Crump L', 'Schelling E', 'Hattendorf J', 'Maidane YO', 'Ali KO', 'Muhummed A', 'Umer AA', 'Aliyi F', 'Nooh F', 'Abdikadir MI', 'Ali SM', 'Hartinger S', 'Mäusezahl D', 'de White MBG', 'Cordon-Rosales C', 'Castillo DA', 'McCracken J', 'Abakar F', 'Cercamondi C', 'Emmenegger S', 'Maier E', 'Karanja S', 'Bolon I', 'de Castañeda RR', 'Bonfoh B', 'Tschopp R', 'Probst-Hensch N', 'Cissé G']	
+29790845	['Williams PCM', 'Berkley JA']	
+2979084
+29790840	['Williams PCM', 'Berkley JA']	
+297903
+29789804	['Ssewanyana D', 'Mwangala PN', 'van Baar A', 'Newton CR', 'Abubakar A']	
+297896
+29788366	['Kraemer JD']	
+29788
+29787579	['Sillo HB', 'Masota NE', 'Kisoma S', 'Rago L', 'Mgoyela V', 'Kaale EA']	
+29786943	['Liu J', 'Milne RI', 'Möller M', 'Zhu GF', 'Ye LJ', 'Luo YH', 'Yang JB', 'Wambulwa MC', 'Wang CN', 'Li DZ', 'Gao LM']	
+29784978	['Otto TD', 'Gilabert A', 'Crellen T', 'Böhme U', 'Arnathau C', 'Sanders M', 'Oyola SO', 'Okouga AP', 'Boundenga L', 'Willaume E', 'Ngoubangoye B', 'Moukodoum ND', 'Paupy C', 'Durand P', 'Rougeron V', 'Ollomo B', 'Renaud F', 'Newbold C', 'Berriman M', 'Prugnolle F']	
+29783977	['Murphy GAV', 'Gathara D', 'Mwachiro J', 'Abuya N', 'Aluvaala J', 'English M', 'Health Services that Deliver for Newborns Expert Group.']	
+29783949	['Simam J', 'Rono M', 'Ngoi J', 'Nyonda M', 'Mok S', 'Marsh K', 'Bozdech Z', 'Mackinnon M']	
+29782696	['Goldenberg RL', 'Nathan RO', 'Swanson D', 'Saleem S', 'Mirza W', 'Esamai F', 'Muyodi D', 'Garces AL', 'Figueroa L', 'Chomba E', 'Chiwala M', 'Mwenechanya M', 'Tshefu A', 'Lokangako A', 'Bolamba VL', 'Moore JL', 'Franklin H', 'Swanson J', 'Liechty EA', 'Bose CL', 'Krebs NF', 'Michael Hambidge K', 'Carlo WA', 'Kanaiza N', 'Naqvi F', 'Pineda IS', 'López-Gomez W', 'Hamsumonde D', 'Harrison MS', 'Koso-Thomas M', 'Miodovnik M', 'Wallace DD', 'McClure EM']	
+29782500	['Gurarie D', 'Lo NC', 'Ndeffo-Mbah ML', 'Durham DP', 'King CH']	
+2978
+29779966	['Cairns JE', 'Prasanna BM']	
+2977949
+29779264	['Kuria N', 'Reid A', 'Owiti P', 'Tweya H', 'Kibet CK', 'Mbau L', 'Manzi M', 'Murunga V', 'Namusonge T', 'Kibachio J']	
+29778407	['Cowburn B', 'Samoilys MA', 'Obura D']	
+29777956	['Steege R', 'Taegtmeyer M', 'McCollum R', 'Hawkins K', 'Ormel H', 'Kok M', 'Rashid S', 'Otiso L', 'Sidat M', 'Chikaphupha K', 'Datiko DG', 'Ahmed R', 'Tolhurst R', 'Gomez W', 'Theobald S']	
+29777645	['Naanyu V', 'Baliddawa J', 'Koech B', 'Karfakis J', 'Nyagoha N']	
+29777642	['Speizer IS', 'Calhoun LM', 'Guilkey DK']	
+297773
+29777
+297764
+29776359	"['Boyce MR', 'Menya D', 'Turner EL', 'Laktabai J', ""Prudhomme-O'Meara W""]"	
+29776353	['Osok J', 'Kigamwa P', 'Stoep AV', 'Huang KY', 'Kumar M']	
+29773962	['Gowda M', 'Beyene Y', 'Makumbi D', 'Semagn K', 'Olsen MS', 'Bright JM', 'Das B', 'Mugo S', 'Suresh LM', 'Prasanna BM']	
+297735
+29773
+29772280	['Rhee JY', 'Garralda E', 'Namisango E', 'Luyirika E', 'de Lima L', 'Powell RA', 'López-Fidalgo J', 'Centeno C']	
+2977
+29770944	['Abdilatif MH', 'Onono JO', 'Mutua FK']	
+29770367	['Gichuru E', 'Kombo B', 'Mumba N', 'Sariola S', 'Sanders EJ', 'van der Elst EM']	
+29770360	['Sattler FR', 'Chelliah D', 'Wu X', 'Sanchez A', 'Kendall MA', 'Hogg E', 'Lagat D', 'Lalloo U', 'Veloso V', 'Havlir DV', 'Landay A']	
+29770326	['Kyalo CM', 'Gichira AW', 'Li ZZ', 'Saina JK', 'Malombe I', 'Hu GW', 'Wang QF']	
+29770
+29769749	['Bastawrous MC', 'Piernas C', 'Bastawrous A', 'Oke J', 'Lasserson D', 'Mathenge W', 'Burton MJ', 'Jebb SA', 'Kuper H']	
+29769364	['Titcomb G', 'Pringle RM', 'Palmer TM', 'Young HS']	
+29769063	['Ndirangu MN', 'Gatimu SM', 'Mwinyi HM', 'Kibiwott DC']	
+29769047	['Mwangi W', 'Gachuno O', 'Desai M', 'Obor D', 'Were V', 'Odhiambo F', 'Nyaguara A', 'Laserson KF']	
+29768
+2976764
+29767325	['Papas RK', 'Gakinya BN', 'Mwaniki MM', 'Wu XK', 'Lee H', 'Martino S', 'Klein DA', 'Sidle JE', 'Loxley MP', 'Keter AK', 'Baliddawa JB', 'Maisto SA']	
+29767324	"['Wahome E', ""Thiong'o AN"", 'Mwashigadi G', 'Chirro O', 'Mohamed K', 'Gichuru E', 'Mwambi J', 'Price MA', 'Graham SM', 'Sanders EJ']"	
+29766407	['Scholz T', 'Tavakol S', 'Uhrová L', 'Brabec J', 'Přikrylová I', 'Mašová Š', 'Šimková A', 'Halajian A', 'Luus-Powell WJ']	
+2976639
+29766
+29764843	"['Forconi CS', 'Cosgrove CP', 'Saikumar-Lakshmi P', 'Nixon CE', 'Foley J', ""Ong'echa JM"", 'Otieno JA', 'Alter G', 'Münz C', 'Moormann AM']"	
+29764520	['Galgallo DA', 'Roka ZG', 'Boru WG', 'Abill K', 'Ransom J']	
+297644
+297644
+297644
+2976439
+29762306	['Gwer SO', 'Onyango KO']	
+29762
+29760577	['Arafat Y', 'Islam MM', 'Connell N', 'Mothabbir G', 'McGrath M', 'Berkley JA', 'Ahmed T', 'Kerac M']	
+29760399	['Okoi C', 'Anderson STB', 'Antonio M', 'Mulwa SN', 'Gehre F', 'Adetifa IMO']	
+29760095	['De Moraes CM', 'Wanjiku C', 'Stanczyk NM', 'Pulido H', 'Sims JW', 'Betz HS', 'Read AF', 'Torto B', 'Mescher MC']	
+297574
+29756384	['Azandémè Hounmalon GY', 'Maniania NK', 'Niassy S', 'Fellous S', 'Kreiter S', 'Delétré E', 'Fiaboe KK', 'Martin T']	
+29753597	['Starrs AM', 'Ezeh AC', 'Barker G', 'Basu A', 'Bertrand JT', 'Blum R', 'Coll-Seck AM', 'Grover A', 'Laski L', 'Roa M', 'Sathar ZA', 'Say L', 'Serour GI', 'Singh S', 'Stenberg K', 'Temmerman M', 'Biddlecom A', 'Popinchalk A', 'Summers C', 'Ashford LS']	
+29752836	['Lafort Y', 'Greener L', 'Lessitala F', 'Chabeda S', 'Greener R', 'Beksinska M', 'Gichangi P', 'Griffin S', 'Smit JA', 'Chersich M', 'Delva W']	
+29752729	['Goheen JR', 'Augustine DJ', 'Veblen KE', 'Kimuyu DM', 'Palmer TM', 'Porensky LM', 'Pringle RM', 'Ratnam J', 'Riginos C', 'Sankaran M', 'Ford AT', 'Hassan AA', 'Jakopak R', 'Kartzinel TR', 'Kurukura S', 'Louthan AM', 'Odadi WO', 'Otieno TO', 'Wambua AM', 'Young HS', 'Young TP']	
+29752476	['Kaewthamasorn M', 'Takeda M', 'Saiwichai T', 'Gitaka JN', 'Tiawsirisup S', 'Imasato Y', 'Mossaad E', 'Sarani A', 'Kaewlamun W', 'Channumsin M', 'Chaiworakul S', 'Katepongpun W', 'Teeveerapunya S', 'Panthong J', 'Mureithi DK', 'Bawm S', 'Htun LL', 'Win MM', 'Ismail AA', 'Ibrahim AM', 'Suganuma K', 'Hakimi H', 'Nakao R', 'Katakura K', 'Asada M', 'Kaneko O']	
+2975
+2975
+2975
+2975
+29750227	['Bahiru E', 'Temu T', 'Mwanga J', 'Ndede K', 'Vusha S', 'Gitura B', 'Farquhar C', 'Bukachi F', 'Huffman MD']	
+29747950	['Mwachiro M', 'Mitchell E', 'Topazian HM', 'White R']	
+29747593	['Afulani P', 'Kusi C', 'Kirumbi L', 'Walker D']	
+297466
+2974654
+29746
+29745965	"['Kaduka L', 'Korir A', 'Oduor CO', 'Kwasa J', 'Mbui J', 'Wabwire S', 'Gakunga R', 'Okerosi N', 'Opanga Y', ""Kisiang'ani I"", 'Chepkurui MR', 'Muniu E', 'Remick SC']"	
+29745782	['Decroo T', 'Van den Bergh R', 'Kumar AMV', 'Zachariah R', 'Schillberg E', 'Owiti P', 'van den Boogaard W', 'Benedetti G', 'Shah S', 'Ali E', 'Harries AD', 'Reid AJ']	
+2974535
+29745288	['Johnson M', 'Lemi BL', 'Tonny HL', 'David AD', 'Boru W', 'Ransom J']	
+29744286	['Kumar M', 'Huang KY', 'Othieno C', 'Wamalwa D', 'Madeghe B', 'Osok J', 'Kahonge SN', 'Nato J', 'McKay MM']	
+29744
+2974404
+29743693	['Karikari TK', 'Amoateng P']	
+297436
+29743572	['Shipton C', 'Roberts P', 'Archer W', 'Armitage SJ', 'Bita C', 'Blinkhorn J', 'Courtney-Mustaphi C', 'Crowther A', 'Curtis R', 'Errico F', 'Douka K', 'Faulkner P', 'Groucutt HS', 'Helm R', 'Herries AIR', 'Jembe S', 'Kourampas N', 'Lee-Thorp J', 'Marchant R', 'Mercader J', 'Marti AP', 'Prendergast ME', 'Rowson B', 'Tengeza A', 'Tibesasa R', 'White TS', 'Petraglia MD', 'Boivin N']	
+29743083	['Asiki G', 'Shao S', 'Wainana C', 'Khayeka-Wandabwa C', 'Haregu TN', 'Juma PA', 'Mohammed S', 'Wambui D', 'Gong E', 'Yan LL', 'Kyobutungi C']	
+29743062	"['Amadi JA', 'Olago DO', ""Ong'amo GO"", 'Oriaso SO', 'Nyamongo IK', 'Estambale BBA']"	
+2974
+2974
+2974
+2974
+29740476	['Cheruiyot EK', 'Bett RC', 'Amimo JO', 'Mujibi FDN']	
+29739429	['Machiyama K', 'Huda FA', 'Ahmmed F', 'Odwe G', 'Obare F', 'Mumah JN', 'Wamukoya M', 'Casterline JB', 'Cleland J']	
+2973942
+29739403	['Gona JK', 'Newton CR', 'Hartley S', 'Bunning K']	
+29739374	['Maingi M', 'Kimiywe J', 'Iron-Segev S']	
+29738725	['Mortimer B', 'Rees WL', 'Koelemeijer P', 'Nissen-Meyer T']	
+29736732	['Odongo DO', 'Tiampati CM', 'Mulinge E', 'Mbae CK', 'Bishop RP', 'Zeyhle E', 'Magambo J', 'Wasserman M', 'Kern P', 'Romig T']	
+29736274	['McCauley M', 'Madaj B', 'White SA', 'Dickinson F', 'Bar-Zev S', 'Aminu M', 'Godia P', 'Mittal P', 'Zafar S', 'van den Broek N']	
+29736273	['Dennis ML', 'Abuya T', 'Campbell OMR', 'Benova L', 'Baschieri A', 'Quartagno M', 'Bellows B']	
+29736
+29735895	['Urke HB', 'Contreras M', 'Matanda DJ']	
+29735488	['Turner LJ', 'Wilkins D', 'Woodhouse JIJA']	
+297342
+29729
+29728
+29727983	['Weeser B', 'Stenfert Kroese J', 'Jacobs SR', 'Njue N', 'Kemboi Z', 'Ran A', 'Rufino MC', 'Breuer L']	
+29727457	['Chen M', 'Wichmann B', 'Luckert M', 'Winowiecki L', 'Förch W', 'Läderach P']	
+29725073	['Brent AJ', 'Mugo D', 'Musyimi R', 'Mutiso A', 'Morpeth SC', 'Levin M', 'Scott JAG']	
+29722093	['Miller JD', 'Collins SM', 'Omotayo M', 'Martin SL', 'Dickin KL', 'Young SL']	
+29720
+29720
+29720
+29720089	"['Olwal CO', ""Ang'ienda PO"", 'Onyango DM', 'Ochiel DO']"	
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+2970963
+29708995	['Awad SF', 'Chemaitelly H', 'Abu-Raddad LJ']	
+29708778	['Muloi D', 'Ward MJ', 'Pedersen AB', 'Fèvre EM', 'Woolhouse MEJ', 'van Bunnik BAD']	
+29707384	['Oyaro M', 'Wylie J', 'Chen CY', 'Ondondo RO', 'Kramvis A']	
+29707383	['Awori V', 'Mativo P', 'Yonga G', 'Shah R']	
+29706796	['Madhavan S', 'Beguy D', 'Clark S', 'Kabiru C']	
+2970623
+29706
+29705947	['Omala AA', 'Mbandu AS', 'Mutiria KD', 'Jin C', 'Li F']	
+29704700	['Cruz JP', 'Felicilda-Reynaldo RFD', 'Lam SC', 'Machuca Contreras FA', 'John Cecily HS', 'Papathanasiou IV', 'Fouly HA', 'Kamau SM', 'Valdez GFD', 'Adams KA', 'Colet PC']	
+29702967	['Budohoski KP', 'Ngerageza JG', 'Austard B', 'Fuller A', 'Galler R', 'Haglund M', 'Lett R', 'Lieberman IH', 'Mangat HS', 'March K', 'Olouch-Olunya D', 'Piquer J', 'Qureshi M', 'Santos MM', 'Schöller K', 'Shabani HK', 'Trivedi RA', 'Young P', 'Zubkov MR', 'Härtl R', 'Stieg PE']	
+29702966	['Santos MM', 'Qureshi MM', 'Budohoski KP', 'Mangat HS', 'Ngerageza JG', 'Schöller K', 'Shabani HK', 'Zubkov MR', 'Härtl R']	
+29702965	['Mangat HS', 'Schöller K', 'Budohoski KP', 'Ngerageza JG', 'Qureshi M', 'Santos MM', 'Shabani HK', 'Zubkov MR', 'Härtl R', 'Stieg PE']	
+29702700	['Murphy GAV', 'Gathara D', 'Abuya N', 'Mwachiro J', 'Ochola S', 'Ayisi R', 'English M', 'Health Services that Deliver for Newborns Expert Group.']	
+2970
+29698487	['Oyas H', 'Holmstrom L', 'Kemunto NP', 'Muturi M', 'Mwatondo A', 'Osoro E', 'Bitek A', 'Bett B', 'Githinji JW', 'Thumbi SM', 'Widdowson MA', 'Munyua PM', 'Njenga MK']	
+29697020	['Awori MN', 'Mehta NP', 'Mitema FO', 'Kebba N']	
+29696334	['Ndungu SM', 'Messmer MM', 'Ziegler D', 'Thuita M', 'Vanlauwe B', 'Frossard E', 'Thonar C']	
+29696
+29695878	[]	
+29695457	['Ng AHC', 'Fobel R', 'Fobel C', 'Lamanna J', 'Rackus DG', 'Summers A', 'Dixon C', 'Dryden MDM', 'Lam C', 'Ho M', 'Mufti NS', 'Lee V', 'Asri MAM', 'Sykes EA', 'Chamberlain MD', 'Joseph R', 'Ope M', 'Scobie HM', 'Knipes A', 'Rota PA', 'Marano N', 'Chege PM', 'Njuguna M', 'Nzunza R', 'Kisangau N', 'Kiogora J', 'Karuingi M', 'Burton JW', 'Borus P', 'Lam E', 'Wheeler AR']	
+2969526
+296923
+29692308	['Ondigo BN', 'Ndombi EM', 'Nicholson SC', 'Oguso JK', 'Carter JM', 'Kittur N', 'Secor WE', 'Karanja DMS', 'Colley DG']	
+29690995	['Opi DH', 'Swann O', 'Macharia A', 'Uyoga S', 'Band G', 'Ndila CM', 'Harrison EM', 'Thera MA', 'Kone AK', 'Diallo DA', 'Doumbo OK', 'Lyke KE', 'Plowe CV', 'Moulds JM', 'Shebbe M', 'Mturi N', 'Peshu N', 'Maitland K', 'Raza A', 'Kwiatkowski DP', 'Rockett KA', 'Williams TN', 'Rowe JA']	
+296909
+29690902	['Chakraborty NM', 'Sprockett A']	
+29690899	"['Lelijveld N', 'Bailey J', 'Mayberry A', 'Trenouth L', ""N'Diaye DS"", 'Haghparast-Bidgoli H', 'Puett C']"	
+29690897	['Penfold S', 'Wendot S', 'Nafula I', 'Footman K']	
+29690829	['Romo ML', 'George G', 'Mantell JE', 'Mwai E', 'Nyaga E', 'Odhiambo JO', 'Govender K', 'Kelvin EA']	
+29690444	['Mashimo Y', 'Matsumura Y', 'Beutel RG', 'Njoroge L', 'Machida R']		20
+29690399	['Agassiz D', 'Kallies A']		20
+296903
+2969029
+29690202	['Warne MT']		20
+29690
+29690070	['Sehnal R']		20
+29689948	['Pachelle PPG', 'Tavares M']		20
+29689804	['Delvare G', 'Copeland RS']		20
+29688549	['Ghimire CP', 'Bruijnzeel LA', 'Lubczynski MW', 'Zwartendijk BW', 'Odongo VO', 'Ravelona M', 'van Meerveld HJI']	
+2968849
+29688348	['Triebel D', 'Reichert W', 'Bosert S', 'Feulner M', 'Okach DO', 'Slimani A', 'Rambold G']	
+2968827
+29688
+296876
+29687
+29686690	['Ndjiondjop MN', 'Semagn K', 'Sow M', 'Manneh B', 'Gouda AC', 'Kpeki SB', 'Pegalepo E', 'Wambugu P', 'Sié M', 'Warburton ML']	
+29686664	['Demirbas-Uzel G', 'Kariithi HM', 'Parker AG', 'Vreysen MJB', 'Mach RL', 'Abd-Alla AMM']	
+2968660
+29686468	['Kamimura K', 'Inoue R', 'Nagoya T', 'Sakai N', 'Goto R', 'Ko M', 'Niwa Y', 'Terai S']	
+29686433	['Gaston KJ', 'Cox DTC', 'Canavelli SB', 'García D', 'Hughes B', 'Maas B', 'Martínez D', 'Ogada D', 'Inger R']	
+29685
+296842
+29683994	['Sifuna P', 'Otieno L', 'Andagalu B', 'Oyieko J', 'Ogutu B', 'Singoei V', 'Owuoth J', 'Ogwang S', 'Cowden J', 'Otieno W']	
+29683990	['Agot K', 'Masters SH', 'Wango GN', 'Thirumurthy H']	
+29683845	"['Masaba R', 'Borkowf CB', 'Girde S', 'Zeh C', 'Ndivo R', ""Nyang'au I"", 'Achola K', 'Thomas TK', 'Lecher SL']"	
+29682580	['Park PH', 'Pastakia SD']	
+2968
+2968
+2968
+29680369	['Qing H', 'Donde OO', 'Tian C', 'Wang C', 'Wu X', 'Feng S', 'Liu Y', 'Xiao B']	
+2967948
+29678234	['Nyagwange J', 'Nene V', 'Mwalimu S', 'Henson S', 'Steinaa L', 'Nzau B', 'Tijhaar E', 'Pelle R']	
+29676762	['Rajasingham A', 'Leso M', 'Ombeki S', 'Ayers T', 'Quick R']	
+29674905	['Belokobylskij S', 'Zaldivar-Riveron A', 'Castañeda-Osorio R']	
+29674583	['Sekar N', 'Clark W', 'Dobson A', 'Coelho PCF', 'Hannam PM', 'Hepworth R', 'Hsiang S', 'Kahumbu P', 'Lee PC', 'Lindsay K', 'Pereira CL', 'Wasser SK', 'Nowak K']	
+29674478	['Adembesa I', 'Myburgh A', 'Swanevelder J']	
+2967333
+2967290
+2967
+2967
+29670436	['Fernandez N', 'Theron P', 'Leiva S', 'Jordaan A']	
+29669709	['Muinga N', 'Magare S', 'Monda J', 'Kamau O', 'Houston S', 'Fraser H', 'Powell J', 'English M', 'Paton C']	
+296696
+29669476	['Graamans E', 'Ofware P', 'Nguura P', 'Smet E', 'Ten Have W']	
+29669224	['Tate JE', 'Mwenda JM', 'Armah G', 'Jani B', 'Omore R', 'Ademe A', 'Mujuru H', 'Mpabalwani E', 'Ngwira B', 'Cortese MM', 'Mihigo R', 'Glover-Addy H', 'Mbaga M', 'Osawa F', 'Tadesse A', 'Mbuwayesango B', 'Simwaka J', 'Cunliffe N', 'Lopman BA', 'Weldegebriel G', 'Ansong D', 'Msuya D', 'Ogwel B', 'Karengera T', 'Manangazira P', 'Bvulani B', 'Yen C', 'Zawaira FR', 'Narh CT', 'Mboma L', 'Saula P', 'Teshager F', 'Getachew H', 'Moeti RM', 'Eweronu-Laryea C', 'Parashar UD', 'African Intussusception Surveillance Network.']	
+29668876	['Muchemi SK', 'Zebitz CPW', 'Borgemeister C', 'Akutse KS', 'Foba CN', 'Ekesi S', 'Fiaboe KKM']	
+2966886
+2966869
+29667077	['Tominaga K', 'Kamimura K', 'Takahashi K', 'Yokoyama J', 'Terai S']	
+29666273	['Robinson A', 'Busula AO', 'Voets MA', 'Beshir KB', 'Caulfield JC', 'Powers SJ', 'Verhulst NO', 'Winskill P', 'Muwanguzi J', 'Birkett MA', 'Smallegange RC', 'Masiga DK', 'Mukabana WR', 'Sauerwein RW', 'Sutherland CJ', 'Bousema T', 'Pickett JA', 'Takken W', 'Logan JG', 'de Boer JG']	
+29665544	['Nóbrega RLB', 'Guzha AC', 'Lamparter G', 'Amorim RSS', 'Couto EG', 'Hughes HJ', 'Jungkunst HF', 'Gerold G']	
+29664874	['Fink EL', 'von Saint Andre-von Arnim A', 'Kumar R', 'Wilson PT', 'Bacha T', 'Aklilu AT', 'Teklemariam TL', 'Hooli S', 'Tuyisenge L', 'Otupiri E', 'Fabio A', 'Gianakas J', 'Kochanek PM', 'Angus DC', 'Tasker RC', 'Pediatric Acute Lung Injury and Sepsis Investigators (PALISI) Network, PALISI Global Health Subgroup, and Prevalence of Acute Critical Neurological Disease in Children: A Global Epidemiological Assessment (PANGEA) Investigators.']	
+29664764	['Cameron JE', 'Rositch AF', 'Vielot NA', 'Mugo NR', 'Kwatampora JKL', 'Waweru W', 'Gilliland AE', 'Hagensee ME', 'Smith JS']	
+29664376	['Loyola S', 'Flores-Mendoza C', 'Torre A', 'Kocher C', 'Melendrez M', 'Luce-Fedrow A', 'Maina AN', 'Richards AL', 'Leguia M']	
+29663966	['Barakat D', 'Rockers PC', 'Vian T', 'Onyango MA', 'Laing RO', 'Wirtz VJ']	
+29663828	['Lowther K', 'Harding R', 'Simms V', 'Gikaara N', 'Ahmed A', 'Ali Z', 'Kariuki H', 'Sherr L', 'Higginson IJ', 'Selman L']	
+29662693	['Adam MB', 'Muma S', 'Modi JA', 'Steere M', 'Cook N', 'Ellis W', 'Chen CT', 'Shirk A', 'Muma Nyagetuba JK', 'Hansen EN']	
+2966
+2966
+29659772	['Muchemi SK', 'Zebitz CPW', 'Borgemeister C', 'Akutse KS', 'Foba CN', 'Ekesi S', 'Fiaboe KKM']	
+29658
+29656660	['Adem FA', 'Kuete V', 'Mbaveng AT', 'Heydenreich M', 'Koch A', 'Ndakala A', 'Irungu B', 'Yenesew A', 'Efferth T']	
+29656343	['Riederer P', 'Jellinger KA', 'Kolber P', 'Hipp G', 'Sian-Hülsmann J', 'Krüger R']	
+29654869	['Ombati R', 'Wang Y', 'Du C', 'Lu X', 'Li B', 'Nyachieo A', 'Li Y', 'Yang S', 'Lai R']	
+296539
+29652559	['Okoth C', 'Opanga S', 'Okalebo F', 'Oluka M', 'Baker Kurdi A', 'Godman B']	
+2965
+29650565	['Gathii K', 'Nyataya JN', 'Mutai BK', 'Awinda G', 'Waitumbi JN']	
+29650452	['Sewankambo NK']	
+2965045
+29650424	['Kleinschmidt I', 'Bradley J', 'Knox TB', 'Mnzava AP', 'Kafy HT', 'Mbogo C', 'Ismail BA', 'Bigoga JD', 'Adechoubou A', 'Raghavendra K', 'Cook J', 'Malik EM', 'Nkuni ZJ', 'Macdonald M', 'Bayoh N', 'Ochomo E', 'Fondjo E', 'Awono-Ambene HP', 'Etang J', 'Akogbeto M', 'Bhatt RM', 'Chourasia MK', 'Swain DK', 'Kinyari T', 'Subramaniam K', 'Massougbodji A', 'Okê-Sopoh M', 'Ogouyemi-Hounto A', 'Kouambeng C', 'Abdin MS', 'West P', 'Elmardi K', 'Cornelie S', 'Corbel V', 'Valecha N', 'Mathenge E', 'Kamau L', 'Lines J', 'Donnelly MJ']	
+29649
+29649
+29649078	['Genberg BL', 'Lee H', 'Hogan JW', 'Some F', 'Wachira J', 'Wu XK', 'Braitstein P']	
+29645009	['Lea AJ', 'Tung J', 'Archie EA', 'Alberts SC']	
+29643756	['Kimanzi JK']	
+29643434	['Kaewthamasorn M', 'Takeda M', 'Saiwichai T', 'Gitaka JN', 'Tiawsirisup S', 'Imasato Y', 'Mossaad E', 'Sarani A', 'Kaewlamun W', 'Channumsin M', 'Chaiworakul S', 'Katepongpun W', 'Teeveerapunya S', 'Panthong J', 'Mureithi DK', 'Bawm S', 'Htun LL', 'Win MM', 'Ismail AA', 'Ibrahim AM', 'Suganuma K', 'Hakimi H', 'Nakao R', 'Katakura K', 'Asada M', 'Kaneko O']	
+29643376	['Early AM', 'Lievens M', 'MacInnis BL', 'Ockenhouse CF', 'Volkman SK', 'Adjei S', 'Agbenyega T', 'Ansong D', 'Gondi S', 'Greenwood B', 'Hamel M', 'Odero C', 'Otieno K', 'Otieno W', 'Owusu-Agyei S', 'Asante KP', 'Sorgho H', 'Tina L', 'Tinto H', 'Valea I', 'Wirth DF', 'Neafsey DE']	
+29642875	['Okoyo C', 'Simiyu E', 'Njenga SM', 'Mwandawiro C']	
+29642685	['Tarekegn GM', 'Ji XY', 'Bai X', 'Liu B', 'Zhang W', 'Birungi J', 'Djikeng A', 'Tesfaye K']	
+2964
+2963755
+29637
+29637
+29636758	['Wetzstein HY', 'Porter JA', 'Janick J', 'Ferreira JFS', 'Mutui TM']	
+29635966	['Allsop MJ', 'Namisango E', 'Powell RA']	
+29635854	['Zhang X', 'Wang M', 'Wang R', 'Ma Z', 'Long D', 'Mao H', 'Wen J', 'Bernard LA', 'Beauchemin KA', 'Tan Z']	
+2963550
+29635408	['Muchemi SK', 'Zebitz CPW', 'Borgemeister C', 'Akutse KS', 'Foba CN', 'Ekesi S', 'Fiaboe KKM']	
+29634772	['Hudson M', 'Rutherford GW', 'Weiser S', 'Fair E']	
+29634746	['Lee HS', 'Thiem VD', 'Anh DD', 'Duong TN', 'Lee M', 'Grace D', 'Nguyen-Viet H']	
+29632704	['Leslie HH', 'Malata A', 'Ndiaye Y', 'Kruk ME']	
+29632633	['Mutisya RK', 'Ngure K', 'Mwachari C']	
+2963
+2963
+2963
+2963043
+29629
+296290
+296290
+296289
+29628
+29628084	"[""Nzung'a SO"", 'Pan W', 'Shen T', 'Li W', 'Qin X', 'Wang C', 'Zhang L', 'Yu L']"	
+29627
+29626665	['Šumbera R', 'Krásová J', 'Lavrenchenko LA', 'Mengistu S', 'Bekele A', 'Mikula O', 'Bryja J']	
+29625902	['Wamalwa AO', 'Wanjeri JK', 'Nangole FW', 'Khainga SO']	
+29625349	['Holton KF', 'Ndege PK', 'Clauw DJ']	
+29625
+29624948	['Keyonzo N', 'Korir J', 'Abilla F', 'Sirera M', 'Nyakwara P', 'Bazant E', 'Waka C', 'Koskei N', 'Kabue M']	
+29623683	['Miloslavich P', 'Bax NJ', 'Simmons SE', 'Klein E', 'Appeltans W', 'Aburto-Oropeza O', 'Andersen Garcia M', 'Batten SD', 'Benedetti-Cecchi L', 'Checkley DM Jr', 'Chiba S', 'Duffy JE', 'Dunn DC', 'Fischer A', 'Gunn J', 'Kudela R', 'Marsac F', 'Muller-Karger FE', 'Obura D', 'Shin YJ']	
+296220
+29622003	['Ogbuabor DC', 'Onwujekwe OE']	
+29620927	['Turan JM', 'Darbes LA', 'Musoke PL', 'Kwena Z', 'Rogers AJ', 'Hatcher AM', 'Anderson JL', 'Owino G', 'Helova A', 'Weke E', 'Oyaro P', 'Bukusi EA']	
+296
+296
+296
+296
+296
+296
+296
+296
+296
+296
+296
+296
+296096
+29609567	['Mutumba M', 'Wekesa E', 'Stephenson R']	
+29608933	['Ali SK', 'Abdulkarim S']	
+29608727	['Shriner D', 'Tekola-Ayele F', 'Adeyemo A', 'Rotimi CN']	
+29607324	['Shaikh AJ', 'Mullooly M', 'Sayed S', 'Ndumia R', 'Abayo I', 'Orwa J', 'Wasike R', 'Moloo Z', 'Gierach GL']	
+29606
+29606
+29606
+29606
+29605263	['Baird R', 'Pandya K', 'Lal DR', 'Calkins CM', 'Oldham KT', 'Tsai A', 'Naik-Mathuria B', 'St-Louis E', 'Luc MK', 'LaRusso K', 'Petroze R', 'Lofberg KM', 'Biller CK', 'Villalona GA', 'Gourlay DM', 'Klein M', 'DeUgarte D', 'Cleary M', 'Berdan EA', 'Siddiqui S', 'Lo A', 'Langer M', 'Duffy D', 'Blair G', 'Beres A', 'Laberge JM', 'Berdan EA', 'Radulescu A', 'Holterman A', 'Hoover JD', 'Fitzgerald T', 'Ganey M', 'Krishnaswami S', 'Ozgediz D']	
+29604
+29604074	['Ndombi EM', 'Abudho B', 'Kittur N', 'Carter JM', 'Korir H', 'Riner DK', 'Ochanda H', 'Lee YM', 'Secor WE', 'Karanja DM', 'Colley DG']	
+29603484	['Gauthier J', 'Gayral P', 'Le Ru BP', 'Jancek S', 'Dupas S', 'Kaiser L', 'Gyapay G', 'Herniou EA']	
+29603
+2960275
+29602
+2960
+29600909	['Perry A', 'Graffeo CS', 'Brinjikji W', 'Copeland WR 3rd', 'Rabinstein AA', 'Link MJ']	
+29600595	['van der Straten A', 'Agot K', 'Ahmed K', 'Weinrib R', 'Browne EN', 'Manenzhe K', 'Owino F', 'Schwartz J', 'Minnis A', 'TRIO Study Team.']	
+2959908
+29596369	['van der Haar F', 'Knowles J', 'Bukania Z', 'Camara B', 'Pandav CS', 'Mwai JM', 'Toure NK', 'Yadav K']	
+295962
+29595836	['Njoya ET', 'Seetaram N']	
+29594962	['Migose SA', 'Bebe BO', 'de Boer IJM', 'Oosting SJ']	
+29594685	"[""M'mboroki KG"", 'Wandiga S', 'Oriaso SO']"	
+29594499	['González JB', 'Petipas RH', 'Franken O', 'Kiers ET', 'Veblen KE', 'Brody AK']	
+29593757	['Onyilo F', 'Tusiime G', 'Tripathi JN', 'Chen LH', 'Falk B', 'Stergiopoulos I', 'Tushemereirwe W', 'Kubiriba J', 'Tripathi L']	
+29590
+29590
+29590058	['Cohen J']	
+29590054	['Gibbons A']	
+2958999
+29589793	"['Singleton R', 'Winskell K', 'McLeod H', 'Gregg A', 'Sabben G', ""Obong'o C"", 'Dia F']"	
+29589096	['Rode H', 'Kyambi J', 'Lakhoo K']	
+2958904
+29588970	['Kind CJ', 'Newton CRJC', 'Kariuki SM', 'Neurodevelopment Disorders study group.']	
+2958895
+29588948	['Kakooza-Mwesige A', 'Ndyomugyenyi D', 'Pariyo G', 'Peterson SS', 'Waiswa PM', 'Galiwango E', 'Chengo E', 'Odhiambo R', 'Ssewanyana D', 'Bottomley C', 'Ngugi AK', 'Newton CRJC', 'SEEDS Writing Group.']	
+29588550	['Croitoru C', 'Stanek A']		20
+295884
+29587796	['Menon S', 'Luchters S', 'Rossi R', 'Callens S', 'Kishor M', 'Bogers J', 'Vanden Broeck D']	
+29587734	['Mehrbod P', 'Abdalla MA', 'Njoya EM', 'Ahmed AS', 'Fotouhi F', 'Farahmand B', 'Gado DA', 'Tabatabaian M', 'Fasanmi OG', 'Eloff JN', 'McGaw LJ', 'Fasina FO']	
+295849
+29584732	['Kahuthia-Gathu R', 'Kirubi Thungu D', 'Wangu L', 'Kimani R']	
+29584706	['Ndolo DO', 'Songa JM', 'Lövei GL']	
+29582728	['de Laurent ZR', 'Chebon LJ', 'Ingasia LA', 'Akala HM', 'Andagalu B', 'Ochola-Oyier LI', 'Kamau E']	
+29582340	['Lamuka PO', 'Njeruh FM', 'Gitao GC', 'Matofari J', 'Bowen R', 'Abey KA']	
+29582
+29582073	['Farquhar C', 'Nduati RW', 'Wasserheit JN']	
+2958
+2958
+295806
+29580207	['Gitobu CM', 'Gichangi PB', 'Mwanda WO']	
+29579957	['Pambo KO', 'Okello JJ', 'Mbeche RM', 'Kinyuru JN', 'Alemu MH']	
+29579943	['Kamau E', 'Mutungi C', 'Kinyuru J', 'Imathiu S', 'Tanga C', 'Affognon H', 'Ekesi S', 'Nakimbugwe D', 'Fiaboe KKM']	
+29577643	['Hussain M', 'Akutse KS', 'Lin Y', 'Chen S', 'Huang W', 'Zhang J', 'Idrees A', 'Qiu D', 'Wang L']	
+2957723
+29576942	"['Waruru A', 'Achia TNO', 'Muttai H', ""Ng'ang'a L"", 'Zielinski-Gutierrez E', 'Ochanda B', 'Katana A', 'Young PW', 'Tobias JL', 'Juma P', 'De Cock KM', 'Tylleskär T']"	
+29576808	['Ochoo L', 'Migwi C', 'Okumu J']	
+29576663	['Dizon-Ross R', 'Dupas P', 'Robinson J']	
+2957602
+295760
+29576000	['Han MN', 'Ramirez H', 'Ruvalcaba L', 'Contreras JL', 'Nyachieo A', 'Ramirez E']	
+29574688	['Standing JF', 'Ongas MO', 'Ogwang C', 'Kagwanja N', 'Murunga S', 'Mwaringa S', 'Ali R', 'Mturi N', 'Timbwa M', 'Manyasi C', 'Mwalekwa L', 'Bandika VL', 'Ogutu B', 'Waichungo J', 'Kipper K', 'Berkley JA', 'FLACSAM-PK Study Group.']	
+29573239	['Chaput JP', 'Barnes JD', 'Tremblay MS', 'Fogelholm M', 'Hu G', 'Lambert EV', 'Maher C', 'Maia J', 'Olds T', 'Onywera V', 'Sarmiento OL', 'Standage M', 'Tudor-Locke C', 'Katzmarzyk PT']	
+2957
+2957
+29570495	['Walson JL', 'Berkley JA']	
+2957047
+29570206	['Prendergast EA', 'Perkins S', 'Engel ME', 'Cupido B', 'Francis V', 'Joachim A', 'Al Kebsi M', 'Bode-Thomas F', 'Damasceno A', 'Abul Fadl A', 'El Sayed A', 'Gitura B', 'Kennedy N', 'Ibrahim A', 'Mucumbitsi J', 'Adeoye AM', 'Musuku J', 'Okello E', 'Olunuga T', 'Sheta S', 'Mayosi BM', 'Zühlke LJ', 'REMEDY investigators.']	
+29569396	['Burke TF', 'Thapa K', 'Shivkumar P', 'Tarimo V', 'Oguttu M', 'Garg L', 'Pande S', 'Fidvi J', 'Bangal V', 'Ochoa J', 'Amatya A', 'Eckardt M', 'Horo A', 'Rogo K', 'Kedar K', 'Manasyan A', 'Khalatkar P', 'Ku S', 'Seim A', 'Suarez S', 'Guha M', 'Abdalla K', 'Fuchtner C', 'Escobar MF', 'Arulkumaran S']	
+29568627	['Nyandat J', 'van Rensburg G']	
+2956862
+29567408	['Miri M', 'Bhatnagar A', 'Mahdavi Y', 'Basiri L', 'Nakhaei A', 'Khosravi R', 'Eslami H', 'Ghasemi SM', 'Balarak D', 'Alizadeh A', 'Mohammadi A', 'Derakhshan Z', 'Fallahzadeh RA', 'Taghavi M']	
+29566732	['Mtove G', 'Kimani J', 'Kisinza W', 'Makenga G', 'Mangesho P', 'Duparc S', 'Nakalembe M', 'Phiri KS', 'Orrico R', 'Rojo R', 'Vandenbroucke P']	
+29566040	['Ghilamicael AM', 'Boga HI', 'Anami SE', 'Mehari T', 'Budambula NLM']	
+29565733	"['Roebbelen E', 'Dorman K', 'Hunter A', 'Kraeker C', ""O'Shea T"", 'Bozinoff N']"	
+295650
+29564965	['Mesman J', 'Basweti N', 'Misati J']	
+29564957	['Mesman J']	
+29564879	['Marasca C', 'Annunziata MC', 'Donnarumma M', 'Russo G', 'Fabbrocini G']	
+29564
+29564
+29562997	['Click ES', 'Ouma GS', 'DeGruy K', 'Murithi W', 'Okonji JA', 'McCarthy KD', 'Musau S', 'Okumu A', 'Alexander H', 'Posey J', 'Cain KP']	
+29562979	['Baker BJ']	
+29562897	['Asiche WO', 'Mitalo OW', 'Kasahara Y', 'Tosa Y', 'Mworia EG', 'Owino WO', 'Ushijima K', 'Nakano R', 'Yano K', 'Kubo Y']	
+29562286	['Mackintosh M', 'Mugwagwa J', 'Banda G', 'Tibandebage P', 'Tunguhole J', 'Wangwe S', 'Karimi Njeru M']	
+2956
+29560570	['Minnis AM', 'Roberts ST', 'Agot K', 'Weinrib R', 'Ahmed K', 'Manenzhe K', 'Owino F', 'van der Straten A', 'TRIO Study Team.']	
+29559495	['Jacobstein R']	
+29558474	['Chea SK', 'Mwangi TW', 'Ndirangu KK', 'Abdullahi OA', 'Munywoki PK', 'Abubakar A', 'Hassan AS']	
+29558253	['Kågesten AE', 'Kabiru CW', 'Maina B', 'German D', 'Blum RW']	
+2955783
+29557673	['Wambui J', 'Lamuka P', 'Karuri E', 'Matofari J', 'Njage PMK']	
+29557339	['Kosgey A', 'Shitandi A', 'Marion JW']	
+29557326	['Hayden MH', 'Barrett E', 'Bernard G', 'Toko EN', 'Agawo M', 'Okello AM', 'Gunn JKL', 'Ernst KC']	
+29557288	['Joshi MP', 'Chintu C', 'Mpundu M', 'Kibuule D', 'Hazemba O', 'Andualem T', 'Embrey M', 'Phulu B', 'Gerba H']	
+2955674
+29555938	['Sewe MO', 'Tozan Y', 'Ahlm C', 'Rocklöv J']	
+2955543
+29554577	['Nakazato T', 'Tsuji Y', 'Kanai K', 'Noto YI', 'Hoshino Y', 'Yamashiro K', 'Yokoyama K', 'Nishioka K', 'Shimo Y', 'Watanabe O', 'Mizuno T', 'Hattori N']	
+29553629	['Cohen J', 'Lofgren K', 'McConnell M']			The American economic review	0	McConnell M	
+29553474	['Shelus V', 'Ashcroft N', 'Burgess S', 'Giuffrida M', 'Jennings V']	
+2955
+29550
+29550027	['Sayed S', 'Cherniak W', 'Lawler M', 'Tan SY', 'El Sadr W', 'Wolf N', 'Silkensen S', 'Brand N', 'Looi LM', 'Pai SA', 'Wilson ML', 'Milner D', 'Flanigan J', 'Fleming KA']	
+29549650	['Makalliwa GA', 'Wang X', 'Zhang H', 'Zhang N', 'Chen C', 'Li J', 'Deng F', 'Wang H', 'Wang M', 'Hu Z']	
+29549589	['Gikonyo S', 'Kimani T', 'Matere J', 'Kimutai J', 'Kiambi SG', 'Bitek AO', 'Juma Ngeiywa KJZ', 'Makonnen YJ', 'Tripodi A', 'Morzaria S', 'Lubroth J', 'Rugalema G', 'Fasina FO']	
+29547445	['Kroeze S', 'Ondoa P', 'Kityo CM', 'Siwale M', 'Akanmu S', 'Wellington M', 'de Jager M', 'Ive P', 'Mandaliya K', 'Stevens W', 'Boender TS', 'de Pundert ME', 'Sigaloff KCE', 'Reiss P', 'Wit FWNM', 'Rinke de Wit TF', 'Hamers RL']	
+29547434	['Chaudhury S', 'Mayondi GK', 'Williams PL', 'Leidner J', 'Shapiro R', 'Diseko M', 'Ajibola G', 'Holding P', 'Tepper V', 'Makhema J', 'Petlo C', 'Seage GR 3rd', 'Lockman S', 'Kammerer B']	
+29547066	['Schriver M', 'Cubaka VK', 'Vedsted P', 'Besigye I', 'Kallestrup P']	
+29546802	['Pommells M', 'Schuster-Wallace C', 'Watt S', 'Mulawa Z']	
+29546039	['Wanjala CL', 'Kweka EJ']	
+295455
+29545508	"['Brooks AS', 'Yellen JE', 'Potts R', 'Behrensmeyer AK', 'Deino AL', 'Leslie DE', 'Ambrose SH', 'Ferguson JR', ""d'Errico F"", 'Zipkin AM', 'Whittaker S', 'Post J', 'Veatch EG', 'Foecke K', 'Clark JB']"	
+29545506	['Potts R', 'Behrensmeyer AK', 'Faith JT', 'Tryon CA', 'Brooks AS', 'Yellen JE', 'Deino AL', 'Kinyanjui R', 'Clark JB', 'Haradon CM', 'Levin NE', 'Meijer HJM', 'Veatch EG', 'Owen RB', 'Renaut RW']	
+29545
+29543635	['Wilson KS', 'Wanje G', 'Masese L', 'Simoni JM', 'Shafi J', 'Adala L', 'Overbaugh J', 'Jaoko W', 'Richardson BA', 'McClelland RS']	
+2954
+2954
+29540577	['Whatney WE', 'Gandhi NR', 'Lindestam Arlehamn CS', 'Nizam A', 'Wu H', 'Quezada MJ', 'Campbell A', 'Allana S', 'Kabongo MM', 'Khayumbi J', 'Muchiri B', 'Ongalo J', 'Tonui J', 'Sasser LE', 'Fergus TJ', 'Ouma GS', 'Ouma SG', 'Beck AA', 'Mulligan MJ', 'Oladele A', 'Kaushal D', 'Cain KP', 'Waller L', 'Blumberg HM', 'Altman JD', 'Ernst JD', 'Rengarajan J', 'Day CL', 'TBRU-ASTRa Study Group.']	
+29538644	['Camenzind T', 'Hammer EC', 'Lehmann J', 'Solomon D', 'Horn S', 'Rillig MC', 'Hempel S']	
+29538385	['Okumu C', 'Oyugi B']	
+29537479	"['Rouleau K', 'Bourget M', 'Chege P', 'Couturier F', 'Godoy-Ruiz P', ""Grand'Maison PH"", 'Henry M', 'Israel K', 'Kapoor V', 'Kurniawan H', 'Lobo L', 'Maiga M', 'Franca SP', 'Redwood-Campbell L', 'Rodas J', 'Sohal R', 'Wondimagegn D', 'Woolard R']"	
+29537
+29535952	['Kalra S', 'Bahendeka S', 'Sahay R', 'Ghosh S', 'Md F', 'Orabi A', 'Ramaiya K', 'Al Shammari S', 'Shrestha D', 'Shaikh K', 'Abhayaratna S', 'Shrestha PK', 'Mahalingam A', 'Askheta M', 'A Rahim AA', 'Eliana F', 'Shrestha HK', 'Chaudhary S', 'Ngugi N', 'Mbanya JC', 'Aye TT', 'Latt TS', 'Akanov ZA', 'Syed AR', 'Tandon N', 'Unnikrishnan AG', 'Madhu SV', 'Jawa A', 'Chowdhury S', 'Bajaj S', 'Das AK']	
+29534988	['Salih DA', 'Mwacharo JM', 'Pelle R', 'Njahira MN', 'Odongo DO', 'Mbole-Kariuki MN', 'Marcellino WL', 'Malak AK', 'Kiara H', 'El Hussein ARM', 'Bishop RP', 'Skilton RA']	
+29534750	['Poyer S', 'Musuva A', 'Njoki N', 'Okara R', 'Cutherell A', 'Sievers D', 'Lussiana C', 'Memusi D', 'Kiptui R', 'Ejersa W', 'Dolan S', 'Charman N']	
+29534709	['Aidoo EK', 'Afrane YA', 'Machani MG', 'Chebore W', 'Lawson BW', 'Atieli H', 'Kariuki S', 'Lee MC', 'Koepfli C', 'Zhou G', 'Githeko AK', 'Yan G']	
+29534654	['Stafford KA', 'Nganga LW', 'Tulli T', 'Foreit KGF']	
+29533
+29533
+29532768	['Abudho BO', 'Ndombi EM', 'Guya B', 'Carter JM', 'Riner DK', 'Kittur N', 'Karanja DMS', 'Secor WE', 'Colley DG']	
+2953048
+29530
+29530086	['Onyango CG', 'Ogonda L', 'Guyah B', 'Okoth P', 'Shiluli C', 'Humwa F', 'Opollo V']	
+29530045	['Atake EH', 'Amendah DD']	
+2953003
+29529232	['Nyanjom SG', 'Tare C', 'Wamunyokoli F', 'Obiero GF']	
+29528045	['Slaymaker E', 'McLean E', 'Wringe A', 'Calvert C', 'Marston M', 'Reniers G', 'Kabudula CW', 'Crampin A', 'Price A', 'Michael D', 'Urassa M', 'Kwaro D', 'Sewe M', 'Eaton JW', 'Rhead R', 'Nakiyingi-Miiro J', 'Lutalo T', 'Nabukalu D', 'Herbst K', 'Hosegood V', 'Zaba B']	
+29527357	['Håkansson M', 'Oguttu M', 'Gemzell-Danielsson K', 'Makenzius M']	
+29527356	['Anstey Watkins J', 'Goudge J', 'Gómez-Olivé FX', 'Huxley C', 'Dodd K', 'Griffiths F']	
+29526279	['Shriner D', 'Rotimi CN']	
+29524953	['Munge K', 'Mulupi S', 'Barasa EW', 'Chuma J']	
+29524867	['Pike IL', 'Hilton C', 'Österle M', 'Olungah O']	
+29523850	['Gilchrist JJ', 'Rautanen A', 'Fairfax BP', 'Mills TC', 'Naranbhai V', 'Trochet H', 'Pirinen M', 'Muthumbi E', 'Mwarumba S', 'Njuguna P', 'Mturi N', 'Msefula CL', 'Gondwe EN', 'MacLennan JM', 'Chapman SJ', 'Molyneux ME', 'Knight JC', 'Spencer CCA', 'Williams TN', 'MacLennan CA', 'Scott JAG', 'Hill AVS']	
+29522056	['Coelho CH', 'Doritchamou JYA', 'Zaidi I', 'Duffy PE']	
+2952
+295
+295
+295
+295
+295
+295
+295
+295
+295
+295
+295
+295
+295
+295
+295
+295
+295
+295
+295
+295
+295
+29509897	['Bagny Beilhe L', 'Piou C', 'Tadu Z', 'Babin R']	
+29509835	['Mbaeyi C', 'Mohamed A', 'Owino BO', 'Mengistu KF', 'Ehrhardt D', 'Elsayed EA']	
+29509590	['Wools-Kaloustian K', 'Marete I', 'Ayaya S', 'Sohn AH', 'Van Nguyen L', 'Li S', 'Leroy V', 'Musick BS', 'Newman JE', 'Edmonds A', 'Davies MA', 'Eboua FT', 'Obama MT', 'Yotebieng M', 'Sawry S', 'Mofenson LM', 'Yiannoutsos CT']	
+29508275	['Silver B', 'Ramaiya K', 'Andrew SB', 'Fredrick O', 'Bajaj S', 'Kalra S', 'Charlotte BM', 'Claudine K', 'Makhoba A']	
+29507742	"[""Van't Hof E"", 'Dawson KS', 'Schafer A', 'Chiumento A', 'Harper Shehadeh M', 'Sijbrandij M', 'Bryant RA', 'Anjuri D', 'Koyiet P', 'Ndogoni L', 'Ulate J', 'van Ommeren M']"	
+29507602	['Mohamed MJ', 'Ochola S', 'Owino VO']	
+29507598	"[""Ng'ang'a PW"", 'Mathai M', 'Obondo A', 'Mutavi T', 'Kumar M']"	
+29507022	['Lelei-Mailu FJ', 'Mariara CM']	
+29506592	['Fiorella KJ', 'Milner EM', 'Bukusi E', 'Fernald LC']	
+29506583	['Ogongo P', 'Kariuki TM', 'Wilson RA']	
+29506439	['Lorway R', 'Lazarus L', 'Chevrier C', 'Khan S', 'Musyoki HK', 'Mathenge J', 'Mwangi P', 'Macharia P', 'Bhattacharjee P', 'Isac S', 'Kimani J', 'Gaaki G', 'Becker M', 'Moses S', 'Blanchard J']	
+29506077	['Ratti V', 'Rheingold E', 'Wallace D']	
+29506035	['Muchemi SK', 'Zebitz CPW', 'Borgemeister C', 'Akutse KS', 'Foba CN', 'Ekesi S', 'Fiaboe KKM']	
+29503303	['Kamau N', 'Njiru H']	
+2950249
+29502484	['Beck EJ', 'Shields JM', 'Tanna G', 'Henning G', 'de Vega I', 'Andrews G', 'Boucher P', 'Benting L', 'Garcia-Calleja JM', 'Cutler J', 'Ewing W', 'Kijsanayotin B', 'Kujinga T', 'Mahy M', 'Makofane K', 'Marsh K', 'Nacheeva C', 'Rangana N', 'Vega MFR', 'Sabin K', 'Varetska O', 'Macharia Wanyee S', 'Watiti S', 'Williams B', 'Zhao J', 'Nunez C', 'Ghys P', 'Low-Beer D']	
+29500236	['Böhme U', 'Otto TD', 'Cotton JA', 'Steinbiss S', 'Sanders M', 'Oyola SO', 'Nicot A', 'Gandon S', 'Patra KP', 'Herd C', 'Bushell E', 'Modrzynska KK', 'Billker O', 'Vinetz JM', 'Rivero A', 'Newbold CI', 'Berriman M']	
+29499620	['Nivet F', 'Bergonzini L', 'Mathé PE', 'Noret A', 'Monvoisin G', 'Majule A', 'Williamson D']	
+2949953
+29498237	['Giambrone CA', 'Cook-Cottone CP', 'Klein JE']	
+29498234	['Anderson SJ', 'Ghys PD', 'Ombam R', 'Hallett TB']	
+29497504	['Ogero M', 'Ayieko P', 'Makone B', 'Julius T', 'Malla L', 'Oliwa J', 'Irimu G', 'English M', 'Clinical Information Network author group.']	
+29497500	"['Winn LK', 'Lesser A', 'Menya D', 'Baumgartner JN', 'Kipkoech Kirui J', 'Saran I', ""Prudhomme-O'Meara W""]"	
+29496
+2949596
+29495365	['Koch W', 'Kukula-Koch W', 'Komsta Ł']	
+29494642	['Deribe K', 'Cano J', 'Trueba ML', 'Newport MJ', 'Davey G']	
+29494593	['Collaborative Initiative for Paediatric HIV Education and Research (CIPHER) Global Cohort Collaboration.', 'Slogrove AL', 'Schomaker M', 'Davies MA', 'Williams P', 'Balkan S', 'Ben-Farhat J', 'Calles N', 'Chokephaibulkit K', 'Duff C', 'Eboua TF', 'Kekitiinwa-Rukyalekere A', 'Maxwell N', 'Pinto J', 'Seage G 3rd', 'Teasdale CA', 'Wanless S', 'Warszawski J', 'Wools-Kaloustian K', 'Yotebieng M', 'Timmerman V', 'Collins IJ', 'Goodall R', 'Smith C', 'Patel K', 'Paul M', 'Gibb D', 'Vreeman R', 'Abrams EJ', 'Hazra R', 'Van Dyke R', 'Bekker LG', 'Mofenson L', 'Vicari M', 'Essajee S', 'Penazzato M', 'Anabwani G', 'Q Mohapi E', 'N Kazembe P', 'Hlatshwayo M', 'Lumumba M', 'Goetghebuer T', 'Thorne C', 'Galli L', 'van Rossum A', 'Giaquinto C', 'Marczynska M', 'Marques L', 'Prata F', 'Ene L', 'Okhonskaia L', 'Rojo P', 'Fortuny C', 'Naver L', 'Rudin C', 'Le Coeur S', 'Volokha A', 'Rouzier V', 'Succi R', 'Sohn A', 'Kariminia A', 'Edmonds A', 'Lelo P', 'Ayaya S', 'Ongwen P', 'Jefferys LF', 'Phiri S', 'Mubiana-Mbewe M', 'Sawry S', 'Renner L', 'Sylla M', 'Abzug MJ', 'Levin M', 'Oleske J', 'Chernoff M', 'Traite S', 'Purswani M', 'Chadwick EG', 'Judd A', 'Leroy V']	
+2949458
+29493903	"['Verney A', 'Reed BA', 'Lumumba JB', ""Kung'u JK""]"	
+29493902	"[""Kung'u JK"", 'Pendame R', 'Ndiaye MB', 'Gerbaba M', 'Ochola S', 'Faye A', 'Basnet S', 'Frongillo EA', 'Wuehler S', 'De-Regil LM']"	
+2949390
+29493900	"['Anono EL', 'Ochola S', 'Wawire S', 'Ogada I', 'Ndedda C', ""Kung'u JK""]"	
+29493898	['Dettinger JC', 'Kamau S', 'Calkins K', 'Cohen SR', 'Cranmer J', 'Kibore M', 'Gachuno O', 'Walker D']	
+29493897	"['Omotayo MO', 'Dickin KL', 'Pelletier DL', 'Martin SL', ""Kung'u JK"", 'Stoltzfus RJ']"	
+2949382
+2949359
+29492339	['Kinyanyi D', 'Obiero G', 'Obiero GFO', 'Amwayi P', 'Mwaniki S', 'Wamalwa M']	
+294923
+29490609	['Okaru AO', 'Rullmann A', 'Farah A', 'Gonzalez de Mejia E', 'Stern MC', 'Lachenmeier DW']	
+29490572	"[""Ng'eno BN"", 'Kellogg TA', 'Kim AA', 'Mwangi A', 'Mwangi M', 'Wamicwe J', 'Rutherford GW']"	
+29489350	['Chepkirui C', 'Yuyama KT', 'Wanga LA', 'Decock C', 'Matasyoh JC', 'Abraham WR', 'Stadler M']	
+29488456	['Heath CJ', 'Nayakwadi-Singer M', 'King CH', 'Malhotra I', 'Mutuku F', 'Mukoko D', 'LaBeaud AD']	
+29484
+29479566	['Ongas M', 'Standing J', 'Ogutu B', 'Waichungo J', 'Berkley JA', 'Kipper K']	
+29479527	['Ssewanyana D', 'Bitanihirwe B']	
+29479525	['Ssewanyana D', 'Abubakar A', 'van Baar A', 'Mwangala PN', 'Newton CR']	
+29479
+29478265	['Lloyd CE', 'Nouwen A', 'Sartorius N', 'Ahmed HU', 'Alvarez A', 'Bahendeka S', 'Basangwa D', 'Bobrov AE', 'Boden S', 'Bulgari V', 'Burti L', 'Chaturvedi SK', 'Cimino LC', 'Gaebel W', 'de Girolamo G', 'Gondek TM', 'de Braude MG', 'Guntupalli A', 'Heinze MG', 'Ji L', 'Hong X', 'Khan A', 'Kiejna A', 'Kokoszka A', 'Kamala T', 'Lalic NM', 'Lecic Tosevski D', 'Mankovsky B', 'Li M', 'Musau A', 'Müssig K', 'Ndetei D', 'Rabbani G', 'Srikanta SS', 'Starostina EG', 'Shevchuk M', 'Taj R', 'Vukovic O', 'Wölwer W', 'Xin Y']	
+29477853	['Zaehringer JG', 'Wambugu G', 'Kiteme B', 'Eckert S']	
+29476436	['Hewko SJ', 'Cummings GG', 'Pietrosanu M', 'Edwards N']	
+29474479	['Tumwine JK', 'Nankabirwa V', 'Diallo HA', 'Engebretsen IMS', 'Ndeezi G', 'Bangirana P', 'Sanou AS', 'Kashala-Abotnes E', 'Boivin M', 'Giordani B', 'Elgen IB', 'Holding P', 'Kakooza-Mwesige A', 'Skylstad V', 'Nalugya J', 'Tylleskar T', 'Meda N']	
+29474397	['Cranmer JN', 'Dettinger J', 'Calkins K', 'Kibore M', 'Gachuno O', 'Walker D']	
+29474362	['Amo-Adjei J', 'Aduo-Adjei K', 'Opoku-Nyamaah C', 'Izugbara C']	
+29474269	['Waruru A', 'Achia TNO', 'Tobias JL', 'Ngʼangʼa J', 'Mwangi M', 'Wamicwe J', 'Zielinski-Gutierrez E', 'Oluoch T', 'Muthama E', 'Tylleskär T']	
+29472635	['Adetifa IMO', 'Adamu AL', 'Karani A', 'Waithaka M', 'Odeyemi KA', 'Okoromah CAN', 'Bello MM', 'Abubakar IS', 'Inem V', 'Scott JAG']	
+29472342	['Adego AK', 'Poulicard N', 'Pinel-Galzi A', 'Mukoye B', 'Fargette D', 'Wéré HK', 'Hébrard E']	
+2947
+2947
+29470545	['Sieverding M', 'Onyango C', 'Suchman L']	
+29467506	['Hsiao BS', 'Chigome S', 'Torto N']	
+29466989	['Wondwosen B', 'Birgersson G', 'Tekie H', 'Torto B', 'Ignell R', 'Hill SR']	
+29466385	['Vreeman RC', 'Ayaya SO', 'Musick BS', 'Yiannoutsos CT', 'Cohen CR', 'Nash D', 'Wabwire D', 'Wools-Kaloustian K', 'Wiehe SE']	
+29466380	['Klemmer J', 'Njeru J', 'Emam A', 'El-Sayed A', 'Moawad AA', 'Henning K', 'Elbeskawy MA', 'Sauter-Louis C', 'Straubinger RK', 'Neubauer H', 'El-Diasty MM']	
+29465667	['Lockhart A', 'Psioda M', 'Ting J', 'Campbell S', 'Mugo N', 'Kwatampora J', 'Chitwa M', 'Kimani J', 'Gakure A', 'Smith JS']	
+29465649	['Balkus JE', 'Manhart LE', 'Jensen JS', 'Anzala O', 'Kimani J', 'Schwebke J', 'Shafi J', 'Rivers C', 'Kabare E', 'McClelland RS']	
+2946529
+29464908	['Wang G', 'Ekeleme-Egedigwe CA', 'El Hamdouchi A', 'Sauciuvenaite J', 'Bissland R', 'Djafarian K', 'Ojiambo R', 'Ramuth H', 'Holasek S', 'Lackner S', 'Diouf A', 'Hambly C', 'Vaanholt LM', 'Cao M', 'Hacker M', 'Kruger HS', 'Seru T', 'Faries MD', 'Speakman JR']	
+29464876	['Mutiso VN', 'Musyimi CW', 'Musau AM', 'Nandoya ES', 'Mckenzie K', 'Ndetei DM']	
+2946435
+29464
+29463983	['Ondieki DK', 'Nyaboga EN', 'Wagacha JM', 'Mwaura FB']	
+29463264	['Giorgi E', 'Osman AA', 'Hassan AH', 'Ali AA', 'Ibrahim F', 'Amran JGH', 'Noor AM', 'Snow RW']	
+29462354	['McCann RS', 'Gimnig JE', 'Bayoh MN', 'Ombok M', 'Walker ED']	
+29462322	['Inzaule SC', 'Hamers RL', 'Noguera-Julian M', 'Casadellà M', 'Parera M', 'Rinke de Wit TF', 'Paredes R']	
+29462
+29460738	['Brent AJ', 'Nyundo C', 'Langat J', 'Mulunda C', 'Wambua J', 'Bauni E', 'Sande J', 'Park K', 'Williams TN', 'Newton CRJ', 'Levin M', 'Scott JAG', 'KIDS TB Study Group.']	
+294603
+29459242	['Boudreau CL', 'Kress H', 'Rochat RW', 'Yount KM']	
+29458337	['Njom Nlend AE', 'Motaze ACN', 'Sandie A', 'Fokam J']	
+29455572	['Hancuch K', 'Baeten J', 'Ngure K', 'Celum C', 'Mugo N', 'Tindimwebwa E', 'Heffron R', 'Partners Demonstration Project Team.']	
+29455053	['Rhodes T']	
+29454383	['Kimani KN', 'Murray SA', 'Grant L']	
+294542
+29453584	['Ouko I', 'Kigera J', 'Ongeti K', 'Pulei A']	
+29453
+29452597	['Kabogo J', 'Muniu E', 'Wamunyokoli F', 'Musoke R', 'Songok E']	
+29452587	['Ushie BA', 'Izugbara CO', 'Mutua MM', 'Kabiru CW']	
+29450095	['Roka ZG', 'Githuku J', 'Obonyo M', 'Boru W', 'Galgalo T', 'Amwayi S', 'Kioko J', 'Njoroge D', 'Ransom JA']	
+29447207	['Turkalo AK', 'Wrege PH', 'Wittemyer G']	
+29446643	['Raheem D', 'Carrascosa C', 'Oluwole OB', 'Nieuwland M', 'Saraiva A', 'Millán R', 'Raposo A']	
+29444786	['Abdullahi LH', 'Smit I', 'Engel ME', 'Watkins DA', 'Zühlke LJ']	
+29444
+29440767	['Weetman D', 'Wilding CS', 'Neafsey DE', 'Müller P', 'Ochomo E', 'Isaacs AT', 'Steen K', 'Rippon EJ', 'Morgan JC', 'Mawejje HD', 'Rigden DJ', 'Okedi LM', 'Donnelly MJ']	
+29440
+29439382	['Ongete G', 'Duffy FJR']	
+29439024	['Mure LS', 'Le HD', 'Benegiamo G', 'Chang MW', 'Rios L', 'Jillani N', 'Ngotho M', 'Kariuki T', 'Dkhissi-Benyahya O', 'Cooper HM', 'Panda S']	
+29438568	['Misango D', 'Pattnaik R', 'Baker T', 'Dünser MW', 'Dondorp AM', 'Schultz MJ', 'Global Intensive Care Working Group.', 'of the European Society of Intensive Care Medicine (ESICM) and the Mahidol Oxford Tropical Medicine Research Unit (MORU) in Bangkok, Thailand.']	
+29438
+29437956	['Noble AE', 'Rosenstock TS', 'Brown PH', 'Machta J', 'Hastings A']	
+2943763
+29437273	['Muturi P', 'Yu J', 'Li J', 'Jiang M', 'Maina AN', 'Kariuki S', 'Mwaura FB', 'Wei H']	
+29436344	['Deichsel EL', 'Tickell KD', 'Long JE', 'Jumbe NL', 'Rowhani-Rahbar A', 'Walson JL']	
+29435766	['Sainepo BM', 'Gachene CK', 'Karuma A']	
+29435353	['Schafer A', 'Koyiet P']	
+2943523
+2943520
+29434580	['Okoth S', 'De Boevre M', 'Vidal A', 'Diana Di Mavungu J', 'Landschoot S', 'Kyallo M', 'Njuguna J', 'Harvey J', 'De Saeger S']	
+29434532	['Black GF', 'Davies A', 'Iskander D', 'Chambers M']	
+29433659	['van der Merwe C', 'Mwesiga EK', 'McGregor NW', 'Ejigu A', 'Tilahun AW', 'Kalungi A', 'Akimana B', 'Dubale BW', 'Omari F', 'Mmochi J', 'Majara L', 'Ongeri L', 'Alemayehu M', 'Koen N', 'Dalvie S', 'Kariuki SM', 'Hoogenhout M']	
+29433443	['Nyirenda SS', 'Hang Ombe BM', 'Simulundu E', 'Mulenga E', 'Moonga L', 'Machang U RS', 'Misinzo G', 'Kilonzo BS']	
+29432666	"['Wandera EA', 'Mohammad S', 'Bundi M', 'Nyangao J', 'Galata A', 'Kathiiko C', 'Odoyo E', 'Guyo S', ""Miring'u G"", 'Komoto S', 'Ichinose Y']"	
+29432444	['Odoyo-June E', 'Agot K', 'Mboya E', 'Grund J', 'Musingila P', 'Emusu D', 'Soo L', 'Otieno-Nyunya B']	
+29429986	['Ntomoka CG', 'Rajesh B', 'Muriithi GM', 'Goud A', 'Chhablani J']	
+294298
+29429808	['Lacasta A', 'Mwalimu S', 'Kibwana E', 'Saya R', 'Awino E', 'Njoroge T', 'Poole J', 'Ndiwa N', 'Pelle R', 'Nene V', 'Steinaa L']	
+29428509	['Sahoo RK', 'Lohman DJ', 'Wahlberg N', 'Müller CJ', 'Brattström O', 'Collins SC', 'Peggie D', 'Aduse-Poku K', 'Kodandaramaiah U']	
+29427633	['Gesquiere LR', 'Pugh M', 'Alberts SC', 'Markham AC']	
+29427246	"['Mwendia SW', 'Mwungu CM', ""Ng'ang'a SK"", 'Njenga D', 'Notenbaert A']"	
+29426478	['Hobbs EC', 'Mwape KE', 'Devleesschauwer B', 'Gabriël S', 'Chembensofu M', 'Mambwe M', 'Phiri IK', 'Masuku M', 'Zulu G', 'Colston A', 'Willingham AL', 'Berkvens D', 'Dorny P', 'Bottieau E', 'Speybroeck N']	
+29426307	['Iro MA', 'Sell T', 'Brown N', 'Maitland K']	
+29425232	['Munyua P', 'Onyango C', 'Mwasi L', 'Waiboci LW', 'Arunga G', 'Fields B', 'Mott JA', 'Cardona CJ', 'Kitala P', 'Nyaga PN', 'Njenga MK']	
+29425
+29425
+29424834	['Lea AJ', 'Tung J', 'Archie EA', 'Alberts SC']	
+29424720	['Murray AL', 'Kumpel E', 'Peletz R', 'Khush RS', 'Lantagne DS']	
+29423708	['Otsyina HR', 'Nguhiu-Mwangi J', 'Mogoa EGM', 'Mbuthia PG', 'Ogara WO']	
+29423655	['Mbinda W', 'Ombori O', 'Dixelius C', 'Oduor R']	
+29423232	['Sogbohossou EOD', 'Achigan-Dako EG', 'Maundu P', 'Solberg S', 'Deguenon EMS', 'Mumm RH', 'Hale I', 'Van Deynze A', 'Schranz ME']	
+29423
+29422946	['Glass N', 'Perrin N', 'Clough A', 'Desgroppes A', 'Kaburu FN', 'Melton J', 'Rink A', 'Read-Hamilton S', 'Marsh M']	
+29422908	['Meegahakumbura MK', 'Wambulwa MC', 'Li MM', 'Thapa KK', 'Sun YS', 'Möller M', 'Xu JC', 'Yang JB', 'Liu J', 'Liu BY', 'Li DZ', 'Gao LM']	
+2942275
+29422377	"['Hufnagel D', 'Goetz LG', 'Hu Z', 'Nyachieo A', ""D'Hooghe T"", 'Fazleabas A', 'Duleba A', 'Krikun G', 'Taylor HS', 'Lockwood CJ']"	
+2942
+29420867	['Bastille-Rousseau G', 'Douglas-Hamilton I', 'Blake S', 'Northrup JM', 'Wittemyer G']	
+29420624	['Dutton CL', 'Subalusky AL', 'Anisfeld SC', 'Njoroge L', 'Rosi EJ', 'Post DM']	
+29420608	['Perciani CT', 'Jaoko W', 'Farah B', 'Ostrowski MA', 'Anzala O', 'MacDonald KS', 'KAVI-ICR Team.']	
+294
+294
+294
+294
+294
+294
+294
+294
+294
+29409870	['Rhee JY', 'Garralda E', 'Namisango E', 'Luyirika E', 'de Lima L', 'Powell RA', 'Robinson CA', 'Centeno C']	
+294095
+29408422	['Pyra M', 'Lingappa JR', 'Heffron R', 'Erikson DW', 'Blue SW', 'Patel RC', 'Nanda K', 'Rees H', 'Mugo NR', 'Davis NL', 'Kourtis AP', 'Baeten JM', 'Partners in Prevention HSV/HIV Transmission Study and Partners PrEP Study Teams.']	
+29408266	['Hemmink JD', 'Sitt T', 'Pelle R', 'de Klerk-Lorist LM', 'Shiels B', 'Toye PG', 'Morrison WI', 'Weir W']	
+29407660	['Miller TR', 'Levy DT', 'Swedler DI']	
+29407645	['Taylor DDJ', 'Khush R', 'Peletz R', 'Kumpel E']	
+2940643
+29405577	['Ma G', 'Kimatu BM', 'Zhao L', 'Yang W', 'Pei F', 'Hu Q']	
+2940552
+2940475
+29403
+29402268	['Mfueni E', 'Devleesschauwer B', 'Rosas-Aguirre A', 'Van Malderen C', 'Brandt PT', 'Ogutu B', 'Snow RW', 'Tshilolo L', 'Zurovac D', 'Vanderelst D', 'Speybroeck N']	
+29402255	['Mutiso SK', 'Murage A', 'Mukaindo AM']	
+2940220
+2940
+29399635	['Marangu D', 'Mwaniki H', 'Nduku S', 'Maleche-Obimbo E', 'Jaoko W', 'Babigumira J', 'John-Stewart G', 'Rao D']	
+29399634	['Mutavi T', 'Mathai M', 'Obondo A']	
+29397542	['Githumbi EN', 'Courtney Mustaphi CJ', 'Yun KJ', 'Muiruri V', 'Rucina SM', 'Marchant R']	
+29396706	['Owiti EO', 'Yang H', 'Liu P', 'Ominde CF', 'Sun X']	
+293966
+29396383	['Edwards G', 'Kyakuwaire H', 'Brownie S']	
+29396220	['Ouma PO', 'Maina J', 'Thuranira PN', 'Macharia PM', 'Alegana VA', 'English M', 'Okiro EA', 'Snow RW']	
+293962
+29396006	['McClelland RS', 'Lingappa JR', 'Srinivasan S', 'Kinuthia J', 'John-Stewart GC', 'Jaoko W', 'Richardson BA', 'Yuhas K', 'Fiedler TL', 'Mandaliya KN', 'Munch MM', 'Mugo NR', 'Cohen CR', 'Baeten JM', 'Celum C', 'Overbaugh J', 'Fredricks DN']	
+293954
+29394269	"['Seipone ID', 'Singh R', 'Patel VB', 'Singh A', 'Gordon ML', 'Muema DM', 'Dheda K', ""Ndung'u T""]"	
+293935
+29392964	['Kariuki SM', 'Newton CRJC', 'Abubakar A', 'Bitta MA', 'Odhiambo R', 'Phillips Owen J']	
+2939
+2939
+29390
+29389958	"['Laktabai J', 'Platt A', 'Menya D', 'Turner EL', 'Aswa D', 'Kinoti S', ""O'Meara WP""]"	
+29389902	['Diouf L', 'Magwanga RO', 'Gong W', 'He S', 'Pan Z', 'Jia YH', 'Kirungu JN', 'Du X']	
+29389600	['Li HP', 'Yang WJ', 'Qu SX', 'Pei F', 'Luo X', 'Mariga AM', 'Ma L']	
+2938954
+29387998	['Magai DN', 'Malik JA', 'Koot HM']	
+29387809	['Murphy GAV', 'Nyakangi VN', 'Gathara D', 'Ogero M', 'English M', 'Clinical Information Network.']	
+29387800	['Barasa EW', 'Mwaura N', 'Rogo K', 'Andrawes L']	
+29387300	['Kariuki BN', 'Butt F', 'Mandela P', 'Odula P']	
+29385
+2938333
+29382388	['Dengela D', 'Seyoum A', 'Lucas B', 'Johns B', 'George K', 'Belemvire A', 'Caranci A', 'Norris LC', 'Fornadel CM']	
+29382040	['Kimani NM', 'Matasyoh JC', 'Kaiser M', 'Brun R', 'Schmidt TJ']	
+29380007	['Litswa L']	
+29379
+2937863
+29378622	['Odeny TA', 'Onono M', 'Owuor K', 'Helova A', 'Wanga I', 'Bukusi EA', 'Turan JM', 'Abuogi LL']	
+29378
+29378045	['Williams AM', 'Stewart CP', 'Shahab-Ferdows S', 'Hampel D', 'Kiprotich M', 'Achando B', 'Lin A', 'Null CA', 'Allen LH', 'Chantry CJ']	
+29375556	['Obiero CW', 'Ndiaye AGW', 'Sciré AS', 'Kaunyangi BM', 'Marchetti E', 'Gone AM', 'Schütte LD', 'Riccucci D', 'Auerbach J', 'Saul A', 'Martin LB', 'Bejon P', 'Njuguna P', 'Podda A']	
+29374444	['King L', 'Pardo M', 'Weerathunga S', 'Kumara TV', 'Jayasena N', 'Soltis J', 'de Silva S']	
+29374
+29372432	['Cross FR', 'Jackson RR']	
+2937
+2937
+29370220	['Jayaweera RT', 'Ngui FM', 'Hall KS', 'Gerdts C']	
+293676
+29367348	['Sivro A', 'Schuetz A', 'Sheward D', 'Joag V', 'Yegorov S', 'Liebenberg LJ', 'Yende-Zuma N', 'Stalker A', 'Mwatelah RS', 'Selhorst P', 'Garrett N', 'Samsunder N', 'Balgobin A', 'Nawaz F', 'Cicala C', 'Arthos J', 'Fauci AS', 'Anzala AO', 'Kimani J', 'Bagaya BS', 'Kiwanuka N', 'Williamson C', 'Kaul R', 'Passmore JS', 'Phanuphak N', 'Ananworanich J', 'Ansari A', 'Abdool Karim Q', 'Abdool Karim SS', 'McKinnon LR', 'CAPRISA004 and RV254 study groups.']	
+29365
+29365083	['Hosseinipour MC', 'Kang M', 'Krown SE', 'Bukuru A', 'Umbleja T', 'Martin JN', 'Orem J', 'Godfrey C', 'Hoagland B', 'Mwelase N', 'Langat D', 'Nyirenda M', 'MacRae J', 'Borok M', 'Samaneka W', 'Moses A', 'Mngqbisa R', 'Busakhala N', 'Martínez-Maza O', 'Ambinder R', 'Dittmer DP', 'Nokta M', 'Campbell TB', 'A5264/AMC-067 REACT-KS Team.']	
+29364979	['Thomson KA', 'Telfer B', 'Opondo Awiti P', 'Munge J', 'Ngunga M', 'Reid A']	
+29364
+29363453	['Hemming-Schroeder E', 'Umukoro E', 'Lo E', 'Fung B', 'Tomás-Domingo P', 'Zhou G', 'Zhong D', 'Dixit A', 'Atieli H', 'Githeko A', 'Vardo-Zalik A', 'Yan G']	
+29363447	['Hemming-Schroeder E', 'Strahl S', 'Yang E', 'Nguyen A', 'Lo E', 'Zhong D', 'Atieli H', 'Githeko A', 'Yan G']	
+29362537	['Song Y', 'Zhao H', 'Luo Y', 'Kioko GM', 'Kioko EN', 'Li S']	
+29362525	['Rowson B', 'Paustian M', 'Goethem JV']	
+293620
+2936
+2936
+29360870	['Omosun YO', 'Blackstock AJ', 'Williamson J', 'van Eijk AM', 'Ayisi J', 'Otieno J', 'Lal RB', 'Ter Kuile FO', 'Slutsker L', 'Shi YP']	
+29359996	['Okoth VA', 'Maina JW', 'Ransom J']	
+2935842
+293578
+29357367	['Mujibi FD', 'Okoth E', 'Cheruiyot EK', 'Onzere C', 'Bishop RP', 'Fèvre EM', 'Thomas L', 'Masembe C', 'Plastow G', 'Rothschild M']	
+29355826	['Bisung E', 'Elliott SJ']	
+29355825	['Eberhardt E', 'Van den Kerkhof M', 'Bulté D', 'Mabille D', 'Van Bockstal L', 'Monnerat S', 'Alves F', 'Mbui J', 'Delputte P', 'Cos P', 'Hendrickx S', 'Maes L', 'Caljon G']	
+2935523
+29355224	['Hofmeyr GJ', 'Morrison CS', 'Baeten JM', 'Chipato T', 'Donnell D', 'Gichangi P', 'Mugo N', 'Nanda K', 'Rees H', 'Steyn P', 'Taylor D', 'ECHO Trial Team.']	
+2935466
+29353552	['Verhoef H', 'Teshome E', 'Prentice AM']	
+29353495	['Musindo O', 'Bangirana P', 'Kigamwa P', 'Okoth R', 'Kumar M']	
+293530
+29352
+2935
+2935
+2935
+2935
+29349653	['Wainaina CW', 'Wanjohi M', 'Wekesah F', 'Woolhead G', 'Kimani-Murage E']	
+29349288	['Ngina P', 'Mbogo RW', 'Luboobi LS']	
+29348584	['Lianto P', 'Han S', 'Li X', 'Ogutu FO', 'Zhang Y', 'Fan Z', 'Che H']	
+29348353	['Mbeyagala EK', 'Tukamuhabwa P', 'Bisikwa J', 'Holton T', 'Mukasa SB']	
+29348066	['Ortiz-Gonzalo D', 'de Neergaard A', 'Vaast P', 'Suárez-Villanueva V', 'Oelofse M', 'Rosenstock TS']	
+29347975	"['Taylor WR', 'Naw HK', 'Maitland K', 'Williams TN', 'Kapulu M', ""D'Alessandro U"", 'Berkley JA', 'Bejon P', 'Okebe J', 'Achan J', 'Amambua AN', 'Affara M', 'Nwakanma D', 'van Geertruyden JP', 'Mavoko M', 'Lutumba P', 'Matangila J', 'Brasseur P', 'Piola P', 'Randremanana R', 'Lasry E', 'Fanello C', 'Onyamboko M', 'Schramm B', 'Yah Z', 'Jones J', 'Fairhurst RM', 'Diakite M', 'Malenga G', 'Molyneux M', 'Rwagacondo C', 'Obonyo C', 'Gadisa E', 'Aseffa A', 'Loolpapit M', 'Henry MC', 'Dorsey G', 'John C', 'Sirima SB', 'Barnes KI', 'Kremsner P', 'Day NP', 'White NJ', 'Mukaka M']"	
+29347942	['Amek NO', 'Van Eijk A', 'Lindblade KA', 'Hamel M', 'Bayoh N', 'Gimnig J', 'Laserson KF', 'Slutsker L', 'Smith T', 'Vounatsou P']	
+29346385	['Means AR', 'van Lieshout L', 'Brienen E', 'Yuhas K', 'Hughes JP', 'Ndungu P', 'Singa B', 'Walson JL']	
+29346366	['Werkman M', 'Wright JE', 'Truscott JE', 'Easton AV', 'Oliveira RG', 'Toor J', 'Ower A', 'Ásbjörnsdóttir KH', 'Means AR', 'Farrell SH', 'Walson JL', 'Anderson RM']	
+29345727	['Parker KM']	
+29345603	['Macharia TN', 'Ochola S', 'Mutua MK', 'Kimani-Murage EW']	
+2934507
+29343308	['Mrode R', 'Tarekegn GM', 'Mwacharo JM', 'Djikeng A']	
+29343295	['Steinaa L', 'Svitek N', 'Awino E', 'Saya R', 'Toye P']	
+29343279	['Dida GO', 'Anyona DN', 'Abuom PO', 'Akoko D', 'Adoka SO', 'Matano AS', 'Owuor PO', 'Ouma C']	
+29343225	['Toda M', 'Zurovac D', 'Njeru I', 'Kareko D', 'Mwau M', 'Morita K']	
+29342452	['Odhiambo Sewe M', 'Bunker A', 'Ingole V', 'Egondi T', 'Oudin Åström D', 'Hondula DM', 'Rocklöv J', 'Schumann B']	
+2934225
+29342229	['Ning C', 'Wang D', 'Kang H', 'Mrode R', 'Zhou L', 'Xu S', 'Liu JF']	
+29342
+29338736	['Moukam Kakmeni FM', 'Guimapi RYA', 'Ndjomatchoua FT', 'Pedro SA', 'Mutunga J', 'Tonnang HEZ']	
+29338355	['Odak JA', 'Manguro LOA', 'Wong KC']	
+29337664	['Quinlan MM', 'Birungi J', 'Coulibaly MB', 'Diabaté A', 'Facchinelli L', 'Mukabana WR', 'Mutunga JM', 'Nolan T', 'Raymond P', 'Traoré SF']	
+29337662	['Quinlan MM', 'Mutunga JM', 'Diabaté A', 'Namountougou M', 'Coulibaly MB', 'Sylla L', 'Kayondo J', 'Balyesima V', 'Clark L', 'Benedict MQ', 'Raymond P']	
+29337258	"[""King'ori EM"", 'Obanda V', 'Ndambiri EM', 'Runo SM', 'Chiyo PI']"	
+29336236	['Adebamowo SN', 'Francis V', 'Tambo E', 'Diallo SH', 'Landouré G', 'Nembaware V', 'Dareng E', 'Muhamed B', 'Odutola M', 'Akeredolu T', 'Nerima B', 'Ozumba PJ', 'Mbhele S', 'Ghanash A', 'Wachinou AP', 'Ngomi N']	
+29335
+29334890	['Magwanga RO', 'Lu P', 'Kirungu JN', 'Lu H', 'Wang X', 'Cai X', 'Zhou Z', 'Zhang Z', 'Salih H', 'Wang K', 'Liu F']	
+29334547	['Torres TS', 'Harrison LJ', 'La Rosa AM', 'Cardoso SW', 'Zheng L', 'Ngongondo M', 'Some F', 'Lalloo UG', 'Mwelase T', 'Collier AC', 'Hughes MD', 'AIDS Clinical Trials Group (ACTG) A5273 Study Group.']	
+29333288	['Gomez-Olive FX', 'Schröders J', 'Aboderin I', 'Byass P', 'Chatterji S', 'Davies JI', 'Debpuur C', 'Hirve S', 'Hodgson A', 'Juvekar S', 'Kahn K', 'Kowal P', 'Nathan R', 'Ng N', 'Razzaque A', 'Sankoh O', 'Streatfield PK', 'Tollman SM', 'Wilopo SA', 'Witham MD']	
+29332730	['Tawa N', 'Louw Q']	
+29332686	['Manyanga T', 'Barnes JD', 'Tremblay MS', 'Katzmarzyk PT', 'Broyles ST', 'Barreira TV', 'Fogelholm M', 'Hu G', 'Maher C', 'Maia J', 'Olds T', 'Sarmiento OL', 'Standage M', 'Tudor-Locke C', 'Chaput JP', 'ISCOLE Research Group.']	
+293325
+2933
+29330454	['Platt A', 'Obala AA', 'MacIntyre C', 'Otsyula B', 'Meara WPO']	
+29330384	['Click ES', 'Murithi W', 'Ouma GS', 'McCarthy K', 'Willby M', 'Musau S', 'Alexander H', 'Pevzner E', 'Posey J', 'Cain KP']	
+29329448	['Akech S', 'Rotich B', 'Chepkirui M', 'Ayieko P', 'Irimu G', 'English M']	
+29329299	['Akullian A', 'Montgomery JM', 'John-Stewart G', 'Miller SI', 'Hayden HS', 'Radey MC', 'Hager KR', 'Verani JR', 'Ochieng JB', 'Juma J', 'Katieno J', 'Fields B', 'Bigogo G', 'Audi A', 'Walson J']	
+29329230	['Atoni E', 'Wang Y', 'Karungu S', 'Waruhiu C', 'Zohaib A', 'Obanda V', 'Agwanda B', 'Mutua M', 'Xia H', 'Yuan Z']	
+293285
+29324985	['LaCourse SM', 'Cranmer LM', 'Njuguna IN', 'Gatimu J', 'Stern J', 'Maleche-Obimbo E', 'Walson JL', 'Wamalwa D', 'John-Stewart GC', 'Pavlinac PB']	
+29324906	['Runo S', 'Kuria EK']	
+29324858	['Deribe K', 'Beng AA', 'Cano J', 'Njouendo AJ', 'Fru-Cho J', 'Awah AR', 'Eyong ME', 'Chounna Ndongmo PW', 'Giorgi E', 'Pigott DM', 'Golding N', 'Pullan RL', 'Noor AM', 'Enquselassie F', 'Murray CJL', 'Brooker SJ', 'Hay SI', 'Enyong P', 'Newport MJ', 'Wanji S', 'Davey G']	
+293248
+29324780	['Leidich A', 'Achiro L', 'Kwena ZA', 'McFarland W', 'Neilands TB', 'Cohen CR', 'Bukusi EA', 'Camlin CS']	
+29324636	['Kirungu JN', 'Deng Y', 'Cai X', 'Magwanga RO', 'Zhou Z', 'Wang X', 'Wang Y', 'Zhang Z', 'Wang K', 'Liu F']	
+29322590	['Abdulai I', 'Vaast P', 'Hoffmann MP', 'Asare R', 'Jassogne L', 'Asten PV', 'Rötter RP', 'Graefe S']	
+29322038	['Fant CD', 'Schwartz KR', 'Patel H', 'Fredricks K', 'Nelson BD', 'Ouma K', 'Burke TF']	
+2932
+2932
+2932
+2932
+2932
+29320493	['Kutalek R', 'Jirovsky E', 'Grabovac I']	
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+29309859	"[""Ochwang'i DO"", 'Kimwele CN', 'Oduma JA', 'Gathumbi PK', 'Kiama SG', 'Efferth T']"	
+29309556	['Bonny A', 'Ngantcha M', 'Jeilan M', 'Okello E', 'Kaviraj B', 'Talle MA', 'Nel G', 'Marijon E', 'Sani MU', 'Yousef Z', 'Karaye KM', 'Touré IA', 'Awad MA', 'Millogo G', 'Kologo J', 'Kane A', 'Houndolo R', 'Dzudié A', 'Mbakwem A', 'Mayosi BM', 'Chin A']	
+293094
+29308225	['VanderWaal K', 'Gilbertson M', 'Okanga S', 'Allan BF', 'Craft ME']	
+29308
+29308
+29308037	['Zhou Y', 'Liu B', 'Mbuni Y', 'Yan X', 'Mwachala G', 'Hu G', 'Wang Q']	
+29307384	['Madise NJ', 'Onyango B']	
+29306836	['Riis-Vestergaard MI', 'van Ast V', 'Cornelisse S', 'Joëls M', 'Haushofer J']	
+29306587	['Biccard BM', 'Madiba TE', 'Kluyts HL', 'Munlemvo DM', 'Madzimbamuto FD', 'Basenero A', 'Gordon CS', 'Youssouf C', 'Rakotoarison SR', 'Gobin V', 'Samateh AL', 'Sani CM', 'Omigbodun AO', 'Amanor-Boadu SD', 'Tumukunde JT', 'Esterhuizen TM', 'Manach YL', 'Forget P', 'Elkhogia AM', 'Mehyaoui RM', 'Zoumeno E', 'Ndayisaba G', 'Ndasi H', 'Ndonga AKN', 'Ngumi ZWW', 'Patel UP', 'Ashebir DZ', 'Antwi-Kusi AAK', 'Mbwele B', 'Sama HD', 'Elfiky M', 'Fawzy MA', 'Pearse RM', 'African Surgical Outcomes Study (ASOS) investigators.']	
+29304805	['Kiuru CW', 'Oyieke FA', 'Mukabana WR', 'Mwangangi J', 'Kamau L', 'Muhia-Matoke D']	
+29304798	['Jones C', 'Talisuna AO', 'Snow RW', 'Zurovac D']	
+29304793	['Winston J', 'Calhoun LM', 'Corroon M', 'Guilkey D', 'Speizer I']	
+29304786	['Nambati EA', 'Kiarie WC', 'Kimani F', 'Kimotho JH', 'Otinga MS', 'Too E', 'Kaniaru S', 'Limson J', 'Bulimo W']	
+29304780	['Nabwera HM', 'Moore SE', 'Mwangome MK', 'Molyneux SC', 'Darboe MK', 'Camara-Trawally N', 'Sonko B', 'Darboe A', 'Singhateh S', 'Fulford AJ', 'Prentice AM']	
+29304377	"['Brucato N', 'Fernandes V', 'Mazières S', 'Kusuma P', 'Cox MP', ""Ng'ang'a JW"", 'Omar M', 'Simeone-Senelle MC', 'Frassati C', 'Alshamali F', 'Fin B', 'Boland A', 'Deleuze JF', 'Stoneking M', 'Adelaar A', 'Crowther A', 'Boivin N', 'Pereira L', 'Bailly P', 'Chiaroni J', 'Ricaut FX']"	
+29304084	['Tanga CM', 'Khamis FM', 'Tonnang HEZ', 'Rwomushana I', 'Mosomtai G', 'Mohamed SA', 'Ekesi S']	
+29304049	['Subramanian S', 'Gakunga R', 'Kibachio J', 'Gathecha G', 'Edwards P', 'Ogola E', 'Yonga G', 'Busakhala N', 'Munyoro E', 'Chakaya J', 'Ngugi N', 'Mwangi N', 'Von Rege D', 'Wangari LM', 'Wata D', 'Makori R', 'Mwangi J', 'Mwanda W', 'East African Economics and Implementation Group (EAEIG).']	
+29302
+2930
+2930
+292990
+29299006	['Aywak D', 'Jaguga CDP', 'Nkonge NG', 'Kinuthia R', 'Ambale C', 'Awle IA']		20
+29298670	['Karanja S', 'Gichuki R', 'Igunza P', 'Muhula S', 'Ofware P', 'Lesiamon J', 'Leshore L', 'Kyomuhangi-Igbodipe LB', 'Nyagero J', 'Binkin N', 'Ojakaa D']	
+29298338	['Muller Z']	
+29298303	['Okello G', 'Gerrets R', 'Zakayo S', 'Molyneux S', 'Jones C']	
+29298
+29297500	['Lira-Junior R', 'Boström EA']	
+29297437	['Ridzon R']	
+29297435	['Paul DW', 'Lagat DK', 'MacIntyre N', 'Egger JR', 'Murdoch DM', 'Que LG', 'Kussin PS']	
+29297398	['Okuga M', 'Waiswa P', 'Mandu R', 'Wachira J', 'Hanson C', 'Manzi F']	
+29297375	['Ngure K', 'Trinidad SB', 'Beima-Sofie K', 'Baeten JM', 'Mugo NR', 'Bukusi EA', 'Heffron R', 'John-Stewart G', 'Kelley MC']	
+29296
+29296
+29296
+29296
+29296
+29296
+29296
+29296
+29296
+29296
+29296
+29296
+29295533	['Sampathkumar R', 'Scott-Herridge J', 'Liang B', 'Kimani J', 'Plummer FA', 'Luo M']	
+2929532
+29295262	['Kasiiti N', 'Wawira J', 'Purkayastha S', 'Were MC']			Studies in health technology and informatics	
+29295
+2929467
+29294640	['Goodman ML', 'Hindman A', 'Keiser PH', 'Gitari S', 'Ackerman Porter K', 'Raimer BG']	
+2929440
+29293578	['Ayah R']	
+29293
+2929
+2929
+2929
+292909
+29290885	"['Thakar M', 'Angira F', 'Pattanapanyasat K', 'Wu AHB', ""O'Gorman M"", 'Zeng H', 'Qu C', 'Mahajan B', 'Sukapirom K', 'Chen D', 'Hao Y', 'Gong Y', 'Indig MA', 'Graminske S', 'Orta D', ""d'Empaire N"", 'Lu B', 'Omana-Zapata I', 'Zeh C']"	
+29290829	['Ajayi OO', 'Peters SO', 'De Donato M', 'Mujibi FD', 'Khan WA', 'Hussain T', 'Babar ME', 'Imumorin IG', 'Thomas BN']	
+2928994
+29288407	['Calhoun LM', 'Speizer IS', 'Guilkey D', 'Bukusi E']	
+29287330	['Kuballa T', 'Hausler T', 'Okaru AO', 'Neufeld M', 'Abuga KO', 'Kibwage IO', 'Rehm J', 'Luy B', 'Walch SG', 'Lachenmeier DW']	
+29287090	['Alvarez P', 'Mwamzuka M', 'Marshed F', 'Kravietz A', 'Ilmet T', 'Ahmed A', 'Borkowsky W', 'Khaitan A']	
+29287070	['Hercik C', 'Cosmas L', 'Mogeni OD', 'Wamola N', 'Kohi W', 'Omballa V', 'Ochieng M', 'Lidechi S', 'Bonventure J', 'Ochieng C', 'Onyango C', 'Fields BS', 'Mfinanga S', 'Montgomery JM']	
+29284987	['Tripathi J', 'Matheka J', 'Merga I', 'Gebre E', 'Tripathi L']	
+29284748	['Louthan AM', 'Pringle RM', 'Goheen JR', 'Palmer TM', 'Morris WF', 'Doak DF']	
+29284703	['Smith H', 'Ameh C', 'Godia P', 'Maua J', 'Bartilol K', 'Amoth P', 'Mathai M', 'van den Broek N']	
+29284522	['Agha SB', 'Tchouassi DP', 'Bastos ADS', 'Sang R']	
+29284490	['Afulani PA', 'Kirumbi L', 'Lyndon A']	
+29284476	['Kapesa A', 'Kweka EJ', 'Atieli H', 'Kamugisha E', 'Zhou G', 'Githeko AK', 'Yan G']	
+29284306	['Leyvraz M', 'David-Kigaru DM', 'Macharia-Mutie C', 'Aaron GJ', 'Roefs M', 'Tumilowicz A']	
+29284003	['Bwire G', 'Ali M', 'Sack DA', 'Nakinsige A', 'Naigaga M', 'Debes AK', 'Ngwa MC', 'Brooks WA', 'Garimoi Orach C']	
+29283997	['McMorrow ML', 'Emukule GO', 'Obor D', 'Nyawanda B', 'Otieno NA', 'Makokha C', 'Mott JA', 'Bresee JS', 'Reed C']	
+29283427	['Nuramdhani I', 'Gokceoren AT', 'Odhiambo SA', 'De Mey G', 'Hertleer C', 'Van Langenhove L']	
+29282
+2928
+2928
+2928
+2928
+29280769	['Wagner AD', 'OʼMalley G', 'Firdawsi O', 'Mugo C', 'Njuguna IN', 'Maleche-Obimbo E', 'Inwani IW', 'Wamalwa DC', 'John-Stewart GC', 'Slyker JA']	
+29280757	['Luo M', 'Czarnecki C', 'Nebroski M', 'Kimani J', 'Bernard N', 'Plummer FA']	
+29280432	['Hercik C', 'Cosmas L', 'Mogeni OD', 'Wamola N', 'Kohi W', 'Houpt E', 'Liu J', 'Ochieng C', 'Onyango C', 'Fields B', 'Mfinanga S', 'Montgomery JM']	
+29280300	['Monterrosa EC', 'Beesabathuni K', 'van Zutphen KG', 'Steiger G', 'Kupka R', 'Fleet A', 'Kraemer K']	
+2927749
+29276743	['Mosomtai G', 'Evander M', 'Mundia C', 'Sandström P', 'Ahlm C', 'Hassan OA', 'Lwande OW', 'Gachari MK', 'Landmann T', 'Sang R']	
+29276620	['Tindana P', 'Campbell M', 'Marshall P', 'Littler K', 'Vincent R', 'Seeley J', 'de Vries J', 'Kamuya D', 'H3Africa Community Engagement Working Group.']	
+292766
+29273982	['Hu K', 'Kumar KR', 'Kang N', 'Boiyo R', 'Wu J']	
+29273309	['Villar J', 'Cheikh Ismail L', 'Staines Urias E', 'Giuliani F', 'Ohuma EO', 'Victora CG', 'Papageorghiou AT', 'Altman DG', 'Garza C', 'Barros FC', 'Puglia F', 'Ochieng R', 'Jaffer YA', 'Noble JA', 'Bertino E', 'Purwar M', 'Pang R', 'Lambert A', 'Chumlea C', 'Stein A', 'Fernandes M', 'Bhutta ZA', 'Kennedy SH', 'International Fetal and Newborn Growth Consortium for the 2
+29273
+29272846	['Wanyama I', 'Pelster DE', 'Arias-Navarro C', 'Butterbach-Bahl K', 'Verchot LV', 'Rufino MC']	
+29272532	['Gibbs A', 'Buggert M', 'Edfeldt G', 'Ranefall P', 'Introini A', 'Cheuk S', 'Martini E', 'Eidsmo L', 'Ball TB', 'Kimani J', 'Kaul R', 'Karlsson AC', 'Wählby C', 'Broliden K', 'Tjernlund A']	
+29272368	['Greene SA', 'McGrath CJ', 'Lehman DA', 'Marson KG', 'Trinh TT', 'Yatich N', 'Nyongesa-Malava E', 'Kiptinness C', 'Richardson BA', 'John-Stewart GC', 'De Vuyst H', 'Sakr SR', 'Mugo NR', 'Chung MH']	
+2927
+2927
+29270709	['Escamilla V', 'Calhoun L', 'Winston J', 'Speizer IS']	
+29268789	['ACTwatch Group.', 'Musuva A', 'Ejersa W', 'Kiptui R', 'Memusi D', 'Abwao E']	
+29267298	['Ikegami T', 'Balogh A', 'Nishiyama S', 'Lokugamage N', 'Saito TB', 'Morrill JC', 'Shivanna V', 'Indran SV', 'Zhang L', 'Smith JK', 'Perez D', 'Juelich TL', 'Morozov I', 'Wilson WC', 'Freiberg AN', 'Richt JA']	
+29266
+29265663	['Bonnefille R']	
+29265658	['Cerling TE', 'Klein R']	
+29265654	['Manthi FK']	
+29264852	['Mbiri A', 'Wittstock G', 'Taffa DH', 'Gatebe E', 'Baya J', 'Wark M']	
+29264760	['Imai M', 'Kamimura K', 'Takahashi Y', 'Sato T', 'Isokawa O', 'Maruyama M', 'Kobayashi T', 'Hayashi K', 'Terai S']	
+29264703	['Xu MJ', 'Su D', 'Deboer R', 'Garcia M', 'Tahir P', 'Anderson W', 'Kinderman A', 'Braunstein S', 'Sherertz T']	
+29263883	['Munster VJ', 'Wells D', 'Lambe T', 'Wright D', 'Fischer RJ', 'Bushmaker T', 'Saturday G', 'van Doremalen N', 'Gilbert SC', 'de Wit E', 'Warimwe GM']	
+29263626	['Kigen G', 'Kipkore W', 'Wanjohi B', 'Haruki B', 'Kemboi J']	
+29262800	['Omuse G', 'Maina D', 'Mwangi J', 'Wambua C', 'Kanyua A', 'Kagotho E', 'Amayo A', 'Ojwang P', 'Erasmus R']	
+2926
+2926
+2926
+2926
+2926
+29260652	['Yamamoto K', 'Kato Y', 'Shinohara K', 'Kutsuna S', 'Takeshita N', 'Hayakawa K', 'Iwagami M', 'Kano S', 'Watanabe S', 'Ohmagari N']	
+29260004	['Abry MF', 'Kimenyi KM', 'Masiga D', 'Kulohoma BW']	
+292592
+29258832	['Nyagwange J', 'Tijhaar E', 'Ternette N', 'Mobegi F', 'Tretina K', 'Silva JC', 'Pelle R', 'Nene V']	
+29258576	['Bateta R', 'Wang J', 'Wu Y', 'Weiss BL', 'Warren WC', 'Murilla GA', 'Aksoy S', 'Mireji PO']	
+29258549	['Kimani-Murage EW', 'Griffiths PL', 'Wekesah FM', 'Wanjohi M', 'Muhia N', 'Muriuki P', 'Egondi T', 'Kyobutungi C', 'Ezeh AC', 'McGarvey ST', 'Musoke RN', 'Norris SA', 'Madise NJ']	
+29258407	['Mutiso VN', 'Musyimi CW', 'Tomita A', 'Loeffen L', 'Burns JK', 'Ndetei DM']	
+29258342	['van der Kop ML', 'Muhula S', 'Patel A', 'Thabane L', 'Awiti P', 'Kyomuhangi L', 'Abunah B', 'Nagide PI', 'Smillie K', 'Ojakaa DI', 'Kimani J', 'Ekström AM', 'Lester RT']	
+29255567	['Amolo L', 'Irimu G', 'Njai D']	
+29255552	['Ngwej DT', 'Mukuku O', 'Malonga FK', 'Luboya ON', 'Kakoma JS', 'Wembonyama SO']	
+29255304	['Rono MK', 'Nyonda MA', 'Simam JJ', 'Ngoi JM', 'Mok S', 'Kortok MM', 'Abdullah AS', 'Elfaki MM', 'Waitumbi JN', 'El-Hassan IM', 'Marsh K', 'Bozdech Z', 'Mackinnon MJ']	
+292549
+2925473
+29254707	['Bessell PR', 'Kushwaha P', 'Mosha R', 'Woolley R', 'Al-Riyami L', 'Gammon N']	
+29254362	"['Ronen K', 'Unger JA', 'Drake AL', 'Perrier T', 'Akinyi P', 'Osborn L', 'Matemo D', ""O'Malley G"", 'Kinuthia J', 'John-Stewart G']"	
+29253722	['Kangmennaang J', 'Onyango EO', 'Luginaah I', 'Elliott SJ']	
+2925320
+29252970	['Silva DAS', 'Chaput JP', 'Katzmarzyk PT', 'Fogelholm M', 'Hu G', 'Maher C', 'Olds T', 'Onywera V', 'Sarmiento OL', 'Standage M', 'Tudor-Locke C', 'Tremblay MS']	
+29249452	['Esopo K', 'Mellow D', 'Thomas C', 'Uckat H', 'Abraham J', 'Jain P', 'Jang C', 'Otis N', 'Riis-Vestergaard M', 'Starcev A', 'Orkin K', 'Haushofer J']	
+2924920
+29248873	['Gottesfeld P', 'Were FH', 'Adogame L', 'Gharbi S', 'San D', 'Nota MM', 'Kuepouo G']	
+292484
+29248255	['Iuliano AD', 'Roguski KM', 'Chang HH', 'Muscatello DJ', 'Palekar R', 'Tempia S', 'Cohen C', 'Gran JM', 'Schanzer D', 'Cowling BJ', 'Wu P', 'Kyncl J', 'Ang LW', 'Park M', 'Redlberger-Fritz M', 'Yu H', 'Espenhain L', 'Krishnan A', 'Emukule G', 'van Asten L', 'Pereira da Silva S', 'Aungkulanon S', 'Buchholz U', 'Widdowson MA', 'Bresee JS', 'Global Seasonal Influenza-associated Mortality Collaborator Network.']	
+29248096	['Bachani AM', 'Taber N', 'Mehmood A', 'Hung YW', 'Botchey I', 'Al-Kashmiri A', 'Hyder AA']	
+29248095	['Petroni S', 'Steinhaus M', 'Fenn NS', 'Stoebenau K', 'Gregowski A']	
+29248090	['Abubakar A', 'Van de Vijver FJR', 'Hassan AS', 'Fischer R', 'Nyongesa MK', 'Kabunda B', 'Berkley JA', 'Stein A', 'Newton CR']	
+29247049	['Hager FA', 'Kirchner L', 'Kirchner WH']	
+29246326	['Ogawa K', 'Kamimura K', 'Kobayashi Y', 'Abe H', 'Yokoo T', 'Sakai N', 'Nagoya T', 'Sakamaki A', 'Abe S', 'Hayashi K', 'Ikarashi S', 'Kohisa J', 'Tsuchida M', 'Aoyagi Y', 'Zhang G', 'Liu D', 'Terai S']	
+29246
+29246
+29245458	['Hemp C']		20
+29244989	['Diorio C', 'Lam CG', 'Ladas EJ', 'Njuguna F', 'Afungchwi GM', 'Taromina K', 'Marjerrison S']	
+29244495	['Kimani NM', 'Matasyoh JC', 'Kaiser M', 'Brun R', 'Schmidt TJ']	
+29244
+29244
+29243402	['Dawa JA', 'Chaves SS', 'Nyawanda B', 'Njuguna HN', 'Makokha C', 'Otieno NA', 'Anzala O', 'Widdowson MA', 'Emukule GO']	
+29243385	['Gove A', 'Brunette T', 'Bulat J', 'Carrol B', 'Henny C', 'Macon W', 'Nderu E', 'Sitabkhan Y']	
+29242486	['Sehnal R']		20
+29242446	['Sehnal R']		20
+29242
+2924
+2924
+29240894	['Sivro A', 'McKinnon LR']	
+29237583	['Inwani I', 'Chhun N', 'Agot K', 'Cleland CM', 'Buttolph J', 'Thirumurthy H', 'Kurth AE']	
+29237494	['Krüger C', 'Heinzel-Gutenbrunner M', 'Ali M']	
+29236362	['Rogers AJ', 'Akama E', 'Weke E', 'Blackburn J', 'Owino G', 'Bukusi EA', 'Oyaro P', 'Kwena ZA', 'Cohen CR', 'Turan JM']	
+292340
+29232703	['Boateng D', 'Wekesah F', 'Browne JL', 'Agyemang C', 'Agyei-Baffour P', 'Aikins AD', 'Smit HA', 'Grobbee DE', 'Klipstein-Grobusch K']	
+29232377	['Leslie HH', 'Sun Z', 'Kruk ME']	
+292303
+29227955	['Green EP', 'Tuli H', 'Kwobah E', 'Menya D', 'Chesire I', 'Schmidt C']	
+2922769
+29227389	['Matthew S', 'Hockett E', 'Samek L']	
+29226959	['Walshe DP', 'Garner P', 'Adeel AA', 'Pyke GH', 'Burkot TR']	
+29226793	['Im H', 'Ferguson A', 'Hunter M']	
+29226708	['Dumas SE', 'Maranga A', 'Mbullo P', 'Collins S', 'Wekesa P', 'Onono M', 'Young SL']	
+29225949	['Djellouli N', 'Mann S', 'Nambiar B', 'Meireles P', 'Miranda D', 'Barros H', 'Bocoum FY', 'Yaméogo WME', 'Yaméogo C', 'Belemkoabga S', 'Tougri H', 'Coulibaly A', 'Kouanda S', 'Mochache V', 'Mwakusema OK', 'Irungu E', 'Gichangi P', 'Dembo Z', 'Kadzakumanja A', 'Makwenda CV', 'Timóteo J', 'Cossa MG', 'de Melo M', 'Griffin S', 'Osman NB', 'Foia S', 'Ogbe E', 'Duysburgh E', 'Colbourn T']	
+29225937	['Daniels B', 'Dolinger A', 'Bedoya G', 'Rogo K', 'Goicoechea A', 'Coarasa J', 'Wafula F', 'Mwaura N', 'Kimeu R', 'Das J']	
+29225935	['Kamuya DM', 'Molyneux CS', 'Theobald S']	
+2922469
+29223686	['DeLorme AL', 'Gavenus ER', 'Salmen CR', 'Benard GO', 'Mattah B', 'Bukusi E', 'Fiorella KJ']	
+29222956	['Ali AH', 'Kauffman MJ', 'Amin R', 'Kibara A', 'King J', 'Mallon D', 'Musyoki C', 'Goheen JR']	
+29222078	['Unger JA', 'Kinuthia J', 'John-Stewart G']	
+2922
+29220
+292
+292
+292
+292
+292
+292
+292
+292
+292
+292
+29209590	['Muthumbi E', 'Lowe BS', 'Muyodi C', 'Getambu E', 'Gleeson F', 'Scott JAG']	
+29209498	['Gilbert M', 'Xiao X', 'Robinson TP']	
+29209488	['Musundi SM']			Facts, views & vision in ObGyn	
+29209
+29208588	['van Heerden A', 'Sen D', 'Desmond C', 'Louw J', 'Richter L']	
+29208045	['Musiime GM', 'Kinuthia DMW', 'Oyatsi DP', 'Manguyu W']	
+29208030	['Marango SN', 'Khayeka-Wandabwa C', 'Makwali JA', 'Jumba BN', 'Choge JK', 'Adino EO', 'Anjili CO']	
+29208026	['Bardosh KL', 'Murray M', 'Khaemba AM', 'Smillie K', 'Lester R']	
+29207988	['Tuti T', 'Agweyu A', 'Mwaniki P', 'Peek N', 'English M', 'Clinical Information Network Author Group.']	
+29207966	['Huchko MJ', 'Kahn JG', 'Smith JS', 'Hiatt RA', 'Cohen CR', 'Bukusi E']	
+29206727	['Kotlyar S', 'Olupot-Olupot P', 'Nteziyaremye J', 'Akech SO', 'Uyoga S', 'Muhindo R', 'Moore CL', 'Maitland K']	
+29206
+29206083	['Ha B', 'Zamini L', 'Monn J', 'Njoroge S', 'Thimo L', 'Ondeti M', 'Murungi JI', 'Muhoro CN']	
+29205887	['Barnes AN', 'Mumma J', 'Cumming O']	
+29204470	"[""Ng'ang'a SK"", 'Mwungu CM', 'Mwongera C', 'Kinyua I', 'Notenbaert A', 'Girvetz E']"	
+29203846	['Weber GE', 'White MT', 'Babakhanyan A', 'Sumba PO', 'Vulule J', 'Ely D', 'John C', 'Angov E', 'Lanar D', 'Dutta S', 'Narum DL', 'Horii T', 'Cowman A', 'Beeson J', 'Smith J', 'Kazura JW', 'Dent AE']	
+29200254	['Kafkova J', 'Silharova B']			Neuro endocrinology letters	
+2920025
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29
+29099780	['Richard K', 'Abdel-Rahman EM', 'Subramanian S', 'Nyasani JO', 'Thiel M', 'Jozani H', 'Borgemeister C', 'Landmann T']	
+29098809	['Coetzer M', 'Ledingham L', 'Diero L', 'Kemboi E', 'Orido M', 'Kantor R']	
+29098
+290980
+29097339	['Agweyu A', 'Oliwa J', 'Gathara D', 'Muinga N', 'Allen E', 'Lilford RJ', 'English M']	
+29096948	['Watts N', 'Amann M', 'Ayeb-Karlsson S', 'Belesova K', 'Bouley T', 'Boykoff M', 'Byass P', 'Cai W', 'Campbell-Lendrum D', 'Chambers J', 'Cox PM', 'Daly M', 'Dasandi N', 'Davies M', 'Depledge M', 'Depoux A', 'Dominguez-Salas P', 'Drummond P', 'Ekins P', 'Flahault A', 'Frumkin H', 'Georgeson L', 'Ghanei M', 'Grace D', 'Graham H', 'Grojsman R', 'Haines A', 'Hamilton I', 'Hartinger S', 'Johnson A', 'Kelman I', 'Kiesewetter G', 'Kniveton D', 'Liang L', 'Lott M', 'Lowe R', 'Mace G', 'Odhiambo Sewe M', 'Maslin M', 'Mikhaylov S', 'Milner J', 'Latifi AM', 'Moradi-Lakeh M', 'Morrissey K', 'Murray K', 'Neville T', 'Nilsson M', 'Oreszczyn T', 'Owfi F', 'Pencheon D', 'Pye S', 'Rabbaniha M', 'Robinson E', 'Rocklöv J', 'Schütte S', 'Shumake-Guillemot J', 'Steinbach R', 'Tabatabaei M', 'Wheeler N', 'Wilkinson P', 'Gong P', 'Montgomery H', 'Costello A']	
+29095928	['Wessels JM', 'Lajoie J', 'Vitali D', 'Omollo K', 'Kimani J', 'Oyugi J', 'Cheruiyot J', 'Kimani M', 'Mungai JN', 'Akolo M', 'Stearns JC', 'Surette MG', 'Fowke KR', 'Kaushic C']	
+29094456	['Pasha O', 'McClure EM', 'Saleem S', 'Tikmani SS', 'Lokangaka A', 'Tshefu A', 'Bose CL', 'Bauserman M', 'Mwenechanya M', 'Chomba E', 'Carlo WA', 'Garces AL', 'Figueroa L', 'Hambidge KM', 'Krebs NF', 'Goudar S', 'Kodkany BS', 'Dhaded S', 'Derman RJ', 'Patel A', 'Hibberd PL', 'Esamai F', 'Tenge C', 'Liechty EA', 'Moore JL', 'Wallace DD', 'Koso-Thomas M', 'Miodovnik M', 'Goldenberg RL']	
+29094095	['Njuguna F', 'Martijn HA', 'Kuremu RT', 'Saula P', 'Kirtika P', 'Olbara G', 'Langat S', 'Martin S', 'Skiles J', 'Vik T', 'Kaspers GJL', 'Mostert S']	
+29094093	"[""Orang'o E"", 'Itsura P', 'Tonui P', 'Muliro H', 'Rosen B', 'van Lonkhuijzen L']"	
+2909396
+29093948	['Falkenström F', 'Gee MD', 'Kuria MW', 'Othieno CJ', 'Kumar M']		20
+29093263	['Payne RO', 'Silk SE', 'Elias SC', 'Miura K', 'Diouf A', 'Galaway F', 'de Graaf H', 'Brendish NJ', 'Poulton ID', 'Griffiths OJ', 'Edwards NJ', 'Jin J', 'Labbé GM', 'Alanine DG', 'Siani L', 'Di Marco S', 'Roberts R', 'Green N', 'Berrie E', 'Ishizuka AS', 'Nielsen CM', 'Bardelli M', 'Partey FD', 'Ofori MF', 'Barfod L', 'Wambua J', 'Murungi LM', 'Osier FH', 'Biswas S', 'McCarthy JS', 'Minassian AM', 'Ashfield R', 'Viebig NK', 'Nugent FL', 'Douglas AD', 'Vekemans J', 'Wright GJ', 'Faust SN', 'Hill AV', 'Long CA', 'Lawrie AM', 'Draper SJ']	
+2909
+29090394	['Abaasa A', 'Hendrix C', 'Gandhi M', 'Anderson P', 'Kamali A', 'Kibengo F', 'Sanders EJ', 'Mutua G', 'Bumpus NN', 'Priddy F', 'Haberer JE']	
+2909027
+29089603	['Goldenberg SZ', 'Wittemyer G']	
+29089504	['Donati G', 'Santini L', 'Eppley TM', 'Arrigo-Nelson SJ', 'Balestri M', 'Boinski S', 'Bollen A', 'Bridgeman LL', 'Campera M', 'Carrai V', 'Chalise MK', 'Derby Lewis A', 'Hohmann G', 'Kinnaird MF', 'Koenig A', 'Kowalewski M', 'Lahann P', 'McLennan MR', 'Nekaris AKI', 'Nijman V', 'Norscia I', 'Ostner J', 'Polowinsky SY', 'Schülke O', 'Schwitzer C', 'Stevenson PR', 'Talebi MG', 'Tan C', 'Tomaschewski I', 'Vogel ER', 'Wright PC', 'Ganzhorn JU']	
+290882
+29087434	['Takahashi R', 'Wilunda C', 'Magutah K', 'Mwaura-Tenambergen W', 'Atwoli L', 'Perngparn U']	
+29086875	['Jebet A', 'Kibet J', 'Ombaka L', 'Kinyanjui T']	
+29086630	['Sacks E', 'Swanson RC', 'Schensul JJ', 'Gleave A', 'Shelley KD', 'Were MK', 'Chowdhury AM', 'LeBan K', 'Perry HB']	
+290862
+29085377	['Sivasakthi K', 'Tharanya M', 'Kholová J', 'Wangari Muriuki R', 'Thirunalasundari T', 'Vadez V']	
+29085254	['Sultana M', 'Sheikh N', 'Mahumud RA', 'Jahir T', 'Islam Z', 'Sarker AR']	
+29084588	['Ashton PM', 'Owen SV', 'Kaindama L', 'Rowe WPM', 'Lane CR', 'Larkin L', 'Nair S', 'Jenkins C', 'de Pinna EM', 'Feasey NA', 'Hinton JCD', 'Dallman TJ']	
+29084570	['Masha SC', 'Cools P', 'Crucitti T', 'Sanders EJ', 'Vaneechoutte M']	
+29083456	['Nyaga EM', 'Kyololo OM']	
+29082268	"['Odera JO', 'Odera E', ""Githang'a J"", 'Walong EO', 'Li F', 'Xiong Z', 'Chen XL']"		20
+290820
+290820
+2908
+2908
+2908
+2908
+290806
+2908030
+29080284	['Morgan MC', 'Maina B', 'Waiyego M', 'Mutinda C', 'Aluvaala J', 'Maina M', 'English M']	
+29079946	['Kunzweiler CP', 'Bailey RC', 'Okall DO', 'Graham SM', 'Mehta SD', 'Otieno FO']	
+29079606	['Amugsi DA', 'Dimbuene ZT', 'Mberu B', 'Muthuri S', 'Ezeh AC']	
+29079
+290788
+29078773	"['Drakeley C', 'Abdulla S', 'Agnandji ST', 'Fernandes JF', 'Kremsner P', 'Lell B', 'Mewono L', 'Bache BE', 'Mihayo MG', 'Juma O', 'Tanner M', 'Tahita MC', 'Tinto H', 'Diallo S', 'Lompo P', ""D'Alessandro U"", 'Ogutu B', 'Otieno L', 'Otieno S', 'Otieno W', 'Oyieko J', 'Asante KP', 'Dery DB', 'Adjei G', 'Adeniji E', 'Atibilla D', 'Owusu-Agyei S', 'Greenwood B', 'Gesase S', 'Lusingu J', 'Mahende C', 'Mongi R', 'Segeja M', 'Adjei S', 'Agbenyega T', 'Agyekum A', 'Ansong D', 'Bawa JT', 'Boateng HO', 'Dandalo L', 'Escamilla V', 'Hoffman I', 'Maenje P', 'Martinson F', 'Carter T', 'Leboulleux D', 'Kaslow DC', 'Usuf E', 'Pirçon JY', 'Bahmanyar ER']"	
+29078366	['Bornstein MH', 'Putnick DL', 'Rigo P', 'Esposito G', 'Swain JE', 'Suwalsky JTD', 'Su X', 'Du X', 'Zhang K', 'Cote LR', 'De Pisapia N', 'Venuti P']	
+29077728	['Chen MC', 'Kunselman AR', 'Stetter CM', 'Hannush SB', 'Roberts BW']	
+29076967	['Rule ARL', 'Tabangin M', 'Cheruiyot D', 'Mueri P', 'Kamath-Rayne BD']	
+29076883	['Cabral A', 'M Baeten J', 'Ngure K', 'Velloza J', 'Odoyo J', 'E Haberer J', 'Celum C', 'Muwonge T', 'Asiimwe S', 'Heffron R', 'Partners Demonstration Project Team.']	
+2907640
+29075505	['Degu A', 'Njogu P', 'Weru I', 'Karimi P']	
+29074880	['Gonçalves BP', 'Kapulu MC', 'Sawa P', 'Guelbéogo WM', 'Tiono AB', 'Grignard L', 'Stone W', 'Hellewell J', 'Lanke K', 'Bastiaens GJH', 'Bradley J', 'Nébié I', 'Ngoi JM', 'Oriango R', 'Mkabili D', 'Nyaurah M', 'Midega J', 'Wirth DF', 'Marsh K', 'Churcher TS', 'Bejon P', 'Sirima SB', 'Drakeley C', 'Bousema T']	
+29073928	['Barone MA', 'Mbuguni Z', 'Achola JO', 'Cordero C', 'Kanama J', 'Muganyizi PS', 'Mwanga J', 'Shannon C', 'Tibyehabwa L']	
+29073202	['Williams VL', 'Loveridge AJ', 'Newton DJ', 'Macdonald DW']	
+29073
+29072943	['Bakhtsiyarava M', 'Grace K', 'Nawrotzki RJ']	
+29072933	['Waila JM', 'Mahero MW', 'Namusisi S', 'Hoffman SJ', 'Robertson C']	
+29072498	['Pambo KO', 'Okello JJ', 'Mbeche RM', 'Kinyuru JN']	
+29072204	['Cohen LK', 'Dahlen G', 'Escobar A', 'Fejerskov O', 'Johnson NW', 'Manji F']	
+29067855	['Ayon S', 'Ndimbii J', 'Jeneby F', 'Abdulrahman T', 'Mlewa O', 'Wang B', 'Ragi A', 'Mburu G']	
+29067
+29066593	['Makoka D', 'Drope J', 'Appau A', 'Labonte R', 'Li Q', 'Goma F', 'Zulu R', 'Magati P', 'Lencucha R']	
+29065854	['Dijkstra M', 'de Bree GJ', 'Stolte IG', 'Davidovich U', 'Sanders EJ', 'Prins M', 'Schim van der Loeff MF']	
+29065
+29063732	['Milner EM', 'Fiorella KJ', 'Mattah BJ', 'Bukusi E', 'Fernald LCH']	
+29063354	"['Mukasafari MA', 'Ambula MK', 'Karege C', ""King'ori AM""]"	
+29063228	['Burke TF', 'Suarez S', 'Senay A', 'Masaki C', 'Rogo K', 'Sessler DI', 'Yusufali T', 'Rogo D', 'Guha M', 'Jani P', 'Nelson BD']	
+290629
+290629
+290629
+29062078	['Riitho V', 'Walters AA', 'Somavarapu S', 'Lamp B', 'Rümenapf T', 'Krey T', 'Rey FA', 'Oviedo-Orta E', 'Stewart GR', 'Locker N', 'Steinbach F', 'Graham SP']	
+29062060	['Cools P', 'van de Wijgert JHHM', 'Jespers V', 'Crucitti T', 'Sanders EJ', 'Verstraelen H', 'Vaneechoutte M']	
+29059205	['Kazadi EK', 'Tshilenge GM', 'Mbao V', 'Njoumemi Z', 'Masumu J']	
+29059
+29058605	['Amenu K', 'Szonyi B', 'Grace D', 'Wieland B']	
+29058457	['Hodgkinson LM', 'Makori J', 'Okwiri J', 'Tsisiche C', 'Arudo J', 'Barry M']	
+290577
+29056574	['Roth JM', 'de Bes L', 'Sawa P', 'Omweri G', 'Osoti V', 'Oberheitmann B', 'Schallig HDFH', 'Mens PF']	
+29056423	['Sabadin GA', 'Parizi LF', 'Kiio I', 'Xavier MA', 'da Silva Matos R', 'Camargo-Mathias MI', 'Githaka NW', 'Nene V', 'da Silva Vaz I Jr']	
+29054547	['Seixas A', 'Alzugaray MF', 'Tirloni L', 'Parizi LF', 'Pinto AFM', 'Githaka NW', 'Konnai S', 'Ohashi K', 'Yates Iii JR', 'Termignoni C', 'da Silva Vaz I Jr']	
+29053822	['Mahoro J', 'Muasya TK', 'Mbuza F', 'Habimana R', 'Kahi AK']	
+29053576	['Aboderin I', 'Kano M', 'Owii HA']	
+290520
+2905
+2905
+2905
+29050889	['Bachani AM', 'Botchey I', 'Paruk F', 'Wako D', 'Saidi H', 'Aliwa B', 'Kibias S', 'Hyder AA']	
+290494
+29048537	['Grieneisen LE', 'Livermore J', 'Alberts S', 'Tung J', 'Archie EA']	
+29048509	"['Akilimali NA', 'Chang CC', 'Muema DM', 'Reddy T', 'Moosa MS', 'Lewin SR', 'French MA', ""Ndung'u T""]"	
+29048283	['Vu DM', 'Mutai N', 'Heath CJ', 'Vulule JM', 'Mutuku FM', 'Ndenga BA', 'LaBeaud AD']	
+29047004	['Duell N', 'Steinberg L', 'Icenogle G', 'Chein J', 'Chaudhary N', 'Di Giunta L', 'Dodge KA', 'Fanti KA', 'Lansford JE', 'Oburu P', 'Pastorelli C', 'Skinner AT', 'Sorbring E', 'Tapanya S', 'Uribe Tirado LM', 'Alampay LP', 'Al-Hassan SM', 'Takash HMS', 'Bacchini D', 'Chang L']	
+29046582	['Lea AJ', 'Vilgalys TP', 'Durst PAP', 'Tung J']	
+29045665	['Khamis FM', 'Rwomushana I', 'Ombura LO', 'Cook G', 'Mohamed SA', 'Tanga CM', 'Nderitu PW', 'Borgemeister C', 'Sétamou M', 'Grout TG', 'Ekesi S']	
+29045595	['Othim STO', 'Agbodzavu KM', 'Kahuthia-Gathu R', 'Akutse KS', 'Muchemi S', 'Ekesi S', 'Fiaboe KKM']	
+29045429	['Harrison RA', 'Oluoch GO', 'Ainsworth S', 'Alsolaiss J', 'Bolton F', 'Arias AS', 'Gutiérrez JM', 'Rowley P', 'Kalya S', 'Ozwara H', 'Casewell NR']	
+29045404	['Buddenborg SK', 'Bu L', 'Zhang SM', 'Schilkey FD', 'Mkoji GM', 'Loker ES']	
+29045275	['Talib Z', 'van Schalkwyk S', 'Couper I', 'Pattanaik S', 'Turay K', 'Sagay AS', 'Baingana R', 'Baird S', 'Gaede B', 'Iputo J', 'Kibore M', 'Manongi R', 'Matsika A', 'Mogodi M', 'Ramucesse J', 'Ross H', 'Simuyeba M', 'Haile-Mariam D']	
+29044367	['Machalaba C', 'Smith KM', 'Awada L', 'Berry K', 'Berthe F', 'Bouley TA', 'Bruce M', 'Cortiñas Abrahantes J', 'El Turabi A', 'Feferholtz Y', 'Flynn L', 'Fournié G', 'Andre A', 'Grace D', 'Jonas O', 'Kimani T', 'Le Gall F', 'Miranda JJ', 'Peyre M', 'Pinto J', 'Ross N', 'Rüegg SR', 'Salerno RH', 'Seifman R', 'Zambrana-Torrelio C', 'Karesh WB']	
+29043890	['Mmari K', 'Moreau C', 'Gibbs SE', 'De Meyer S', 'Michielsen K', 'Kabiru CW', 'Bello B', 'Fatusi A', 'Lou C', 'Zuo X', 'Yu C', 'Al-Attar GST', 'El-Gibaly O']	
+29043423	"['Mahomed N', 'Fancourt N', 'de Campo J', 'de Campo M', 'Akano A', 'Cherian T', 'Cohen OG', 'Greenberg D', 'Lacey S', 'Kohli N', 'Lederman HM', 'Madhi SA', 'Manduku V', 'McCollum ED', 'Park K', 'Ribo-Aristizabal JL', 'Bar-Zeev N', ""O'Brien KL"", 'Mulholland K']"	
+29042
+2904
+29040666	['Pintye J', 'Baeten JM', 'Celum C', 'Mugo N', 'Ngure K', 'Were E', 'Bukusi EA', 'John-Stewart G', 'Heffron RA']	
+29040656	['Agoro OO', 'Kibira SW', 'Freeman JV', 'Fraser HSF']	
+29040633	['Silverman RA', 'Beck IA', 'Kiptinness C', 'Levine M', 'Milne R', 'McGrath CJ', 'Bii S', 'Richardson BA', 'John-Stewart G', 'Chohan B', 'Sakr SR', 'Kiarie JN', 'Frenkel LM', 'Chung MH']	
+29040267	['Saini RK', 'Orindi BO', 'Mbahin N', 'Andoke JA', 'Muasa PN', 'Mbuvi DM', 'Muya CM', 'Pickett JA', 'Borgemeister CW']	
+29040262	['Grossi-Soyster EN', 'Cook EAJ', 'de Glanville WA', 'Thomas LF', 'Krystosik AR', 'Lee J', 'Wamae CN', 'Kariuki S', 'Fèvre EM', 'LaBeaud AD']	
+29039800	['Okaru AO', 'Abuga KO', 'Kibwage IO', 'Lachenmeier DW']	
+29038829	"['Hutch A', 'Bekele A', ""O'Flynn E"", 'Ndonga A', 'Tierney S', 'Fualal J', 'Samkange C', 'Erzingatsian K']"	
+290374
+29037287	['Borgdorff MW', 'De Cock KM']	
+29036530	['Izugbara CO', 'Wekesah F']	
+290364
+29036378	"['Kukla M', 'McKay N', 'Rheingans R', 'Harman J', 'Schumacher J', 'Kotloff KL', 'Levine MM', 'Breiman R', 'Farag T', 'Walker D', 'Nasrin D', 'Omore R', ""O'Reilly C"", 'Mintz E']"	
+29034
+29033
+29033034	['Williams PCM', 'Isaacs D', 'Berkley JA']	
+2903263
+29032396	['Nashilongo MM', 'Singu B', 'Kalemeera F', 'Mubita M', 'Naikaku E', 'Baker A', 'Ferrario A', 'Godman B', 'Achieng L', 'Kibuule D']	
+2903
+2903
+2903
+29029867	['Musoke P', 'Gakumo CA', 'Abuogi LL', 'Akama E', 'Bukusi E', 'Helova A', 'Nalwa WZ', 'Onono M', 'Spangler SA', 'Wanga I', 'Turan JM']	
+29029086	"['Galárraga O', 'Wamai RG', 'Sosa-Rubí SG', 'Mugo MG', 'Contreras-Loya D', 'Bautista-Arredondo S', 'Nyakundi H', ""Wang'ombe JK""]"	
+29029033	['Riddle MS', 'Connor P', 'Fraser J', 'Porter CK', 'Swierczewski B', 'Hutley EJ', 'Danboise B', 'Simons MP', 'Hulseberg C', 'Lalani T', 'Gutierrez RL', 'Tribble DR', 'TrEAT TD Study Team.']	
+29028662	['LaCourse SM', 'Pavlinac PB', 'Cranmer LM', 'Njuguna IN', 'Mugo C', 'Gatimu J', 'Stern J', 'Walson JL', 'Maleche-Obimbo E', 'Oyugi J', 'Wamalwa D', 'John-Stewart G']	
+29028659	['Sanders EJ', 'Price MA', 'Karita E', 'Kamali A', 'Kilembe W', 'Bekker LG', 'Lakhi S', 'Inambao M', 'Anzala O', 'Fast PE', 'Gilmour J', 'Powers KA']	
+29028275	['Lam NL', 'Muhwezi G', 'Isabirye F', 'Harrison K', 'Ruiz-Mercado I', 'Amukoye E', 'Mokaya T', 'Wambua M', 'Bates MN']	
+29027836	['Rhee JY', 'Garralda E', 'Namisango E', 'Luyirika E', 'de Lima L', 'Powell RA', 'Centeno C']	
+29026997	['Radossi AL', 'Taromina K', 'Marjerrison S', 'Diorio CJ', 'Similio R', 'Njuguna F', 'Afungchwi GM', 'Ladas EJ']	
+29026399	['Bein MA', 'Unlucan D', 'Olowu G', 'Kalifa W']	
+29026387	"['Kamau A', ""Mung'ayi V"", 'Yonga G']"	
+29025826	['Myers JG', 'Hunold KM', 'Ekernas K', 'Wangara A', 'Maingi A', 'Mutiso V', 'Dunlop S', 'Martin IBK']	
+29025480	['Straetemans M', 'Bakker MI', 'Mitchell EMH']	
+29025479	['Maleche A', 'Citro B', 'Tisile P', 'Abdullaev T']	
+29025420	['Ertiro BT', 'Semagn K', 'Das B', 'Olsen M', 'Labuschagne M', 'Worku M', 'Wegary D', 'Azmach G', 'Ogugo V', 'Keno T', 'Abebe B', 'Chibsa T', 'Menkir A']	
+29025398	['Gatuguta A', 'Katusiime B', 'Seeley J', 'Colombini M', 'Mwanzo I', 'Devries K']	
+29024632	['Zheng X', 'Ning C', 'Dong Y', 'Zhao P', 'Li J', 'Fan Z', 'Li J', 'Yu Y', 'Mrode R', 'Liu JF']	
+29023464	['McGrath CJ', 'Garcia R', 'Trinh TT', 'Richardson BA', 'John-Stewart GC', 'Nyongesa-Malava E', 'Mugo NR', 'Glynn EH', 'Sakr SR', 'De Vuyst H', 'Chung MH']	
+29023
+29022054	['Raassen TJIP', 'Ngongo CJ', 'Mahendeka MM']	
+2902
+29020970	['Makungu C', 'Stephen S', 'Kumburu S', 'Govella NJ', 'Dongus S', 'Hildon ZJ', 'Killeen GF', 'Jones C']	
+29020966	['Sando D', 'Abuya T', 'Asefa A', 'Banks KP', 'Freedman LP', 'Kujawski S', 'Markovitz A', 'Ndwiga C', 'Ramsey K', 'Ratcliffe H', 'Ugwu EO', 'Warren CE', 'Jolivet RR']	
+29020846	['Selman LE', 'Brighton LJ', 'Sinclair S', 'Karvinen I', 'Egan R', 'Speck P', 'Powell RA', 'Deskur-Smielecka E', 'Glajchen M', 'Adler S', 'Puchalski C', 'Hunter J', 'Gikaara N', 'Hope J', 'InSpirit Collaborative.']	
+29020230	['Ojal J', 'Goldblatt D', 'Tigoi C', 'Scott JAG']	
+290
+290
+290
+290
+290
+290
+290
+290
+290
+290
+290
+290
+290
+290
+28994345	['Towriss CA', 'Timæus IM']	
+28992303	['Muiruri KS', 'Britt A', 'Amugune NO', 'Nguu E', 'Chan S', 'Tripathi L']	
+28992220	['Etyang AO', 'Wandabwa CK', 'Kapesa S', 'Muthumbi E', 'Odipo E', 'Wamukoya M', 'Ngomi N', 'Haregu T', 'Kyobutungi C', 'Williams TN', 'Makale J', 'Macharia A', 'Cruickshank JK', 'Smeeth L', 'Scott JAG']	
+2899
+2899
+28990670	['De Groote H', 'Kariuki SW', 'Traore D', 'Taylor JR', 'Ferruzzi MG', 'Hamaker BR']	
+289904
+28989980	['Gan W', 'Clarke RJ', 'Mahajan A', 'Kulohoma B', 'Kitajima H', 'Robertson NR', 'Rayner NW', 'Walters RG', 'Holmes MV', 'Chen Z', 'McCarthy MI']	
+2898986
+28989
+28984493	['Anku PJ', 'Amo-Adjei J', 'Doku DT', 'Kumi-Kyereme A']	
+28983847	['Chen Y', 'Yu K', 'Zhou Y', 'Ren L', 'Kirumba G', 'Zhang B', 'He Y']	
+28983
+28982
+2898
+2898
+2898
+28980833	['Malla L', 'Perera-Salazar R', 'McFadden E', 'Ogero M', 'Stepniewska K', 'English M']	
+2898052
+289802
+28979628	['Thuku NW', 'Shikuku K', 'Mbugua A']	
+2897962
+28978495	['Oliver-Williams C', 'Brown E', 'Devereux S', 'Fairhead C', 'Holeman I']	
+28978294	['Luseno WK', 'Iritani B', 'Zietz S', 'Maman S', 'Mbai II', 'Otieno F', 'Ongili B', 'Hallfors DD']	
+28978288	['Lacey G']	
+28976046	['Gengo RG', 'Oka RC', 'Vemuru V', 'Golitko M', 'Gettler LT']	
+28975484	['Masvawure TB', 'Mantell JE', 'Tocco JU', 'Gichangi P', 'Restar A', 'Chabeda SV', 'Lafort Y', 'Sandfort TGM']	
+28974208	['Sedekia Y', 'Jones C', 'Nathan R', 'Schellenberg J', 'Marchant T']	
+28974204	['Ingabire CM', 'Hakizimana E', 'Rulisa A', 'Kateera F', 'Van Den Borne B', 'Muvunyi CM', 'Mutesa L', 'Van Vugt M', 'Koenraadt CJM', 'Takken W', 'Alaii J']	
+28974
+28973672	['Mogeni P', 'Williams TN', 'Omedo I', 'Kimani D', 'Ngoi JM', 'Mwacharo J', 'Morter R', 'Nyundo C', 'Wambua J', 'Nyangweso G', 'Kapulu M', 'Fegan G', 'Bejon P']	
+28973483	['Mugyenyi CK', 'Elliott SR', 'Yap XZ', 'Feng G', 'Boeuf P', 'Fegan G', 'Osier FFH', 'Fowkes FJI', 'Avril M', 'Williams TN', 'Marsh K', 'Beeson JG']	
+28969654	['Wamonje FO', 'Michuki GN', 'Braidwood LA', 'Njuguna JN', 'Musembi Mutuku J', 'Djikeng A', 'Harvey JJW', 'Carr JP']	
+28968877	['Wiegand RE', 'Mwinzi PNM', 'Montgomery SP', 'Chan YL', 'Andiego K', 'Omedo M', 'Muchiri G', 'Ogutu MO', 'Rawago F', 'Odiere MR', 'Karanja DMS', 'Secor WE']	
+28968759	['Ake JA', 'Schuetz A', 'Pegu P', 'Wieczorek L', 'Eller MA', 'Kibuuka H', 'Sawe F', 'Maboko L', 'Polonis V', 'Karasavva N', 'Weiner D', 'Sekiziyivu A', 'Kosgei J', 'Missanga M', 'Kroidl A', 'Mann P', 'Ratto-Kim S', 'Anne Eller L', 'Earl P', 'Moss B', 'Dorsey-Spitz J', 'Milazzo M', 'Laissa Ouedraogo G', 'Rizvi F', 'Yan J', 'Khan AS', 'Peel S', 'Sardesai NY', 'Michael NL', 'Ngauy V', 'Marovich M', 'Robb ML']	
+28968447	['Omulo S', 'Thumbi SM', 'Lockwood S', 'Verani JR', 'Bigogo G', 'Masyongo G', 'Call DR']	
+28968393	['Brander RL', 'Walson JL', 'John-Stewart GC', 'Naulikha JM', 'Ndonye J', 'Kipkemoi N', 'Rwigi D', 'Singa BO', 'Pavlinac PB']	
+28966793	['Kinyoki DK', 'Moloney GM', 'Uthman OA', 'Kandala NB', 'Odundo EO', 'Noor AM', 'Berkley JA']	
+28966048	['Geraads D']	
+28966047	['Field DJ']	
+28966046	['Boisserie JR']	
+28965672	['Grimsditch G', 'Pisapia C', 'Huck M', 'Karisa J', 'Obura D', 'Sweet M']	
+28965533	['Talsma EF', 'Borgonjen-van den Berg KJ', 'Melse-Boonstra A', 'Mayer EV', 'Verhoef H', 'Demir AY', 'Ferguson EL', 'Kok FJ', 'Brouwer ID']	
+28965304	['Mutua F', 'Kihara A', 'Rogena J', 'Ngwili N', 'Aboge G', 'Wabacha J', 'Bett B']	
+28965235	['Njuguna B', 'Vedanthan R']	
+28964364	['Neugart S', 'Baldermann S', 'Ngwene B', 'Wesonga J', 'Schreiner M']	
+289643
+28963240	['Van Boeckel TP', 'Glennon EE', 'Chen D', 'Gilbert M', 'Robinson TP', 'Grenfell BT', 'Levin SA', 'Bonhoeffer S', 'Laxminarayan R']	
+28963
+28962566	['Khisa AM', 'Omoni GM', 'Nyamongo IK', 'Spitzer RF']	
+28962552	"['Shen Y', 'King CH', 'Binder S', 'Zhang F', 'Whalen CC', 'Evan Secor W', 'Montgomery SP', 'Mwinzi PNM', 'Olsen A', 'Magnussen P', ""Kinung'hi S"", 'Phillips AE', 'Nalá R', 'Ferro J', 'Aurelio HO', 'Fleming F', 'Garba A', 'Hamidou A', 'Fenwick A', 'Campbell CH Jr', 'Colley DG']"	
+2896
+2896
+2896
+28960243	['Hu L', 'Hogan JW', 'Mwangi AW', 'Siika A']	
+28959439	['Gust DA', 'Pan Y', 'Otieno F', 'Hayes T', 'Omoro T', 'Phillips-Howard PA', 'Odongo F', 'Otieno GO']	
+2895
+289509
+28948926	['Allegranzi B', 'Egger M', 'Pittet D', 'Bischoff P', 'Nthumba P', 'Solomkin J']	
+28948472	['Mahoro J', 'Muasya TK', 'Mbuza F', 'Mbuthia J', 'Kahi AK']	
+28947909	['Nderitu KW', 'Mwenda NS', 'Macharia NJ', 'Barasa SS', 'Ngugi MP']	
+28947325	"['Emil S', ""O'Neill J"", 'Poenaru D']"	
+28946888	['Ochomo EO', 'Atieli H', 'Gumo S', 'Ouma C']	
+28946854	['Kanyina EW', 'Kamau L', 'Muturi M']	
+28944990	['Khara T', 'Mwangome M', 'Ngari M', 'Dolan C']	
+2894430
+28944300	['Abdi A', 'Yu L', 'Goulding D', 'Rono MK', 'Bejon P', 'Choudhary J', 'Rayner J']	
+28944299	['Omedo I', 'Mogeni P', 'Rockett K', 'Kamau A', 'Hubbart C', 'Jeffreys A', 'Ochola-Oyier LI', 'de Villiers EP', 'Gitonga CW', 'Noor AM', 'Snow RW', 'Kwiatkowski D', 'Bejon P']	
+28943879	"['Mabuka JM', 'Dugast AS', 'Muema DM', 'Reddy T', 'Ramlakhan Y', 'Euler Z', 'Ismail N', 'Moodley A', 'Dong KL', 'Morris L', 'Walker BD', 'Alter G', ""Ndung'u T""]"	
+28942
+2894
+28940208	['Izugbara CO', 'Egesa CP', 'Kabiru CW', 'Sidze EM']	
+28939989	['Kaiser L', 'Dupas S', 'Branca A', 'Herniou EA', 'Clarke CW', 'Capdevielle Dulac C', 'Obonyo J', 'Benoist R', 'Gauthier J', 'Calatayud PA', 'Silvain JF', 'Le Ru BP']	
+28939979	['Benoist R', 'Chantre C', 'Capdevielle-Dulac C', 'Bodet M', 'Mougel F', 'Calatayud PA', 'Dupas S', 'Huguet E', 'Jeannette R', 'Obonyo J', 'Odorico C', 'Silvain JF', 'Le Ru B', 'Kaiser L']	
+2893958
+28938885	['Afulani PA', 'Diamond-Smith N', 'Golub G', 'Sudhinaraset M']	
+28938870	['Ghilamicael AM', 'Budambula NLM', 'Anami SE', 'Mehari T', 'Boga HI']	
+28938
+28937082	['Varwani MH', 'Sokwala A']	
+289364
+289364
+28935778	['Obura D']	
+28934463	['Widdowson MA', 'Bresee JS', 'Jernigan DB']	
+28934430	['Coleman CB', 'Daud II', 'Ogolla SO', 'Ritchie JA', 'Smith NA', 'Sumba PO', 'Dent AE', 'Rochford R']	
+28934428	['Foldi J', 'Kozhaya L', 'McCarty B', 'Mwamzuka M', 'Marshed F', 'Ilmet T', 'Kilberg M', 'Kravietz A', 'Ahmed A', 'Borkowsky W', 'Unutmaz D', 'Khaitan A']	
+28934375	['Medina Munoz M', 'Pollio AR', 'White HL', 'Rio RVM']	
+28934333	['Demmler KM', 'Klasen S', 'Nzuma JM', 'Qaim M']	
+289343
+2893342
+28933280	['Aluisio AR', 'Rege S', 'Stewart BT', 'Kinuthia J', 'Levine AC', 'Mello MJ', 'Farquhar C']	
+28932770	['Mwalusepo S', 'Muli E', 'Nkoba K', 'Nguku E', 'Kilonzo J', 'Abdel-Rahman EM', 'Landmann T', 'Fakih A', 'Raina S']	
+2893
+2893
+2893
+2893
+2893
+2893
+2893
+2893
+28929
+28928433	['Potouroglou M', 'Bull JC', 'Krauss KW', 'Kennedy HA', 'Fusi M', 'Daffonchio D', 'Mangora MM', 'Githaiga MN', 'Diele K', 'Huxham M']	
+28928
+28927428	['Ondeto BM', 'Nyundo C', 'Kamau L', 'Muriu SM', 'Mwangangi JM', 'Njagi K', 'Mathenge EM', 'Ochanda H', 'Mbogo CM']	
+28927420	['Ogola E', 'Villinger J', 'Mabuka D', 'Omondi D', 'Orindi B', 'Mutunga J', 'Owino V', 'Masiga DK']	
+28926949	['Fombong FT', 'Van Der Borght M', 'Vanden Broeck J']	
+28926642	['Courtney Mustaphi CJ', 'Gajewski K', 'Marchant R', 'Rosqvist G']	
+28926628	['Birech Z', 'Mwangi PW', 'Bukachi F', 'Mandela KM']	
+28926009	['Ilukor J']	
+28925740	['Agarwal A', 'Kirwa K', 'Eliot MN', 'Alenezi F', 'Menya D', 'Mitter SS', 'Velazquez EJ', 'Vedanthan R', 'Wellenius GA', 'Bloomfield GS']	
+28925342	['North CS', 'Dvorkina T', 'Thielman S', 'Pfefferbaum B', 'Narayanan P', 'Pollio DE']	
+28925056	['Smith MT', 'Monahan MP', 'Nelson P', 'Moruzzi M', 'DeLucenay AJ', 'Birnie CR']	
+28925036	"['Kujinga P', 'Borgonjen-van den Berg KJ', 'Superchi C', 'Ten Hove HJ', 'Onyango EO', ""Andang'o P"", 'Galetti V', 'Zimmerman MB', 'Moretti D', 'Brouwer ID']"	
+289246
+28924
+28924
+28923540	['Tung J', 'Barreiro LB']	
+28923070	['Ouma PO', 'Agutu NO', 'Snow RW', 'Noor AM']	
+289230
+289
+289
+289
+289
+289
+289
+289
+289
+289
+289
+289
+289
+289
+289
+289
+289
+289
+289
+289
+289
+289
+289
+2890654
+28905
+28905004	['Houston KA', 'Gibb JG', 'Mpoya A', 'Obonyo N', 'Olupot-Olupot P', 'Nakuya M', 'Evans JA', 'George EC', 'Gibb DM', 'Maitland K']	
+28904953	['Omori R', 'Nagelkerke N', 'Abu-Raddad LJ']	
+28904707	['Flora OC', 'Margaret K', 'Dan K']	
+28904705	['Onyango MJ', 'Kombe I', 'Nyamongo DS', 'Mwangi M']	
+2890469
+28904656	['Some F', 'Koech M', 'Chesire E', 'Kigen G']	
+28903759	['Phyo Than W', 'Oo T', 'Wai KT', 'Thi A', 'Owiti P', 'Kumar B', 'Deepak Shewade H', 'Zachariah R']	
+28903758	['Odhiambo F', 'Buff AM', 'Moranga C', 'Moseti CM', 'Wesongah JO', 'Lowther SA', 'Arvelo W', 'Galgalo T', 'Achia TO', 'Roka ZG', 'Boru W', 'Chepkurui L', 'Ogutu B', 'Wanja E']	
+28903628	['Patel RC', 'Leddy AM', 'Odoyo J', 'Anand K', 'Stanford-Moore G', 'Wakhungu I', 'Bukusi EA', 'Baeten JM', 'Brown JM']	
+28902680	['Ondiek J', 'Namukaya Z', 'Mtapuri-Zinyowera S', 'Balkan S', 'Elbireer A', 'Ushiro Lumb I', 'Kiyaga C', 'Goel N', 'Ritchie A', 'Ncube P', 'Omuomu K', 'Ndiege K', 'Kekitiinwa A', 'Mangwanya D', 'Fowler MG', 'Nadala L', 'Lee H']	
+2890
+2890
+28899379	['Macharia PM', 'Odera PA', 'Snow RW', 'Noor AM']	
+28899355	['Strucken EM', 'Al-Mamun HA', 'Esquivelzeta-Rabell C', 'Gondro C', 'Mwai OA', 'Gibson JP']	
+28899
+28894986	['Heffron R', 'Thomson K', 'Celum C', 'Haberer J', 'Ngure K', 'Mugo N', 'Bukusi E', 'Katabira E', 'Odoyo J', 'Bulya N', 'Asiimwe S', 'Tindimwebwa E', 'Baeten JM', 'Partners Demonstration Project Team.']	
+28894259	['Boily-Larouche G', 'Omollo K', 'Cheruiyot J', 'Njoki J', 'Kimani M', 'Kimani J', 'Oyugi J', 'Lajoie J', 'Fowke KR']	
+28893995	['Bergfeld AK', 'Lawrence R', 'Diaz SL', 'Pearce OMT', 'Ghaderi D', 'Gagneux P', 'Leakey MG', 'Varki A']	
+28893728	['Siemieniuk RAC', 'Lytvyn L', 'Mah Ming J', 'Mullen RM', 'Anam F', 'Otieno T', 'Guyatt GH', 'Taylor GP', 'Beltrán-Arroyave C', 'Okwen PM', 'Nduati R', 'Kinuthia J', 'Luma HN', 'Kirpalani H', 'Merglen A', 'Lesi OA', 'Vandvik PO', 'Agoritsas T', 'Bewley S']		20
+28893304	['Lajoie J', 'Mwangi L', 'Fowke KR']	
+28893268	['Li H', 'Omange RW', 'Plummer FA', 'Luo M']	
+2889
+2889
+2889
+28886724	['Ogola E', 'Villinger J', 'Mabuka D', 'Omondi D', 'Orindi B', 'Mutunga J', 'Owino V', 'Masiga DK']	
+28886
+28886072	['Marangu D', 'Mwaniki H', 'Nduku S', 'Maleche-Obimbo E', 'Jaoko W', 'Babigumira J', 'John-Stewart G', 'Rao D']	
+288860
+28885892	['Memiah P', 'Ah Mu T', 'Penner J', 'Owour K', 'Ngunu-Gituathi C', 'Prevot K', 'Mochache V', 'Wekesa P', 'Oyore J', 'Muhula S', 'Komba P']	
+288855
+2888527
+2888470
+28884
+28883985	['Njomo DW', 'Masaku J', 'Mwende F', 'Odhiambo G', 'Musuva R', 'Matey E', 'Thuita IG', 'Kihara JH']	
+2888398
+28883972	['Nyabundi D', 'Onkoba N', 'Kimathi R', 'Nyachieo A', 'Juma G', 'Kinyanjui P', 'Kamau J']	
+28883968	['Njomo DW', 'Masaku J', 'Odhiambo G', 'Musuva R', 'Mwende F', 'Matey E', 'Thuita IG', 'Kihara JH']	
+28883927	"['McCollum ED', 'Park DE', 'Watson NL', 'Buck WC', 'Bunthi C', 'Devendra A', 'Ebruke BE', 'Elhilali M', 'Emmanouilidou D', 'Garcia-Prats AJ', 'Githinji L', 'Hossain L', 'Madhi SA', 'Moore DP', 'Mulindwa J', 'Olson D', 'Awori JO', 'Vandepitte WP', 'Verwey C', 'West JE', 'Knoll MD', ""O'Brien KL"", 'Feikin DR', 'Hammit LL']"	
+28882657	['Juma FO', 'Yonga G', 'Waweru P', 'Revathi G', 'Nelson M', 'Shah R']	
+28882548	['Bamford MK']	
+28880965	['Kamidi CM', 'Saarman NP', 'Dion K', 'Mireji PO', 'Ouma C', 'Murilla G', 'Aksoy S', 'Schnaufer A', 'Caccone A']	
+28880962	['Gaisberger H', 'Kindt R', 'Loo J', 'Schmidt M', 'Bognounou F', 'Da SS', 'Diallo OB', 'Ganaba S', 'Gnoumou A', 'Lompo D', 'Lykke AM', 'Mbayngone E', 'Nacoulma BMI', 'Ouedraogo M', 'Ouédraogo O', 'Parkouda C', 'Porembski S', 'Savadogo P', 'Thiombiano A', 'Zerbo G', 'Vinceti B']	
+28880904	['Bailey RC', 'Adera F', 'Mackesy-Amiti ME', 'Adipo T', 'Nordstrom SK', 'Mehta SD', 'Jaoko W', 'Langi FLFG', 'Obiero W', 'Obat E', 'Otieno FO', 'Young MR']	
+28880880	['Nyaoke BA', 'Mutua GN', 'Sajabi R', 'Nyasani D', 'Mureithi MW', 'Anzala OA']	
+28880878	['Hunsperger EA', 'Duarte Dos Santos CN', 'Vu HTQ', 'Yoksan S', 'Deubel V']	
+288808
+28879
+28879
+28879
+28879
+28879
+28879
+28878055	['Titcomb G', 'Allan BF', 'Ainsworth T', 'Henson L', 'Hedlund T', 'Pringle RM', 'Palmer TM', 'Njoroge L', 'Campana MG', 'Fleischer RC', 'Mantas JN', 'Young HS']	
+28878035	"['Omotayo MO', 'Dickin KL', 'Pelletier DL', 'Mwanga EO', ""Kung'u JK"", 'Stoltzfus RJ']"	
+28877729	['Ayieko P', 'Irimu G', 'English M']	
+28877208	['Petersen A', 'Held N', 'Heide L', 'Difäm-EPN Minilab Survey Group.']	
+28876569	['Khan Z', 'Brand M']			South African journal of surgery. Suid-Afrikaanse tydskrif vir chirurgie	
+28876554	['Wamalwa AO', 'Stasch T', 'Nangole FW', 'Khainga SO']			South African journal of surgery. Suid-Afrikaanse tydskrif vir chirurgie	
+288763
+28875567	['Palmer TM', 'Riginos C', 'Damiani RE', 'Morgan N', 'Lemboi JS', 'Lengingiro J', 'Ruiz-Guajardo JC', 'Pringle RM']	
+28875308	['Girod C', 'Ellis A', 'Andes KL', 'Freeman MC', 'Caruso BA']	
+28874830	"['Boyero L', 'Graça MAS', 'Tonin AM', 'Pérez J', 'J Swafford A', 'Ferreira V', 'Landeira-Dabarca A', 'A Alexandrou M', 'Gessner MO', 'McKie BG', 'Albariño RJ', 'Barmuta LA', 'Callisto M', 'Chará J', 'Chauvet E', 'Colón-Gaud C', 'Dudgeon D', 'Encalada AC', 'Figueroa R', 'Flecker AS', 'Fleituch T', 'Frainer A', 'Gonçalves JF Jr', 'Helson JE', 'Iwata T', 'Mathooko J', ""M'Erimba C"", 'Pringle CM', 'Ramírez A', 'Swan CM', 'Yule CM', 'Pearson RG']"	
+28873744	['Orina I', 'Manley M', 'Williams PJ']	
+28873690	['Omondi EO', 'Engels C', 'Nambafu G', 'Schreiner M', 'Neugart S', 'Abukutsa-Onyango M', 'Winkelmann T']	
+28873564	['Wang F', 'Hu Q', 'Mugambi Mariga A', 'Cao C', 'Yang W']	
+28873442	['Salerno-Gonçalves R', 'Tettelin H', 'Lou D', 'Steiner S', 'Rezwanul T', 'Guo Q', 'Picking WD', 'Nene V', 'Sztein MB']	
+28873394	['Bush JT', 'Wasunna M', 'Alves F', 'Alvar J', 'Olliaro PL', 'Otieno M', 'Sibley CH', 'Strub Wourgaft N', 'Guerin PJ']	
+28867987	['Meroni M', 'Schucknecht A', 'Fasbender D', 'Rembold F', 'Fava F', 'Mauclaire M', 'Goffner D', 'Di Lucchio LM', 'Leonardi U']	
+28867279	['Merritt SR']	
+28865422	['Semeere A', 'Freeman E', 'Wenger M', 'Glidden D', 'Bwana M', 'Kanyesigye M', 'Asirwa FC', 'Rotich E', 'Busakhala N', 'Oga E', 'Jedy-Agba E', 'Kwaghe V', 'Iregbu K', 'Adebamowo C', 'Jaquet A', 'Dabis F', 'Phiri S', 'Bohlius J', 'Egger M', 'Yiannoutsos CT', 'Wools-Kaloustian K', 'Martin J']	
+28865
+28863305	['Aldhaher A', 'Langat M', 'Ndunda B', 'Chirchir D', 'Midiwo JO', 'Njue A', 'Schwikkard S', 'Carew M', 'Mulholland D']	
+28863
+28862073	['Im H', 'Ferguson AB', 'Warsame AH', 'Isse MM']	
+2886
+2886
+28859429	['Busula AO', 'Bousema T', 'Mweresa CK', 'Masiga D', 'Logan JG', 'Sauerwein RW', 'Verhulst NO', 'Takken W', 'de Boer JG']	
+28859090	['Hlushchuk R', 'Styp-Rekowska B', 'Dzambazi J', 'Wnuk M', 'Huynh-Do U', 'Makanya A', 'Djonov V']	
+28856450	['Mossaad E', 'Satti RA', 'Fadul A', 'Suganuma K', 'Salim B', 'Elamin EA', 'Musinguzi SP', 'Xuan X', 'Inoue N']	
+28856440	['Kobe IO', 'Qureshi MM', 'Hassan S', 'Oluoch-Olunya DL']	
+28854925	['Warren CE', 'Ndwiga C', 'Sripad P', 'Medich M', 'Njeru A', 'Maranga A', 'Odhiambo G', 'Abuya T']	
+28854
+28853909	['Mutungi C', 'Irungu FG', 'Nduko J', 'Mutua F', 'Affognon H', 'Nakimbugwe D', 'Ekesi S', 'Fiaboe KKM']	
+28852026	['Amuge T', 'Berger DK', 'Katari MS', 'Myburg AA', 'Goldman SL', 'Ferguson ME']	
+2885
+2885
+2885
+2885
+28850856	['Ongeri L', 'McCulloch CE', 'Neylan TC', 'Bukusi E', 'Macfarlane SB', 'Othieno C', 'Ngugi AK', 'Meffert SM']	
+2885058
+2884934
+28847
+28847005	['Pieper K', 'Tan J', 'Piccoli L', 'Foglierini M', 'Barbieri S', 'Chen Y', 'Silacci-Fregni C', 'Wolf T', 'Jarrossay D', 'Anderle M', 'Abdi A', 'Ndungu FM', 'Doumbo OK', 'Traore B', 'Tran TM', 'Jongo S', 'Zenklusen I', 'Crompton PD', 'Daubenberger C', 'Bull PC', 'Sallusto F', 'Lanzavecchia A']	
+28845789	['Shrestha GS', 'Kwizera A', 'Lundeg G', 'Baelani JI', 'Azevedo LCP', 'Pattnaik R', 'Haniffa R', 'Gavrilovic S', 'Mai NTH', 'Kissoon N', 'Lodha R', 'Misango D', 'Neto AS', 'Schultz MJ', 'Dondorp AM', 'Thevanayagam J', 'Dünser MW', 'Alam AKMS', 'Mukhtar AM', 'Hashmi M', 'Ranjit S', 'Otu A', 'Gomersall C', 'Amito J', 'Vaeza NN', 'Nakibuuka J', 'Mujyarugamba P', 'Estenssoro E', 'Ospina-Tascón GA', 'Mohanty S', 'Mer M']	
+28845466	['Pieracci EG', 'Scott TP', 'Coetzer A', 'Athman M', 'Mutembei A', 'Kidane AH', 'Bekele M', 'Ayalew G', 'Ntegeyibizaza S', 'Assenga J', 'Markalio G', 'Munyua P', 'Nel LH', 'Blanton J']	
+28845463	"['McLellan-Lemal E', ""Ondeng'e K"", 'Gust DA', 'Desai M', 'Otieno FO', 'Madiega PA', 'Nyagol B', 'Makanga EM']"		20
+28845286	['Githinji G', 'Agoti C', 'Munywoki P', 'Bett A', 'Kellam P', 'Cotton M', 'Nokes DJ']	
+28845270	['Agoti CN', 'Munywoki PK', 'Phan MVT', 'Otieno JR', 'Kamau E', 'Bett A', 'Kombe I', 'Githinji G', 'Medley GF', 'Cane PA', 'Kellam P', 'Cotton M', 'Nokes DJ']	
+28845262	['Otieno JR', 'Agoti CN', 'Gitahi CW', 'Bett A', 'Ngama M', 'Medley GF', 'Cane PA', 'Nokes DJ']	
+28845248	"['Hassan AS', 'Hare J', 'Kamini G', 'Yindom LM', 'Kamali A', 'Karita E', 'Kilemba W', 'Price MA', 'Borrow P', 'Bjorkman P', 'Albert J', 'Kaleebu P', 'Allan S', 'Fast P', 'Hunter E', 'Gilmour J', ""Ndung'u T"", 'Rowland-Jones S', 'Sanders EJ', 'Esbjornsson J']"	
+28844790	"['Garibaldi LA', 'Gemmill-Herren B', ""D'Annolfo R"", 'Graeub BE', 'Cunningham SA', 'Breeze TD']"	
+28844352	['Amo-Adjei J', 'Darteh EKM']	
+28844328	['Ward CV', 'Plavcan JM', 'Manthi FK']	
+2884
+2884
+28838
+28838
+28838
+28838
+28838
+28838
+28836977	['Mburu MM', 'Mweresa CK', 'Omusula P', 'Hiscox A', 'Takken W', 'Mukabana WR']	
+28836937	['Getachew T', 'Huson HJ', 'Wurzinger M', 'Burgstaller J', 'Gizaw S', 'Haile A', 'Rischkowsky B', 'Brem G', 'Boison SA', 'Mészáros G', 'Mwai AO', 'Sölkner J']	
+288352
+28833040	['Muscarella R', 'Lohbeck M', 'Martínez-Ramos M', 'Poorter L', 'Rodríguez-Velázquez JE', 'van Breugel M', 'Bongers F']	
+28832929	['Fujita M', 'Wander K']	
+28832624	['Rafferty ER', 'Schurer JM', 'Arndt MB', 'Choy RKM', 'de Hostos EL', 'Shoultz D', 'Farag M']	
+28832604	['Muli J', 'Gachohi J', 'Kagai J']	
+28832243	['McHenry MS', 'Fischer LJ', 'Chun Y', 'Vreeman RC']	
+2883
+2883
+2883
+2883
+2883
+28830835	['Jin Y', 'Goodman RE', 'Tetteh AO', 'Lu M', 'Tripathi L']	
+28830492	['Ndwiga C', 'Warren CE', 'Ritter J', 'Sripad P', 'Abuya T']	
+28830439	"['Saran I', 'Maffioli EM', 'Menya D', ""O'Meara WP""]"	
+28830429	['Gluecks IV', 'Bethe A', 'Younan M', 'Ewers C']	
+28830
+28830098	['Xu Y', 'Li P', 'Zou C', 'Lu Y', 'Xie C', 'Zhang X', 'Prasanna BM', 'Olsen MS']	
+28828875	['Kioko MT', 'Pertet AM']		20
+28826252	"[""Ng'endo M"", 'Bhagwat S', 'Keding GB']"	
+28826229	['Kelvin EA', 'George G', 'Mwai E', 'Nyaga E', 'Mantell JE', 'Romo ML', 'Odhiambo JO', 'Starbuck L', 'Govender K']	
+28826
+28822936	['Mpelasoka F', 'Awange JL', 'Zerihun A']	
+28822206	['Umar S', 'Shinkafi SH', 'Hudu SA', 'Neela V', 'Suresh K', 'Nordin SA', 'Malina O']			Annals of parasitology	
+2882
+2882
+2882
+2882088
+288207
+28820692	['Steinbaum L', 'Swarthout J', 'Mboya J', 'Pickering AJ']	
+2882037
+288
+288
+288
+288
+288
+288
+288
+288
+288
+288
+288
+288
+288
+288
+288
+288
+288
+288
+288
+288
+288
+288
+28809935	['Bryant RA', 'Schafer A', 'Dawson KS', 'Anjuri D', 'Mulili C', 'Ndogoni L', 'Koyiet P', 'Sijbrandij M', 'Ulate J', 'Harper Shehadeh M', 'Hadzi-Pavlovic D', 'van Ommeren M']	
+28809770	['Mark J', 'Kinuthia J', 'Roxby AC', 'Krakowiak D', 'Osoti A', 'Richardson BA', 'Gone MA', 'Asila V', 'Parikh S', 'Farquhar C']	
+2880867
+28808204	['Onkoba N', 'M Mumo R', 'Ochanda H', 'Omwandho C', 'S Ozwara H', 'G Egwang T']	
+28807953	['Arya N', 'Dahlman B', 'Gibson C', 'Ponka D', 'Haq C', 'Rouleau K', 'Hansel S']			Canadian family physician Medecin de famille canadien	
+28807627	['Trentini F', 'Poletti P', 'Merler S', 'Melegaro A']	
+28807
+28807
+28806985	['Wanje G', 'Masese L', 'Avuvika E', 'Baghazal A', 'Omoni G', 'Scott McClelland R']	
+28806952	['Githaiga JN', 'Swartz L']	
+28806740	['Chirico AAD', 'McClanahan TR', 'Eklöf JS']	
+28806597	['Okonda JJ', 'Angeyo KH', 'Mangala JM', 'Kisia SM']	
+28805733	['Amimo JO', 'Machuka EM', 'Okoth E']	
+288050
+28804077	['Bittner NP', 'Hancock-McGrath J']	
+28803088	"[""O'Brien M"", 'Schwartz A', 'Plattner L']"	
+2880
+28799899	['Barratt MJ', 'Lebrilla C', 'Shapiro HY', 'Gordon JI']	
+28799825	['Achwoka D', 'Mandala J', 'Muriithi M', 'Zeng Y', 'Chen M', 'Dirks R', 'Sirengo M', 'Wafula R', 'Torpey K']	
+28798952	['Mpatswenumugabo JP', 'Bebora LC', 'Gitao GC', 'Mobegi VA', 'Iraguha B', 'Kamana O', 'Shumbusho B']	
+28798806	['Wanzala W']	
+2879876
+28798272	['Ragan KR', 'Buchanan Lunsford N', 'Lee Smith J', 'Saraiya M', 'Aketch M']	
+28797062	['Mtangadura TJ', 'Mtambanengwe F', 'Nezomba H', 'Rurinda J', 'Mapfumo P']	
+28797022	['LaCourse SM', 'Deya RW', 'Graham SM', 'Masese LN', 'Jaoko W', 'Mandaliya KN', 'Overbaugh J', 'McClelland RS']	
+2879679
+28796200	['Nengo I', 'Tafforeau P', 'Gilbert CC', 'Fleagle JG', 'Miller ER', 'Feibel C', 'Fox DL', 'Feinberg J', 'Pugh KD', 'Berruyer C', 'Mana S', 'Engle Z', 'Spoor F']	
+28794686	['Sawe RT', 'Mining SK', 'Ofulla AV', 'Patel K', 'Guyah B', 'Chumba D', 'Prosperi JR', 'Kerper M', 'Shi Z', 'Sandoval-Cooper M', 'Taylor K', 'Badve S', 'Stack MS', 'Littlepage LE']	
+28794098	['Kenyon PC']	
+28792500	"['Cates JE', 'Unger HW', 'Briand V', 'Fievet N', 'Valea I', 'Tinto H', ""D'Alessandro U"", 'Landis SH', 'Adu-Afarwuah S', 'Dewey KG', 'Ter Kuile FO', 'Desai M', 'Dellicour S', 'Ouma P', 'Gutman J', 'Oneko M', 'Slutsker L', 'Terlouw DJ', 'Kariuki S', 'Ayisi J', 'Madanitsa M', 'Mwapasa V', 'Ashorn P', 'Maleta K', 'Mueller I', 'Stanisic D', 'Schmiegelow C', 'Lusingu JPA', 'van Eijk AM', 'Bauserman M', 'Adair L', 'Cole SR', 'Westreich D', 'Meshnick S', 'Rogerson S']"	
+28792403	['Karim SSA', 'Karim QA', 'Abimiku A', 'Bekker LG', 'Bukusi EA', 'Deschamps MMH', 'Derbew M', 'Garcia PJ', 'Gray G', 'Kamya MR', 'Swaminathan S', 'Wu Z']	
+28792389	['Williams PCM']	
+2879
+28790858	['Pastakia SD', 'Pekny CR', 'Manyara SM', 'Fischer L']	
+287899
+28789724	['MacLeod MJ', 'Vellinga T', 'Opio C', 'Falcucci A', 'Tempio G', 'Henderson B', 'Makkar H', 'Mottet A', 'Robinson T', 'Steinfeld H', 'Gerber PJ']	
+28789674	['Ayieko J', 'Ti A', 'Hagey J', 'Akama E', 'Bukusi EA', 'Cohen CR', 'Patel RC']	
+28787794	['Gu D', 'Otieno D', 'Huang Y', 'Wang Q']	
+28787328	['Sugar NR', 'Schilling KA', 'Kim S', 'Ahmed A', 'Ngui Muyanga D', 'Sivapalasingam S', 'Quick R']	
+28787293	['Morandi A', 'Piva S', 'Ely EW', 'Myatra SN', 'Salluh JIF', 'Amare D', 'Azoulay E', 'Bellelli G', 'Csomos A', 'Fan E', 'Fagoni N', 'Girard TD', 'Heras La Calle G', 'Inoue S', 'Lim CM', 'Kaps R', 'Kotfis K', 'Koh Y', 'Misango D', 'Pandharipande PP', 'Permpikul C', 'Cheng Tan C', 'Wang DX', 'Sharshar T', 'Shehabi Y', 'Skrobik Y', 'Singh JM', 'Slooter A', 'Smith M', 'Tsuruta R', 'Latronico N']	
+28787002	['Obiero CW', 'Seale AC', 'Jones K', 'Ngari M', 'Bendon CL', 'Morpeth S', 'Mohammed S', 'Mturi N', 'Fegan G', 'Berkley JA']	
+28785268	['Nzuki I', 'Katari MS', 'Bredeson JV', 'Masumba E', 'Kapinga F', 'Salum K', 'Mkamilo GS', 'Shah T', 'Lyons JB', 'Rokhsar DS', 'Rounsley S', 'Myburg AA', 'Ferguson ME']	
+28785230	['Sorokowski P', 'Randall AK', 'Groyecka A', 'Frackowiak T', 'Cantarero K', 'Hilpert P', 'Ahmadi K', 'Alghraibeh AM', 'Aryeetey R', 'Bertoni A', 'Bettache K', 'Błażejewska M', 'Bodenmann G', 'Bortolini TS', 'Bosc C', 'Butovskaya M', 'Castro FN', 'Cetinkaya H', 'Cunha D', 'David D', 'David OA', 'Espinosa ACD', 'Donato S', 'Dronova D', 'Dural S', 'Fisher M', 'Akkaya AH', 'Hamamura T', 'Hansen K', 'Hattori WT', 'Hromatko I', 'Gulbetekin E', 'Iafrate R', 'James B', 'Jiang F', 'Kimamo CO', 'Koç F', 'Krasnodębska A', 'Laar A', 'Lopes FA', 'Martinez R', 'Mesko N', 'Molodovskaya N', 'Qezeli KM', 'Motahari Z', 'Natividade JC', 'Ntayi J', 'Ojedokun O', 'Omar-Fauzee MSB', 'Onyishi IE', 'Özener B', 'Paluszak A', 'Portugal A', 'Realo A', 'Relvas AP', 'Rizwan M', 'Sabiniewicz AL', 'Salkičević S', 'Sarmány-Schuller I', 'Stamkou E', 'Stoyanova S', 'Šukolová D', 'Sutresna N', 'Tadinac M', 'Teras A', 'Ponciano ELT', 'Tripathi R', 'Tripathi N', 'Tripathi M', 'Yamamoto ME', 'Yoo G', 'Sorokowska A']	
+28784282	['Nackers F', 'Cohuet S', 'le Polain de Waroux O', 'Langendorf C', 'Nyehangane D', 'Ndazima D', 'Nanjebe D', 'Karani A', 'Tumwesigye E', 'Mwanga-Amumpaire J', 'Scott JAG', 'Grais RF']	
+28784
+28784
+28783784	"['Tully KL', 'Abwanda S', ""Thiong'o M"", 'Mutuo PM', 'Rosenstock TS']"	
+2878375
+287833
+28783028	['Skoracki M', 'Hromada M', 'Sikora B']	
+2878
+28780992	['Onyono PN', 'Kavoi BM', 'Kiama SG', 'Makanya AN']	
+28780885	['Bazzi AR', 'Yotebieng KA', 'Agot K', 'Rota G', 'Syvertsen JL']	
+28780
+28780
+28779803	['Oburu E', 'Myerson MS']	
+28778
+28777265	['Pintye J', 'Beima-Sofie KM', 'Kimemia G', 'Ngure K', 'Trinidad SB', 'Heffron RA', 'Baeten JM', 'Odoyo J', 'Mugo N', 'Bukusi EA', 'Kelley MC', 'John-Stewart GC']	
+28776
+28775938	['Thet Lwin ZM', 'Sahu SK', 'Owiti P', 'Chinnakali P', 'Majumdar SS']	
+28775764	['Musyimi CW', 'Mutiso VN', 'Ndetei DM', 'Unanue I', 'Desai D', 'Patel SG', 'Musau AM', 'Henderson DC', 'Nandoya ES', 'Bunders J']	
+28775654	['Fungo B', 'Lehmann J', 'Kalbitz K', 'Tenywa M', 'Thionģo M', 'Neufeldt H']	
+2877539
+28774885	['Paganini D', 'Uyoga MA', 'Kortman GAM', 'Cercamondi CI', 'Moretti D', 'Barth-Jaeggi T', 'Schwab C', 'Boekhorst J', 'Timmerman HM', 'Lacroix C', 'Karanja S', 'Zimmermann MB']	
+28774873	['Mramba L', 'Ngari M', 'Mwangome M', 'Muchai L', 'Bauni E', 'Walker AS', 'Gibb DM', 'Fegan G', 'Berkley JA']		20
+28774694	['Cole DC', 'Govender NP', 'Chakrabarti A', 'Sacarlal J', 'Denning DW']	
+28774306	['Yamin AE', 'Maleche A']	
+2877
+2877
+2877
+2877
