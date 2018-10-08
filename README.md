@@ -1,8 +1,13 @@
 # Status of open science in Kenya: Data mining
 
+
+## Background
 Goal: Data mining to discover trends in Open Science in Kenya
 
-In the past we had a workshop held on 9th and 10th August 2017 at the KENET training room, Jomo Kenyatta Memorial Library, the University of Nairobi for more information visit this [github page](https://bioinfonet.github.io/OpenScienceKE/). 
+In the past we had a workshop held on 9th and 10th August 2017 at the KENET training room, Jomo Kenyatta Memorial Library, the University of Nairobi for more information visit this [github page](https://bioinfonet.github.io/OpenScienceKE/). This is one of the projects from the [#OpenScienceKEHackathon](https://github.com/BioinfoNet/OpenScienceKEHackathon). 
+
+
+Find the schedule using this link [Open Science KE hackathon](https://github.com/BioinfoNet/OpenScienceKEHackathon/blob/master/hackathonschedule.md) and find the hackathon repository here [repository](https://github.com/BioinfoNet/OpenScienceKEHackathon). Initial discussions about the topics that will covered in the hackathon [open discussions](https://github.com/BioinfoNet/OpenScienceKEHackathon/issues)
 
 ## Agenda
 
@@ -16,27 +21,21 @@ We’ll be exploring various sources to discover the status of open science in K
 
 
 ## Team members 
-
-* Ben Mainye (Group Leader)
+* caleb Kibet (Project Lead)
+* Ben Mainye (Team Lead)
 * Charles Kamonde Mwangi
 * Mary Maranga
 * Silviane Miruka
 * Rostand Romeo Chamedjeu
-* Brian Kabunga Andika
 * Careen Naitore
 
-Feel free to go through the resources before 30th and 31st August. In case of anything reach out if you have any comments or questions.
 
-Initial discussions about the topics that will covered in the hackathon [open discussions](https://github.com/BioinfoNet/OpenScienceKEHackathon/issues)
+## To Contribute
 
+Thank you for your interest in this project. To contribute, have a look at the open issues in need of help. 
 
-Find the schedule using this link [Open Science KE hackathon](https://github.com/BioinfoNet/OpenScienceKEHackathon/blob/master/hackathonschedule.md) and find the hackathon repository here [repository](https://github.com/BioinfoNet/OpenScienceKEHackathon)
 
 NB: This repository will be updated from time to time click on watch icon to stay up-to-date.
-
-## Day 1
-
-## Day 2
 
 ## License
 All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
