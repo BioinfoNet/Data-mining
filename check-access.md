@@ -20,6 +20,8 @@ do
 efetch -db pubmed -id $line -format xml | xtract -pattern ArticleIdList -element ArticleId ; 
 
 done   < Data/Papers_PMIDs.txt| cut -f1,4 >> Data/pmid_pmc_check.txt
+
+
 ```
 
 The above snippet is run as `./fetch_pmc.sh >> Data/pmc_pmid.txt` on the command line. NB: This script is memory intensive, and takes very long to complete. 
@@ -31,7 +33,19 @@ We extracted those details using the bash script:
 ```
 grep 'doi:' abstracts.txt| sed 's/;/./g' |cut -f 2,3 -d'.' |cut -f1 -d':' >Data/Journal_Year.txt
 ```
+Turns out the above command doesn't get us all the papers. So we are testing a new apprach:
 
+```
+grep '^[1-9]*[0-9]*[0-9]\. ' abstracts.txt | grep '\. [1-2]' >prelim_headers 
+```
+
+The `prelim_headers` file contains preliminary header info, from which we would want to etract the journal and date of publication details. However, this file is missing data for some PMIDs. Therefore, we are exploring the use of `awk` to extract the PMID and journal info so that they can be safely joined to the `pmid_pmc_check.txt` file. 
+
+#### Retracted papers
+we also note that retracted articles exits, which wil not be captured by our commands above. 
+
+
+##### Combine the files
 Next, we combine these details with the PMIDs into one file using:
 
 `paste -d'.' Data/pmid_pmc.txt Data/Journal_Year.txt |sed "s/\./\\t/g" >Data/PMID_PMC_Journal_Year.txt`
