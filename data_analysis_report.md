@@ -13,7 +13,7 @@ So far, this is what we have obersved.
 #### Popular Journals for Kenyan Authors
 ![Image](plots/papers_per_jornal.png)
 
-From the figure above, we can observe that Plos One is the most popular Journal for Kenyan Authors. This is followed in a distant second by Malaria Journal. It is also quite interesting to see that the Welcome Open Research has gained popularity for Kenyan Authors. Most of these are journals specific to the diseases affecting Africa: Malaria and Negelected Tropical dieseases. 
+From the figure above, we can observe that the East Africa Medical Journal is by far the most popular follwed by Plos One Journal for Kenyan Authors. This is followed in a distant second by Malaria Journal. Most of these are journals specific to the diseases affecting Africa: Malaria and Negelected Tropical dieseases. 
 
 
 ### Number of Journals per Year
@@ -23,3 +23,5 @@ Now we need to check if the number of Journals Published By Kenyans over the yea
 ![peryear](plots/papers_per_year.png)
 
 From the above figure, either we are missing some data from before 2007, of there was a sharp increase in publications starting 2008. Eitherway, we need to figure out why. 
+
+**NB:** After double checking the data, we observe that the plot now makes sense.
