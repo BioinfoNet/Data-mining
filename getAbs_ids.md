@@ -6,13 +6,14 @@ with Kenya in the author affiliation.
 
 ----
 
-```esearch -db pubmed -query "Kenya[Affiliation]" | \
+```
+$ esearch -db pubmed -query "Kenya[Affiliation]" | \
 	efetch -format abstract > kenpaps.txt
 	grep "PMID:" kenpaps.txt | cut -f2 -d' ' > kenpmids.txt
-#	| xargs | sed 's/ /,/g' > Kenpmids.txt
+	#| xargs | sed 's/ /,/g' > Kenpmids.txt
 ```
 ---
-You can uncomment this line and pipe the previous line ```| xargs | sed 's/ /,/g' > Kenpmids.txt```
+You can uncomment the line ```| xargs | sed 's/ /,/g' > Kenpmids.txt``` and pipe the previous line
 to it in order to convert the list of IDs into
 an efetch compartible format (e.g. 26895239,26894324,26893967,26892879)
 
