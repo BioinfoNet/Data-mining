@@ -25,13 +25,13 @@ relating to the same amount of papers with Kenyan authors.
 Also attached is a file of all the abstracts for the 13473 papers.
 
 ## Reason for Suggested search Strategy
-The search strategy that returned the over 25000 papers was based on searching Kenya as 
+The search strategy that returned the over 25000 papers was based on searching ***Kenya*** as 
 a search term.
 
 That is 
  ```esearch -db pubmed -query "Kenya"```
 This strategy searches ***Kenya*** in all fields and medical subject headings of the PubMed 
-records. and returns the combined results.
+records and returns the combined results.
 
 That is
  ```"kenya"[MeSH Terms] OR "kenya"[All Fields]```
@@ -39,3 +39,13 @@ That is
 Hence, we would not have accomplished our goal to fetch only papers that Kenyans are 
 invovled in as authors.
 
+---
+***NB: *** 
+The search strategy ```[Open science] AND Kenya``` translates to 
+
+```
+(Open[All Fields] AND ("science"[MeSH Terms] OR "science"[All Fields])) AND ("kenya"[MeSH Terms] 
+OR "kenya"[All Fields])
+```
+
+And it returns only 90 records.
