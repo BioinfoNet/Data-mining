@@ -21,3 +21,5 @@ code that returns the abstract should be enough and no need to fetch the PMIDs.
 
 And from the line count in the _kenpmids.txt file_, we can see there are ***13473*** PMIDs relating
 to the same amount of papers with Kenyan authors.
+
+Also attached is a file of all the abstracts for the 13473 papers.
