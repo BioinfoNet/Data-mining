@@ -1,9 +1,10 @@
 ## Suggestion for the search strategy to fetch all papers in PubMed with Kenyan authors
+ 
+Considering that all authors (whether main authors or collaborating) are affiliated to
+particular institutions in various countries, we can leverage this to extract papers
+with Kenya in the author affiliation.
 
- Considering that all authors (whether main authors or collaborating) are affiliated to
- particular institutions in various countries, we can leverage this to extract papers
- with Kenya in the author affiliation.
----
+----
 
 ```esearch -db pubmed -query "Kenya[Affiliation]" | \
 	efetch -format abstract > kenpaps.txt
