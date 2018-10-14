@@ -1,12 +1,12 @@
 ### Status of Open Science in Kenya: Data Analysis Report
 
 So we managed to download about 25,000 paper abstracts with meta-data from Kenyan Authors. 
-Now we need to makse sense of these data and identify trends. We are asking questions like:
+Now we need to make sense of these data and identify trends. We are asking questions like:
 
 1. Changes in the number of papers published over time (Yearly)
 2. Changes in the number of open acces papers over the years (Keep in mind that access of the 
 lack thereof maybe linked to embargo periods)
-3. Colaboration trends (How can we get this information?)
+3. Collaboration trends (How can we get this information?)
 4. What else can we find out?
 
 So far, this is what we have obersved. 
