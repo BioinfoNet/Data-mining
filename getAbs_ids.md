@@ -40,12 +40,13 @@ Hence, we would not have accomplished our goal to fetch only papers that Kenyans
 invovled in as authors.
 
 ---
-***NB: *** 
+### Note 
 The search strategy ```[Open science] AND Kenya``` translates to 
 
 ```
-(Open[All Fields] AND ("science"[MeSH Terms] OR "science"[All Fields])) AND ("kenya"[MeSH Terms] 
+(Open[All Fields] AND ("science"[MeSH Terms] OR 
+"science"[All Fields])) AND ("kenya"[MeSH Terms] 
 OR "kenya"[All Fields])
 ```
 
-And it returns only 90 records.
+And it returns only 140 records.
