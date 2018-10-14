@@ -18,3 +18,6 @@ an efetch compartible format (e.g. 26895239,26894324,26893967,26892879)
 
 If we are only interested in the abstract of all papers with Kenyan authors, then the above
 code that returns the abstract should be enough and no need to fetch the PMIDs.
+
+And from the line count in the _kenpmids.txt file_, we can see there are ***13473*** PMIDs relating
+to the same amount of papers with Kenyan authors.
