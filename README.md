@@ -1,5 +1,6 @@
 # Status of open science in Kenya: Data mining
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/BioinfoNet/Data-mining/master)
 
 ## Background
 Goal: Data mining to discover trends in Open Science in Kenya
