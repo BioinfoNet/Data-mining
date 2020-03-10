@@ -110,6 +110,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 10520364,East African medical journal,1999,7,NA,closed
 10520373,East African medical journal,1999,7,NA,closed
 10530193,Indian journal of dental research : official publication of Indian Society for Dental Research,NA,NA,NA,closed
+10535649,Journal of medical microbiology,1999,11,NA,closed
 10540306,Tropical medicine & international health : TM & IH,1999,9,NA,closed
 10558843,Veterinary journal (London England : 1997),1999,11,NA,closed
 10558945,The Journal of infectious diseases,1999,12,NA,closed
@@ -1049,6 +1050,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 15019587,Infection genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases,2004,3,NA,closed
 1502791,Veterinary parasitology,1992,3,NA,closed
 15036460,Journal of ethnopharmacology,2004,3,NA,closed
+15039533,The Journal of general virology,2004,4,NA,closed
 15040563,Tropical medicine & international health : TM & IH,2004,2,NA,closed
 15042138,European journal of clinical nutrition,2004,4,NA,closed
 15047999,Journal of postgraduate medicine,NA,NA,NA,closed
@@ -4792,6 +4794,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 24388468,American journal of infection control,2014,1,NA,closed
 24388651,Tuberculosis (Edinburgh Scotland),2013,12,NA,closed
 24389257,Frontiers in bioscience (Scholar edition),2014,1,NA,closed
+24396087,Journal of medical microbiology,2014,3,NA,closed
 24400011,Frontiers in plant science,2013,1,PMC3872047,open
 24409638,Tanzania journal of health research,2010,10,NA,closed
 24411302,The Journal of surgical research,2014,1,PMC4209841,open
@@ -4848,7 +4851,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 24475159,PloS one,2014,1,PMC3903588,open
 24478446,Medical law review,2014,1,NA,closed
 24482351,Archives of disease in childhood,2014,1,PMC3995214,open
-2448312,The Journal of cell biology,1988,2,NA,closed
+2448312,The Journal of cell biology,1988,2,PMC2114974,open
 24489678,PloS one,2014,1,PMC3904840,open
 24489903,PloS one,2014,1,PMC3906141,open
 24490085,ISRN oncology,2013,1,PMC3893746,open
@@ -9853,8 +9856,8 @@ Pmid,Journal,Year,Month,Pmcid,Status
 29353010,Parasitology international,2018,6,NA,closed
 29353495,AIDS care,2018,5,PMC6441111,open
 29354661,Open forum infectious diseases,2018,1,PMC5767951,open
-29355224,Gates open research,2017,1,PMC5771152.2,open
-29355231,Gates open research,2017,1,PMC5757790.2,open
+29355224,Gates open research,2017,1,PMC5771152,open
+29355231,Gates open research,2017,1,PMC5757790,open
 29355825,The Journal of molecular diagnostics : JMD,2018,3,NA,closed
 29357367,PloS one,2018,1,PMC5777648,open
 29357813,BMC genomics,2018,1,PMC5776780,open
@@ -10026,7 +10029,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 29506035,Journal of economic entomology,2018,4,NA,closed
 29506439,Global public health,2018,12,NA,closed
 29506583,Parasitology,2018,9,NA,closed
-29507022,BMJ case reports,2018,3,NA,closed
+29507022,BMJ case reports,2018,3,PMC5847992,open
 29507598,Annals of general psychiatry,2018,1,PMC5833144,open
 29507602,International breastfeeding journal,2018,1,PMC5833066,open
 29507742,Global mental health (Cambridge England),2018,1,PMC5827418,open
@@ -10405,7 +10408,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 2980182,Medical and veterinary entomology,1988,7,NA,closed
 2980193,Medical and veterinary entomology,1988,10,NA,closed
 29805197,Journal of psychopathology and behavioral assessment,2015,6,PMC5966035,open
-29806038,Wellcome open research,2018,1,PMC5954342.2,open
+29806038,Wellcome open research,2018,1,PMC5954342,open
 29806129,Journal of fish diseases,2018,1,NA,closed
 29807146,Brain research bulletin,2019,2,PMC6252289,open
 29808161,International journal of food science,2018,1,PMC5902010,open
@@ -11195,7 +11198,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 30428912,Journal of medical case reports,2018,11,PMC6236995,open
 30428944,Epidemiology and infection,2018,11,PMC6518569,open
 30429201,Global health science and practice,2018,12,PMC6370348,open
-30430140,Wellcome open research,2018,1,PMC6206618.3,open
+30430140,Wellcome open research,2018,1,PMC6206618,open
 30430230,Langenbeck's archives of surgery,2018,11,NA,closed
 30430980,The American journal of tropical medicine and hygiene,2019,1,PMC6329358,open
 30430982,The American journal of tropical medicine and hygiene,2019,1,PMC6329352,open
@@ -11266,8 +11269,8 @@ Pmid,Journal,Year,Month,Pmcid,Status
 30482677,The Lancet. Global health,2019,1,PMC6293072,open
 30482815,Medical humanities,2018,12,NA,closed
 30482895,Emerging microbes & infections,2018,11,PMC6258726,open
-30483597,Wellcome open research,2018,1,PMC6234735.2,open
-30483602,Wellcome open research,2018,1,PMC6234744.2,open
+30483597,Wellcome open research,2018,1,PMC6234735,open
+30483602,Wellcome open research,2018,1,PMC6234744,open
 30485379,PloS one,2018,1,PMC6261612,open
 30485533,Conservation biology : the journal of the Society for Conservation Biology,2019,8,NA,closed
 30486867,BMC health services research,2018,11,PMC6264027,open
@@ -11349,7 +11352,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 30541595,Reproductive health,2018,12,PMC6291975,open
 30542619,F1000Research,2018,1,PMC6259560,open
 30542658,Global pediatric health,2018,1,PMC6236581,open
-30542660,Wellcome open research,2017,1,PMC6281023.4,open
+30542660,Wellcome open research,2017,1,PMC6281023,open
 30542834,AIDS and behavior,2019,4,NA,closed
 30543640,PloS one,2018,1,PMC6292585,open
 30543661,PloS one,2018,1,PMC6292625,open
@@ -11448,7 +11451,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 30606161,BMC public health,2019,1,PMC6318910,open
 30606316,The international journal of tuberculosis and lung disease : the official journal of the International Union against Tuberculosis and Lung Disease,2018,12,PMC6364692,open
 30607173,Infectious agents and cancer,2018,1,PMC6303973,open
-30607370,Wellcome open research,2018,1,PMC6305232.2,open
+30607370,Wellcome open research,2018,1,PMC6305232,open
 30608195,Annals of human biology,NA,NA,NA,closed
 30608930,PLoS neglected tropical diseases,2019,1,PMC6343939,open
 30609090,Statistics in medicine,2019,5,PMC7045125,open
@@ -11556,7 +11559,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 30694143,Plant disease,2016,2,NA,closed
 30696446,BMC health services research,2019,1,PMC6350356,open
 30696449,BMC medicine,2019,1,PMC6352425,open
-30696752,Sexually transmitted infections,2019,9,NA,closed
+30696752,Sexually transmitted infections,2019,9,PMC7053826,open
 30698115,The Proceedings of the Nutrition Society,2019,11,NA,closed
 30698696,Health policy and planning,2019,2,PMC6479825,open
 30699207,PloS one,2019,1,PMC6353544,open
@@ -11571,7 +11574,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 30704666,Clinical radiology,2019,5,NA,closed
 30705394,International journal of obesity (2005),2019,4,PMC6445763,open
 30705692,International journal of mental health systems,2019,1,PMC6348676,open
-30706056,Gates open research,2018,1,PMC6350506.2,open
+30706056,Gates open research,2018,1,PMC6350506,open
 30708110,Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association,2019,10,PMC6682466,open
 30709088,International journal of health policy and management,2018,12,PMC6358659,open
 30709344,BMC women's health,2019,2,PMC6359762,open
@@ -11993,7 +11996,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31016199,BioMed research international,2019,1,PMC6448332,open
 31018754,Journal of the International Association of Providers of AIDS Care,NA,NA,PMC6748465,open
 31019905,Frontiers in public health,2019,1,PMC6458272,open
-31020048,Wellcome open research,2018,1,PMC6464063.2,open
+31020048,Wellcome open research,2018,1,PMC6464063,open
 31020687,American journal of primatology,2019,7,NA,closed
 31021985,Journal of acquired immune deficiency syndromes (1999),2019,8,PMC6738623,open
 31021991,Journal of acquired immune deficiency syndromes (1999),2019,8,PMC6625875,open
@@ -12044,7 +12047,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31053069,BMC public health,2019,1,PMC6498661,open
 31053362,Journal of pediatric surgery,2019,10,NA,closed
 31054214,International journal of cancer,2020,2,PMC6829037,open
-31054968,Clinical immunology (Orlando Fla.),2019,1,NA,closed
+31054968,Clinical immunology (Orlando Fla.),2020,3,NA,closed
 31057048,The journal of vascular access,2019,11,NA,closed
 31057179,Euphytica: Netherlands journal of plant breeding,2019,1,PMC6445404,open
 31057209,Agricultural systems,2019,1,PMC6472611,open
@@ -12081,7 +12084,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31081392,Disability and rehabilitation,2019,1,PMC6848752,open
 31084269,Global public health,2019,10,NA,closed
 31084819,Sexual & reproductive healthcare : official journal of the Swedish Association of Midwives,2019,6,NA,closed
-31085910,Public health genomics,2018,1,NA,closed
+31085910,Public health genomics,2018,1,PMC7050665,open
 31086619,The Pan African medical journal,2018,1,PMC6488244,open
 31086991,The Journal of infectious diseases,2019,8,PMC6688057,open
 31087650,International journal of cancer,2020,3,NA,closed
@@ -12108,7 +12111,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31101811,Nature communications,2019,5,PMC6525170,open
 31102651,Insect biochemistry and molecular biology,2019,7,NA,closed
 31102899,Journal of environmental management,2019,8,NA,closed
-31103452,Current problems in pediatric and adolescent health care,2019,1,NA,closed
+31103452,Current problems in pediatric and adolescent health care,2019,5,NA,closed
 31104765,Seminars in perinatology,2019,8,NA,closed
 31105716,Frontiers in plant science,2019,1,PMC6494956,open
 31105735,Frontiers in genetics,2019,1,PMC6491883,open
@@ -12117,7 +12120,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31106735,Lancet (London England),2019,5,NA,closed
 31109598,Journal of trace elements in medicine and biology : organ of the Society for Minerals and Trace Elements (GMS),2019,7,NA,closed
 31109881,The Lancet. Global health,2019,7,PMC6560024,open
-31111870,Clinical infectious diseases : an official publication of the Infectious Diseases Society of America,2019,1,NA,closed
+31111870,Clinical infectious diseases : an official publication of the Infectious Diseases Society of America,2020,3,NA,closed
 31114603,Frontiers in plant science,2019,1,PMC6503115,open
 31115309,The American journal of tropical medicine and hygiene,2019,7,PMC6609178,open
 31115348,JMIR mHealth and uHealth,2019,5,PMC6547768,open
@@ -12131,7 +12134,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31122984,BMJ open,2019,5,PMC6538199,open
 31123694,Open forum infectious diseases,2019,1,PMC6524828,open
 31124804,The journal of physician assistant education : the official journal of the Physician Assistant Education Association,2019,6,NA,closed
-31126742,Current problems in pediatric and adolescent health care,2019,1,NA,closed
+31126742,Current problems in pediatric and adolescent health care,2019,5,NA,closed
 31127672,Global change biology,2019,9,NA,closed
 31129123,The Lancet. Global health,2019,7,NA,closed
 31129126,The Lancet. Global health,2019,7,PMC6560003,open
@@ -12276,7 +12279,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31223401,The Pan African medical journal,2019,1,PMC6560948,open
 31223409,The Pan African medical journal,2019,1,PMC6560955,open
 3122362,Tissue & cell,1987,1,NA,closed
-31223663,Wellcome open research,2019,1,PMC6557001.2,open
+31223663,Wellcome open research,2019,1,PMC6557001,open
 31227824,International health,2020,2,NA,closed
 31229001,The Lancet. Planetary health,2019,6,PMC6630895,open
 31231064,The Lancet. Global health,2019,8,NA,closed
@@ -12509,7 +12512,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31372060,International journal of women's health,2019,1,PMC6636186,open
 31372329,Preventive medicine reports,2019,9,PMC6660566,open
 31372462,Data in brief,2019,4,PMC6661252,open
-31372502,Wellcome open research,2019,1,PMC6662685.2,open
+31372502,Wellcome open research,2019,1,PMC6662685,open
 31372539,Heliyon,2019,7,PMC6658733,open
 31374074,PLoS medicine,2019,8,PMC6677296,open
 31374090,PloS one,2019,1,PMC6677318,open
@@ -12564,7 +12567,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31405092,Toxins,2019,8,PMC6722829,open
 31406599,BMJ global health,2019,1,PMC6666806,open
 31407393,Microbiology and immunology,2019,9,NA,closed
-31407653,The American journal of tropical medicine and hygiene,2019,12,NA,closed
+31407653,The American journal of tropical medicine and hygiene,2019,12,PMC6896894,open
 31408031,Journal of acquired immune deficiency syndromes (1999),2019,9,PMC6697133,open
 31408470,PloS one,2019,1,PMC6692026,open
 31409297,BMC pregnancy and childbirth,2019,8,PMC6693232,open
@@ -12612,9 +12615,9 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31437508,International journal of biological macromolecules,2019,11,NA,closed
 31438049,Studies in health technology and informatics,2019,8,NA,closed
 31438604,Genes,2019,8,PMC6769854,open
-31439073,Bulletin of entomological research,2019,8,NA,closed
+31439073,Bulletin of entomological research,2020,4,NA,closed
 31439117,The international journal of tuberculosis and lung disease : the official journal of the International Union against Tuberculosis and Lung Disease,2019,7,NA,closed
-31439762,Science (New York N.Y.),2019,8,NA,closed
+31439762,Science (New York N.Y.),2019,8,PMC7056351,open
 31439796,Science (New York N.Y.),2019,8,NA,closed
 3143989,Parasitology,1988,10,NA,closed
 31440538,Data in brief,2019,8,PMC6700338,open
@@ -12676,14 +12679,14 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31487271,JCI insight,2019,10,PMC6795402,open
 31487419,Plant biotechnology journal,2020,3,PMC7004897,open
 31487546,Journal of the American College of Cardiology,2019,10,PMC6788970,open
-31488026,AIDS care,2019,9,NA,closed
+31488026,AIDS care,2019,9,PMC7056540,open
 31488170,Reproductive health,2019,9,PMC6727395,open
 31488481,BMJ open,2019,9,PMC6731939,open
 31488534,Microbiology resource announcements,2019,9,PMC6728644,open
 31488643,The Veterinary record,2019,9,NA,closed
 31489183,Journal of global health,2019,12,PMC6708591,open
 31489351,Data in brief,2019,8,PMC6717167,open
-31489381,Wellcome open research,2019,1,PMC6719676.2,open
+31489381,Wellcome open research,2019,1,PMC6719676,open
 31490229,AIDS (London England),2019,9,NA,closed
 31490343,Journal of acquired immune deficiency syndromes (1999),2019,12,PMC6831040,open
 31492134,BMC health services research,2019,9,PMC6729061,open
@@ -12875,7 +12878,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31606483,The Journal of allergy and clinical immunology,2020,1,NA,closed
 31607462,The Lancet. Global health,2019,11,NA,closed
 31610898,Neural networks : the official journal of the International Neural Network Society,2019,12,NA,closed
-31613791,JMIR mHealth and uHealth,2019,10,NA,closed
+31613791,JMIR mHealth and uHealth,2019,10,PMC6913717,open
 31614721,International journal of environmental research and public health,2019,10,PMC6843620,open
 31615300,Journal of the International Association of Providers of AIDS Care,NA,NA,PMC6900609,open
 31615537,BMC infectious diseases,2019,10,PMC6794895,open
@@ -12888,7 +12891,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31620482,International journal of veterinary science and medicine,2019,1,PMC6776985,open
 31620892,Environmental monitoring and assessment,2019,10,NA,closed
 31621083,Journal of basic microbiology,2019,12,NA,closed
-31621953,The International journal of health planning and management,2020,1,NA,closed
+31621953,The International journal of health planning and management,2020,1,PMC7043382,open
 31622339,PLoS neglected tropical diseases,2019,10,PMC6818805,open
 31622790,Preventive veterinary medicine,2019,11,NA,closed
 31623290,Plants (Basel Switzerland),2019,10,PMC6843271,open
@@ -12959,14 +12962,14 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31667849,Journal of child psychology and psychiatry and allied disciplines,2019,10,NA,closed
 31671757,Nutrients,2019,10,PMC6893608,open
 31673053,Scientific reports,2019,10,PMC6823466,open
-31674301,The American journal of tropical medicine and hygiene,2019,12,NA,closed
+31674301,The American journal of tropical medicine and hygiene,2019,12,PMC6896871,open
 31675938,BMC psychiatry,2019,11,PMC6825356,open
 31675972,Reproductive health,2019,11,PMC6823951,open
 31676401,Journal of ethnopharmacology,2020,2,NA,closed
 31676905,Clinical infectious diseases : an official publication of the Infectious Diseases Society of America,2019,11,NA,closed
 31677349,The Journal of infectious diseases,2020,1,NA,closed
 31677638,Nutrition journal,2019,11,PMC6825715,open
-31679104,Food and environmental virology,2019,11,NA,closed
+31679104,Food and environmental virology,2020,3,PMC7052051,open
 31679482,Global health action,2019,1,PMC6844432,open
 31680708,Soil & tillage research,2019,11,PMC6743212,open
 31681266,Frontiers in immunology,2019,1,PMC6798654,open
@@ -13019,7 +13022,7 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31708804,Frontiers in psychiatry,2019,1,PMC6824151,open
 31708964,Frontiers in genetics,2019,1,PMC6822600,open
 31709527,International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics,2020,3,NA,closed
-31709786,Zoological research,2020,1,NA,closed
+31709786,Zoological research,2020,1,PMC6956721,open
 31712089,International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases,2020,2,NA,closed
 31713106,Primates; journal of primatology,2020,1,NA,closed
 31714141,The Onderstepoort journal of veterinary research,2019,11,PMC6852549,open
@@ -13066,19 +13069,19 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31742234,Global health research and policy,2019,1,PMC6849318,open
 3174238,Parasitology,1988,8,NA,closed
 31743375,PloS one,2019,1,PMC6863537,open
-31743859,The International journal on drug policy,2020,1,NA,closed
+31743859,The International journal on drug policy,2020,1,PMC7050447,open
 31743899,Annals of nutrition & metabolism,2019,1,NA,closed
 31744045,Insects,2019,11,PMC6920753,open
 31744266,Journal of clinical medicine,2019,11,PMC6912763,open
 31746311,The American journal of tropical medicine and hygiene,2020,1,PMC6947802,open
-31747411,PLoS neglected tropical diseases,2019,11,NA,closed
+31747411,PLoS neglected tropical diseases,2019,11,PMC6867600,open
 31747807,Stress (Amsterdam Netherlands),2019,12,NA,closed
 31747850,Global health action,2019,1,PMC6882463,open
 31748534,Blood cancer journal,2019,11,PMC6868231,open
 31748995,Environmental science and pollution research international,2020,1,PMC6994457,open
 31749840,Frontiers in genetics,2019,1,PMC6844187,open
 31751377,PloS one,2019,1,PMC6872147,open
-31752274,International journal of environmental research and public health,2019,11,NA,closed
+31752274,International journal of environmental research and public health,2019,11,PMC6888547,open
 31752872,BMC health services research,2019,11,PMC6873397,open
 31754527,SA journal of radiology,2019,1,PMC6837820,open
 31755021,Journal of chemical ecology,2019,12,NA,closed
@@ -13116,8 +13119,8 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31772772,Journal of nutrition and metabolism,2019,1,PMC6854959,open
 31774234,Pediatric blood & cancer,2019,11,NA,closed
 31774823,PloS one,2019,1,PMC6881000,open
-31774832,PloS one,2019,1,NA,closed
-31774842,PloS one,2019,1,NA,closed
+31774832,PloS one,2019,1,PMC6881063,open
+31774842,PloS one,2019,1,PMC6881007,open
 31775581,Food additives & contaminants. Part B Surveillance,2020,3,NA,closed
 31775837,Critical care (London England),2019,11,PMC6882199,open
 31775877,Infectious diseases of poverty,2019,11,PMC6882336,open
@@ -13146,10 +13149,10 @@ Pmid,Journal,Year,Month,Pmcid,Status
 31790408,PLoS neglected tropical diseases,2019,12,PMC6907864,open
 31791273,BMC infectious diseases,2019,12,PMC6889180,open
 31791358,Human resources for health,2019,12,PMC6889551,open
-31792230,Scientific reports,2019,12,NA,closed
-31792246,Scientific reports,2019,12,NA,closed
+31792230,Scientific reports,2019,12,PMC6889308,open
+31792246,Scientific reports,2019,12,PMC6888819,open
 31794332,Current medical research and opinion,2020,2,NA,closed
-31794518,AIDS (London England),2020,3,NA,closed
+31794518,AIDS (London England),2020,3,PMC7050370,open
 31794520,AIDS (London England),2020,3,NA,closed
 31795739,Cancer control : journal of the Moffitt Cancer Center,NA,NA,PMC6893940,open
 31795999,BMC public health,2019,12,PMC6892244,open
