@@ -1,0 +1,195 @@
+Afghanistan	0
+Albania	0
+Algeria	0
+Andorra	0
+Angola	2
+Antigua & Deps	0
+Argentina	18
+Armenia	6
+Australia	209
+Austria	70
+Azerbaijan	0
+Bahamas	0
+Bahrain	0
+Bangladesh	11
+Barbados	0
+Belarus	2
+Belgium	55
+Belize	0
+Benin	3
+Bhutan	0
+Bolivia	1
+Bosnia Herzegovina	0
+Botswana	3
+Brazil	67
+Brunei	1
+Bulgaria	6
+Burkina	6
+Burundi	0
+Cambodia	11
+Cameroon	5
+Canada	191
+Cape Verde	0
+Central African Rep	0
+Chad	0
+Chile	54
+China	232
+Colombia	18
+Comoros	0
+Congo	2
+Congo {Democratic Rep}	0
+Costa Rica	8
+Croatia	9
+Cuba	3
+Cyprus	13
+Czech Republic	31
+Denmark	138
+Djibouti	0
+Dominica	0
+Dominican Republic	3
+East Timor	0
+Ecuador	4
+Egypt	6
+El Salvador	1
+Equatorial Guinea	0
+Eritrea	0
+Estonia	14
+Ethiopia	1
+Fiji	1
+Finland	116
+France	266
+Gabon	2
+Gambia	6
+Georgia	218
+Germany	356
+Ghana	8
+Greece	19
+Grenada	0
+Guatemala	3
+Guinea	8
+Guinea-Bissau	0
+Guyana	1
+Haiti	0
+Honduras	4
+Hungary	19
+Iceland	33
+India	104
+Indonesia	3
+Iran	28
+Iraq	0
+Ireland {Republic}	0
+Israel	99
+Italy	129
+Ivory Coast	0
+Jamaica	3
+Japan	110
+Jordan	1
+Kazakhstan	0
+Kenya	18
+Kiribati	0
+Korea North	0
+Korea South	0
+Kosovo	0
+Kuwait	4
+Kyrgyzstan	0
+Laos	3
+Latvia	3
+Lebanon	2
+Lesotho	0
+Liberia	2
+Libya	1
+Liechtenstein	1
+Lithuania	3
+Luxembourg	25
+Macedonia	4
+Madagascar	3
+Malawi	7
+Malaysia	24
+Maldives	0
+Mali	4
+Malta	2
+Marshall Islands	0
+Mauritania	0
+Mauritius	0
+Mexico	92
+Micronesia	0
+Moldova	1
+Monaco	3
+Mongolia	8
+Montenegro	0
+Morocco	0
+Mozambique	0
+Myanmar, {Burma}	0
+Namibia	1
+Nauru	0
+Nepal	3
+Netherlands	163
+New Zealand	35
+Nicaragua	0
+Niger	0
+Nigeria	16
+Norway	50
+Oman	2
+Pakistan	12
+Palau	0
+Panama	2
+Papua New Guinea	4
+Paraguay	2
+Peru	12
+Philippines	5
+Poland	25
+Portugal	35
+Qatar	18
+Romania	7
+Russian Federation	5
+Rwanda	1
+St Kitts & Nevis	0
+St Lucia	2
+Saint Vincent & the Grenadines	0
+Samoa	1
+San Marino	0
+Sao Tome & Principe	0
+Saudi Arabia	8
+Senegal	3
+Serbia	2
+Seychelles	1
+Sierra Leone	1
+Singapore	168
+Slovakia	0
+Slovenia	4
+Solomon Islands	3
+Somalia	0
+South Africa	15
+South Sudan	0
+Spain	115
+Sri Lanka	2
+Sudan	0
+Suriname	0
+Swaziland	1
+Sweden	73
+Switzerland	143
+Syria	0
+Taiwan	35
+Tajikistan	0
+Tanzania	11
+Thailand	13
+Togo	2
+Tonga	0
+Trinidad & Tobago	0
+Tunisia	1
+Turkey	24
+Turkmenistan	0
+Tuvalu	0
+Uganda	15
+Ukraine	4
+United Arab Emirates	3
+United Kingdom	112
+United States	273
+Uruguay	1
+Uzbekistan	1
+Vanuatu	0
+Vatican City	0
+Venezuela	6
+Vietnam	13
+Yemen	1
+Zambia	3
