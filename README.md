@@ -1,5 +1,6 @@
 # Status of open science in Kenya: Data mining
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/BioinfoNet/Data-mining/master)
 
 ## Background
 Goal: Data mining to discover trends in Open Science in Kenya
@@ -20,10 +21,11 @@ We’ll be exploring various sources to discover the status of open science in K
 4. EBI web service https://europepmc.org/docs/EBI_Europe_PMC_Web_Service_Reference.pdf
 5. NVM  https://europepmc.org/docs/EBI_Europe_PMC_Web_Service_Reference.pdf
 6. code-cite https://github.com/softwaresaved/code-cite/blob/master/notebooks/getpapers.ipynb
+7. Biopython https://biopython.org
 
 
 ## Team members 
-* caleb Kibet (Project Lead)
+* Caleb Kibet (Project Lead)
 * Ben Mainye (Team Lead)
 * Charles Kamonde Mwangi
 * Mary Maranga
